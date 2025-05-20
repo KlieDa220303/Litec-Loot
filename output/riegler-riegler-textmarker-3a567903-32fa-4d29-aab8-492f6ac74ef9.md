@@ -11,5 +11,5 @@ category: 'Stift'
 >
 > Stift
 
-![Riegler Textmarker](assets\riegler-riegler-textmarker-3a567903-32fa-4d29-aab8-492f6ac74ef9.jpg)
+![Riegler Textmarker](./assets/riegler-riegler-textmarker-3a567903-32fa-4d29-aab8-492f6ac74ef9.jpg)
 3 eckiger textmarker

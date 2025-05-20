@@ -11,5 +11,5 @@ category: 'Spielzeug'
 >
 > Spielzeug
 
-![Regius Frisbee](assets\regius-regius-frisbee-68f0ee4f-c424-40df-a1c3-7ad56115299d.jpg)
+![Regius Frisbee](./assets/regius-regius-frisbee-68f0ee4f-c424-40df-a1c3-7ad56115299d.jpg)
 kleine Frisbee

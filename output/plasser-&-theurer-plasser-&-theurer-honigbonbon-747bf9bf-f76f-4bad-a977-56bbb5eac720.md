@@ -11,5 +11,5 @@ category: 'S��igkeiten'
 >
 > S��igkeiten
 
-![Plasser & Theurer Honigbonbon](assets\plasser-&-theurer-plasser-&-theurer-honigbonbon-747bf9bf-f76f-4bad-a977-56bbb5eac720.jpg)
+![Plasser & Theurer Honigbonbon](./assets/plasser-&-theurer-plasser-&-theurer-honigbonbon-747bf9bf-f76f-4bad-a977-56bbb5eac720.jpg)
 Gut f�r den Hals

@@ -11,5 +11,5 @@ category: 'Schreibzeug'
 >
 > Schreibzeug
 
-![Plasser & Theurer Kugelschreiber](assets\plasser-&-theurer-plasser-&-theurer-kugelschreiber-fed360b1-f444-48be-8114-5a69e8fc77a2.jpg)
+![Plasser & Theurer Kugelschreiber](./assets/plasser-&-theurer-plasser-&-theurer-kugelschreiber-fed360b1-f444-48be-8114-5a69e8fc77a2.jpg)
 Version 2

@@ -11,5 +11,5 @@ category: 'Erste Hilfe'
 >
 > Erste Hilfe
 
-![Starlim erste hilfe kasten](assets\starlim-starlim-erste-hilfe-kasten-7bd32f9a-7457-409a-a051-051e02939d48.jpg)
+![Starlim erste hilfe kasten](./assets/starlim-starlim-erste-hilfe-kasten-7bd32f9a-7457-409a-a051-051e02939d48.jpg)
 giter erste hilfe kasten

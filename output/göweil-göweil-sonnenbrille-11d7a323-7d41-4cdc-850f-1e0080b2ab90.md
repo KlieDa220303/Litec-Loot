@@ -11,5 +11,5 @@ category: 'Sonnenbrille'
 >
 > Sonnenbrille
 
-![G�weil Sonnenbrille](assets\g�weil-g�weil-sonnenbrille-11d7a323-7d41-4cdc-850f-1e0080b2ab90.jpg)
+![G�weil Sonnenbrille](./assets/g�weil-g�weil-sonnenbrille-11d7a323-7d41-4cdc-850f-1e0080b2ab90.jpg)
 Sonnenbrille

@@ -11,5 +11,5 @@ category: 'Getr�nke'
 >
 > Getr�nke
 
-![Pfanner Saft](assets\pfanner-pfanner-saft-9ea69e9a-4149-477e-9d0e-4f859fd1dd89.jpg)
+![Pfanner Saft](./assets/pfanner-pfanner-saft-9ea69e9a-4149-477e-9d0e-4f859fd1dd89.jpg)
 yum

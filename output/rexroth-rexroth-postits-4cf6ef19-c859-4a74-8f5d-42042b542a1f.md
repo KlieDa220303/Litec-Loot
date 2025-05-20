@@ -11,5 +11,5 @@ category: 'Block'
 >
 > Block
 
-![rexroth postits](assets\rexroth-rexroth-postits-4cf6ef19-c859-4a74-8f5d-42042b542a1f.jpg)
+![rexroth postits](./assets/rexroth-rexroth-postits-4cf6ef19-c859-4a74-8f5d-42042b542a1f.jpg)
 standard postits

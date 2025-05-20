@@ -11,5 +11,5 @@ category: 'Stift'
 >
 > Stift
 
-![Riegler Stift](assets\riegler-riegler-stift-fe81d538-3003-4781-bedb-1662a6162a2d.jpg)
+![Riegler Stift](./assets/riegler-riegler-stift-fe81d538-3003-4781-bedb-1662a6162a2d.jpg)
 standard kulli

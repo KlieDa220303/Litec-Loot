@@ -11,5 +11,5 @@ category: 'Getr�nk'
 >
 > Getr�nk
 
-![Kreuzpointner Getr�nk](assets\kreuzpointner-kreuzpointner-getr�nk-9e4f9548-27a2-4950-a402-92b3a5b439ed.jpg)
+![Kreuzpointner Getr�nk](./assets/kreuzpointner-kreuzpointner-getr�nk-9e4f9548-27a2-4950-a402-92b3a5b439ed.jpg)
 yummy

@@ -11,5 +11,5 @@ category: 'Stift'
 >
 > Stift
 
-![G�weil Stift](assets\g�weil-g�weil-stift-9f7b6982-eec8-410e-bbfe-69f082652ede.jpg)
+![G�weil Stift](./assets/g�weil-g�weil-stift-9f7b6982-eec8-410e-bbfe-69f082652ede.jpg)
 Stift

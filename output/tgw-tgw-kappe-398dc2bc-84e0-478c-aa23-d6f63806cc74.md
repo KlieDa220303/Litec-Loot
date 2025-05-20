@@ -11,5 +11,5 @@ category: 'Kleidung'
 >
 > Kleidung
 
-![TGW Kappe](assets\tgw-tgw-kappe-398dc2bc-84e0-478c-aa23-d6f63806cc74.jpg)
+![TGW Kappe](./assets/tgw-tgw-kappe-398dc2bc-84e0-478c-aa23-d6f63806cc74.jpg)
 gute kappe

@@ -11,5 +11,5 @@ category: 'Messzeug'
 >
 > Messzeug
 
-![Beko Geodreieck](assets\beko-beko-geodreieck-9f22f0f4-b4e8-4c7d-a983-299fde685175.jpg)
+![Beko Geodreieck](./assets/beko-beko-geodreieck-9f22f0f4-b4e8-4c7d-a983-299fde685175.jpg)
 Geometrie dash referenz

@@ -11,5 +11,5 @@ category: 'Schl�sselanh�nger'
 >
 > Schl�sselanh�nger
 
-![G�weil schl�sselanh�nger](assets\g�weil-g�weil-schl�sselanh�nger-50219ab1-1d66-4dc8-b24f-8a4058815df4.jpg)
+![G�weil schl�sselanh�nger](./assets/g�weil-g�weil-schl�sselanh�nger-50219ab1-1d66-4dc8-b24f-8a4058815df4.jpg)
 zum anh�ngen von schl�ssel

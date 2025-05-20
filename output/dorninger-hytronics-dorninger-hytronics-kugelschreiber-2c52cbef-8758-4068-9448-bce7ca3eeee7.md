@@ -11,5 +11,5 @@ category: 'Schreibzeug'
 >
 > Schreibzeug
 
-![Dorninger Hytronics Kugelschreiber](assets\dorninger-hytronics-dorninger-hytronics-kugelschreiber-2c52cbef-8758-4068-9448-bce7ca3eeee7.jpg)
+![Dorninger Hytronics Kugelschreiber](./assets/dorninger-hytronics-dorninger-hytronics-kugelschreiber-2c52cbef-8758-4068-9448-bce7ca3eeee7.jpg)
 schreiben

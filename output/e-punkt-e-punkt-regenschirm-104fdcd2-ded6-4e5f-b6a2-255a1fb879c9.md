@@ -11,5 +11,5 @@ category: 'Schirme'
 >
 > Schirme
 
-![E Punkt Regenschirm](assets\e-punkt-e-punkt-regenschirm-104fdcd2-ded6-4e5f-b6a2-255a1fb879c9.jpg)
+![E Punkt Regenschirm](./assets/e-punkt-e-punkt-regenschirm-104fdcd2-ded6-4e5f-b6a2-255a1fb879c9.jpg)
 sch�tz vor Regen

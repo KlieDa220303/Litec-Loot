@@ -11,5 +11,5 @@ category: 'Ohrst�psel'
 >
 > Ohrst�psel
 
-![Lenze Ohrst�psel](assets\lenze-lenze-ohrst�psel-685d4b48-5d61-49dd-b738-7723ce8d2613.jpg)
+![Lenze Ohrst�psel](./assets/lenze-lenze-ohrst�psel-685d4b48-5d61-49dd-b738-7723ce8d2613.jpg)
 Ohrst�psel

@@ -11,5 +11,5 @@ category: 'Block'
 >
 > Block
 
-![Trench Block](assets\trench-trench-block-6945ea7f-3215-40ed-9687-3cd33c0374bd.jpg)
+![Trench Block](./assets/trench-trench-block-6945ea7f-3215-40ed-9687-3cd33c0374bd.jpg)
 block

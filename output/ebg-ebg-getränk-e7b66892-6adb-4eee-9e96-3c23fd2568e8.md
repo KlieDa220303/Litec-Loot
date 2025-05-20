@@ -11,5 +11,5 @@ category: 'Getr�nk'
 >
 > Getr�nk
 
-![EBG Getr�nk](assets\ebg-ebg-getr�nk-e7b66892-6adb-4eee-9e96-3c23fd2568e8.jpg)
+![EBG Getr�nk](./assets/ebg-ebg-getr�nk-e7b66892-6adb-4eee-9e96-3c23fd2568e8.jpg)
 yum

@@ -11,5 +11,5 @@ category: 'Sticker'
 >
 > Sticker
 
-![Trench Sticker](assets\trench-trench-sticker-c7378c82-0230-4924-87ec-db2a8b9f10fe.jpg)
+![Trench Sticker](./assets/trench-trench-sticker-c7378c82-0230-4924-87ec-db2a8b9f10fe.jpg)
 cool Sticker

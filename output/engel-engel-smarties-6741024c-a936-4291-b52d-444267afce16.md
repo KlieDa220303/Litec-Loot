@@ -11,5 +11,5 @@ category: 'S��igkeiten'
 >
 > S��igkeiten
 
-![Engel Smarties](assets\engel-engel-smarties-6741024c-a936-4291-b52d-444267afce16.jpg)
+![Engel Smarties](./assets/engel-engel-smarties-6741024c-a936-4291-b52d-444267afce16.jpg)
 choco

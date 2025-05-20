@@ -11,5 +11,5 @@ category: 'Schl�sselanh�nger'
 >
 > Schl�sselanh�nger
 
-![Plasser & Theurer Schl�sselanh�nger](assets\plasser-&-theurer-plasser-&-theurer-schl�sselanh�nger-dd11bbfb-a934-47af-a239-f2334fc623e7.jpg)
+![Plasser & Theurer Schl�sselanh�nger](./assets/plasser-&-theurer-plasser-&-theurer-schl�sselanh�nger-dd11bbfb-a934-47af-a239-f2334fc623e7.jpg)
 Anh�nger

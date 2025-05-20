@@ -11,5 +11,5 @@ category: 'Stift'
 >
 > Stift
 
-![Wolf Stift](assets\wolf-wolf-stift-6ddb6261-689c-450d-ad8d-7ffd4eccea77.jpg)
+![Wolf Stift](./assets/wolf-wolf-stift-6ddb6261-689c-450d-ad8d-7ffd4eccea77.jpg)
 standard kulli

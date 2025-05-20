@@ -11,5 +11,5 @@ category: 'Gesundheit'
 >
 > Gesundheit
 
-![Stiebel Eltron Tuch](assets\stiebel-eltron-stiebel-eltron-tuch-d0b201fb-46e4-4506-b16e-a6e9e93ec92b.jpg)
+![Stiebel Eltron Tuch](./assets/stiebel-eltron-stiebel-eltron-tuch-d0b201fb-46e4-4506-b16e-a6e9e93ec92b.jpg)
 zum abwischen

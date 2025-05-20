@@ -11,5 +11,5 @@ category: 'Multitool'
 >
 > Multitool
 
-![Lenze Multitool](assets\lenze-lenze-multitool-05a801ed-b003-4e81-9472-a022b05114cc.jpg)
+![Lenze Multitool](./assets/lenze-lenze-multitool-05a801ed-b003-4e81-9472-a022b05114cc.jpg)
 multitool gut

@@ -11,5 +11,5 @@ category: 'Schreibzeug'
 >
 > Schreibzeug
 
-![Trench Bleistift](assets\trench-trench-bleistift-db32830c-e238-4db9-8f7c-33750d800b81.jpg)
+![Trench Bleistift](./assets/trench-trench-bleistift-db32830c-e238-4db9-8f7c-33750d800b81.jpg)
 passt gut mit einem Radierer

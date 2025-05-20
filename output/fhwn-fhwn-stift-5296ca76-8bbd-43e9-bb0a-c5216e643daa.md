@@ -11,5 +11,5 @@ category: 'Stift'
 >
 > Stift
 
-![fhwn stift](assets\fhwn-fhwn-stift-5296ca76-8bbd-43e9-bb0a-c5216e643daa.jpg)
+![fhwn stift](./assets/fhwn-fhwn-stift-5296ca76-8bbd-43e9-bb0a-c5216e643daa.jpg)
 Stiiift

@@ -11,5 +11,5 @@ category: 'Stift'
 >
 > Stift
 
-![Spiratec stift](assets\spiratec-spiratec-stift-deaa054c-3ccc-462d-965f-6454ec9ae938.jpg)
+![Spiratec stift](./assets/spiratec-spiratec-stift-deaa054c-3ccc-462d-965f-6454ec9ae938.jpg)
 stift

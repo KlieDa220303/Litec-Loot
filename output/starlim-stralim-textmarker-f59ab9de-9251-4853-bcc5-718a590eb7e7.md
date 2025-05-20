@@ -11,5 +11,5 @@ category: 'Stift'
 >
 > Stift
 
-![Stralim textmarker](assets\starlim-stralim-textmarker-f59ab9de-9251-4853-bcc5-718a590eb7e7.jpg)
+![Stralim textmarker](./assets/starlim-stralim-textmarker-f59ab9de-9251-4853-bcc5-718a590eb7e7.jpg)
 standard textmarker

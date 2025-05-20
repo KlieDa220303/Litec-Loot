@@ -1,8 +1,17 @@
 ---
-import Welcome from "../components/Welcome.astro";
 import Layout from "../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+const products = await getCollection("products");
 ---
 
 <Layout>
-	<Welcome />
+	<ul>
+		{
+			products.map((product) => (
+				<li>
+					<a href={`/blog/${product.id}`}>{product.data.product}</a>
+				</li>
+			))
+		}
+	</ul>
 </Layout>

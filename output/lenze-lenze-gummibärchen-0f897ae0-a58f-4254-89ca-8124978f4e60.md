@@ -11,5 +11,5 @@ category: 'S��igkeiten'
 >
 > S��igkeiten
 
-![Lenze Gummib�rchen](assets\lenze-lenze-gummib�rchen-0f897ae0-a58f-4254-89ca-8124978f4e60.jpg)
+![Lenze Gummib�rchen](./assets/lenze-lenze-gummib�rchen-0f897ae0-a58f-4254-89ca-8124978f4e60.jpg)
 standard gummib�ren

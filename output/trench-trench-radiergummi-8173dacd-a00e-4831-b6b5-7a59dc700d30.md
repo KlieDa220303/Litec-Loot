@@ -11,5 +11,5 @@ category: 'Radierer'
 >
 > Radierer
 
-![Trench Radiergummi](assets\trench-trench-radiergummi-8173dacd-a00e-4831-b6b5-7a59dc700d30.jpg)
+![Trench Radiergummi](./assets/trench-trench-radiergummi-8173dacd-a00e-4831-b6b5-7a59dc700d30.jpg)
 erase your misstakes

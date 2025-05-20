@@ -11,5 +11,5 @@ category: 'Block'
 >
 > Block
 
-![Infineon Postits](assets\infineon-infineon-postits-d237dcc8-7b29-4a47-a689-a68abfa8a308.jpg)
+![Infineon Postits](./assets/infineon-infineon-postits-d237dcc8-7b29-4a47-a689-a68abfa8a308.jpg)
 standard postits

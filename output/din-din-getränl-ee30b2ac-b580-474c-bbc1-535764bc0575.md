@@ -11,5 +11,5 @@ category: 'Getr�nk'
 >
 > Getr�nk
 
-![Din Getr�nl](assets\din-din-getr�nl-ee30b2ac-b580-474c-bbc1-535764bc0575.jpg)
+![Din Getr�nl](./assets/din-din-getr�nl-ee30b2ac-b580-474c-bbc1-535764bc0575.jpg)
 energy drink

@@ -11,5 +11,5 @@ category: 'Spielzeug'
 >
 > Spielzeug
 
-![Starlim spielkarten](assets\starlim-starlim-spielkarten-9714f4a2-a562-40d1-983d-018a2bda738f.jpg)
+![Starlim spielkarten](./assets/starlim-starlim-spielkarten-9714f4a2-a562-40d1-983d-018a2bda738f.jpg)
 standard spielkarten

@@ -11,5 +11,5 @@ category: 'S��igkeiten'
 >
 > S��igkeiten
 
-![ABB gummib�ren](assets\abb-abb-gummib�ren-04343015-3b2a-4e31-a5ae-8efc0758f2a6.jpg)
+![ABB gummib�ren](./assets/abb-abb-gummib�ren-04343015-3b2a-4e31-a5ae-8efc0758f2a6.jpg)
 standard gummib�ren

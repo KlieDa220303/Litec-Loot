@@ -11,5 +11,5 @@ category: 'Elektronik'
 >
 > Elektronik
 
-![WFL Ringlicht](assets\wfl-wfl-ringlicht-70acfa30-f0d4-4079-b9e1-58289209e2c7.jpg)
+![WFL Ringlicht](./assets/wfl-wfl-ringlicht-70acfa30-f0d4-4079-b9e1-58289209e2c7.jpg)
 ringlicht gut

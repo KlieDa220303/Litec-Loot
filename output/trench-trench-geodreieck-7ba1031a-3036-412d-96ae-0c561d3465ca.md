@@ -11,5 +11,5 @@ category: 'Messzeug'
 >
 > Messzeug
 
-![Trench Geodreieck](assets\trench-trench-geodreieck-7ba1031a-3036-412d-96ae-0c561d3465ca.jpg)
+![Trench Geodreieck](./assets/trench-trench-geodreieck-7ba1031a-3036-412d-96ae-0c561d3465ca.jpg)
 geometry!

@@ -11,5 +11,5 @@ category: 'S��igkeiten'
 >
 > S��igkeiten
 
-![RM zuckerl](assets\rm-rm-zuckerl-286b3c82-c17f-4ec5-b096-8fbc9ec575c1.jpg)
+![RM zuckerl](./assets/rm-rm-zuckerl-286b3c82-c17f-4ec5-b096-8fbc9ec575c1.jpg)
 kleines zuckerl

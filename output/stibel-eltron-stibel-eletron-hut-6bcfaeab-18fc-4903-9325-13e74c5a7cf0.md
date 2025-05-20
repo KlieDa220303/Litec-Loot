@@ -11,5 +11,5 @@ category: 'Hut'
 >
 > Hut
 
-![Stibel Eletron hut](assets\stibel-eltron-stibel-eletron-hut-6bcfaeab-18fc-4903-9325-13e74c5a7cf0.jpg)
+![Stibel Eletron hut](./assets/stibel-eltron-stibel-eletron-hut-6bcfaeab-18fc-4903-9325-13e74c5a7cf0.jpg)
 guter hut 1/4

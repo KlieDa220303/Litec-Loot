@@ -60,6 +60,9 @@ def save_product_data(image, product_name, company_name, description, rating, ca
     # Create relative path for markdown file
     relative_image_path = os.path.join("assets", image_filename)
 
+    # convert \ to /
+    relative_image_path = relative_image_path.replace("\\", "/")
+
     # Save the image
     image.save(image_path)
 
@@ -79,7 +82,7 @@ category: '{category}'
 >
 > {category}
 
-![{product_name}]({relative_image_path})
+![{product_name}](./{relative_image_path})
 {description}
 """
         )

@@ -11,5 +11,5 @@ category: 'Stift'
 >
 > Stift
 
-![Primetals Stift](assets\primetals-primetals-stift-376a327c-67da-46f9-ba43-c8b6773646d3.jpg)
+![Primetals Stift](./assets/primetals-primetals-stift-376a327c-67da-46f9-ba43-c8b6773646d3.jpg)
 hauk stift und ich mag diese art von stifte

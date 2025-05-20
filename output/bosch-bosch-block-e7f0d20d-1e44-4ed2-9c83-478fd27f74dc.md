@@ -11,5 +11,5 @@ category: 'Block'
 >
 > Block
 
-![Bosch Block](assets\bosch-bosch-block-e7f0d20d-1e44-4ed2-9c83-478fd27f74dc.jpg)
+![Bosch Block](./assets/bosch-bosch-block-e7f0d20d-1e44-4ed2-9c83-478fd27f74dc.jpg)
 guter block

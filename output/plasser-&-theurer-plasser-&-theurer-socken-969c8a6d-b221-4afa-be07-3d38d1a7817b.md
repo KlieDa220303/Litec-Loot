@@ -11,5 +11,5 @@ category: 'Kleidung'
 >
 > Kleidung
 
-![Plasser & Theurer Socken](assets\plasser-&-theurer-plasser-&-theurer-socken-969c8a6d-b221-4afa-be07-3d38d1a7817b.jpg)
+![Plasser & Theurer Socken](./assets/plasser-&-theurer-plasser-&-theurer-socken-969c8a6d-b221-4afa-be07-3d38d1a7817b.jpg)
 Socken

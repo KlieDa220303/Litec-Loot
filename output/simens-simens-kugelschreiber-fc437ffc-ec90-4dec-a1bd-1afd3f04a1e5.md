@@ -11,5 +11,5 @@ category: 'Stift'
 >
 > Stift
 
-![Simens kugelschreiber](assets\simens-simens-kugelschreiber-fc437ffc-ec90-4dec-a1bd-1afd3f04a1e5.jpg)
+![Simens kugelschreiber](./assets/simens-simens-kugelschreiber-fc437ffc-ec90-4dec-a1bd-1afd3f04a1e5.jpg)
 Standard kulli

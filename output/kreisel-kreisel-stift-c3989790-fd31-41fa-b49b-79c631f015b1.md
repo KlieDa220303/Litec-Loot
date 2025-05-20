@@ -11,5 +11,5 @@ category: 'Stift'
 >
 > Stift
 
-![Kreisel Stift](assets\kreisel-kreisel-stift-c3989790-fd31-41fa-b49b-79c631f015b1.jpg)
+![Kreisel Stift](./assets/kreisel-kreisel-stift-c3989790-fd31-41fa-b49b-79c631f015b1.jpg)
 standard stift

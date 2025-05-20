@@ -11,5 +11,5 @@ category: 'Multitool'
 >
 > Multitool
 
-![RM multitool](assets\rm-rm-multitool-c2716df5-7a2f-43fe-b2d7-65cd89c09e84.jpg)
+![RM multitool](./assets/rm-rm-multitool-c2716df5-7a2f-43fe-b2d7-65cd89c09e84.jpg)
 multitoo

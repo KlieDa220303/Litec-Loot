@@ -11,5 +11,5 @@ category: 'Stift'
 >
 > Stift
 
-![Lenze Stift](assets\lenze-lenze-stift-cc70de1d-9285-4e4d-aad6-4595a9102913.jpg)
+![Lenze Stift](./assets/lenze-lenze-stift-cc70de1d-9285-4e4d-aad6-4595a9102913.jpg)
 standard kugelschreiber

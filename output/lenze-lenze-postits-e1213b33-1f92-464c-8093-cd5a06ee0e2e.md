@@ -11,5 +11,5 @@ category: 'Block'
 >
 > Block
 
-![Lenze Postits](assets\lenze-lenze-postits-e1213b33-1f92-464c-8093-cd5a06ee0e2e.jpg)
+![Lenze Postits](./assets/lenze-lenze-postits-e1213b33-1f92-464c-8093-cd5a06ee0e2e.jpg)
 Postits klein

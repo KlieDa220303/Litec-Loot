@@ -11,5 +11,5 @@ category: 'S��igkeiten'
 >
 > S��igkeiten
 
-![Starlim zuckerl](assets\starlim-starlim-zuckerl-8eb7c990-51fd-48f8-8126-ad55c7007789.jpg)
+![Starlim zuckerl](./assets/starlim-starlim-zuckerl-8eb7c990-51fd-48f8-8126-ad55c7007789.jpg)
 mini Zuckerl

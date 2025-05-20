@@ -11,4 +11,4 @@ category: 'Block'
 >
 > Block
 
-![Erema Block](assets\erema-erema-block-6db4a847-cdba-4204-a25d-f06ea1d571f3.jpg)
+![Erema Block](./assets/erema-erema-block-6db4a847-cdba-4204-a25d-f06ea1d571f3.jpg)

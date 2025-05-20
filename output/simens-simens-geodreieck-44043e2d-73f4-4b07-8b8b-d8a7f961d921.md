@@ -11,5 +11,5 @@ category: 'Messzeug'
 >
 > Messzeug
 
-![Simens Geodreieck](assets\simens-simens-geodreieck-44043e2d-73f4-4b07-8b8b-d8a7f961d921.jpg)
+![Simens Geodreieck](./assets/simens-simens-geodreieck-44043e2d-73f4-4b07-8b8b-d8a7f961d921.jpg)
 Standard geodreieck

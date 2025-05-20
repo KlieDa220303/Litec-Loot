@@ -11,5 +11,5 @@ category: 'Jausenbox'
 >
 > Jausenbox
 
-![Engel Jausenbox](assets\engel-engel-jausenbox-6db07729-da4c-47f3-92d4-36be74df4a33.jpg)
+![Engel Jausenbox](./assets/engel-engel-jausenbox-6db07729-da4c-47f3-92d4-36be74df4a33.jpg)
 Mittagsessen

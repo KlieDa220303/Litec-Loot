@@ -11,5 +11,5 @@ category: 'Getr�nk'
 >
 > Getr�nk
 
-![E-Lite Energy Drink](assets\e-lite-e-lite-energy-drink-a4e59b5c-d821-40ca-9614-2a598af2ffed.jpg)
+![E-Lite Energy Drink](./assets/e-lite-e-lite-energy-drink-a4e59b5c-d821-40ca-9614-2a598af2ffed.jpg)
 energy go!!!

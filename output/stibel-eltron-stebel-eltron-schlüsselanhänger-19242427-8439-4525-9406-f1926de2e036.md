@@ -11,5 +11,5 @@ category: 'Schl�sselanh�nger'
 >
 > Schl�sselanh�nger
 
-![Stebel Eltron Schl�sselanh�nger](assets\stibel-eltron-stebel-eltron-schl�sselanh�nger-19242427-8439-4525-9406-f1926de2e036.jpg)
+![Stebel Eltron Schl�sselanh�nger](./assets/stibel-eltron-stebel-eltron-schl�sselanh�nger-19242427-8439-4525-9406-f1926de2e036.jpg)
 zum aufh�ngen am hals

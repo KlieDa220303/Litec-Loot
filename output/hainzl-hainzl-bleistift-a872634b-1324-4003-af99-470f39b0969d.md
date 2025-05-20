@@ -11,4 +11,4 @@ category: 'Schreibzeug'
 >
 > Schreibzeug
 
-![Hainzl Bleistift](assets\hainzl-hainzl-bleistift-a872634b-1324-4003-af99-470f39b0969d.jpg)
+![Hainzl Bleistift](./assets/hainzl-hainzl-bleistift-a872634b-1324-4003-af99-470f39b0969d.jpg)
