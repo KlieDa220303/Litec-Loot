@@ -1,6 +1,6 @@
 ---
 product: 'Plasser & Theurer Notizblock'
-company: 'Plasser & Theurer '
+company: 'Plasser & Theurer'
 rating: 7
 category: 'Block'
 ---
