@@ -1,13 +1,13 @@
 ---
 product: 'Trench Sticker'
 company: 'Trench'
-rating: 10
+rating: 2
 category: 'Sticker'
 ---
 
 # Trench - Trench Sticker
 >
-> 10 / 10
+> 2 / 10
 >
 > Sticker
 

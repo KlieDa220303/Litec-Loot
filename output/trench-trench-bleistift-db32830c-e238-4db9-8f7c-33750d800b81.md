@@ -1,13 +1,13 @@
 ---
 product: 'Trench Bleistift'
 company: 'Trench'
-rating: 10
+rating: 4
 category: 'Schreibzeug'
 ---
 
 # Trench - Trench Bleistift
 >
-> 10 / 10
+> 4 / 10
 >
 > Schreibzeug
 
