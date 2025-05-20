@@ -1,11 +1,11 @@
 ---
 product: 'Wolf gummibären'
-company: 'wolf'
+company: 'Wolf'
 rating: 3
 category: 'Süßigkeiten'
 ---
 
-# wolf - Wolf gummib�ren
+# Wolf - Wolf gummib�ren
 >
 > 3 / 10
 >
