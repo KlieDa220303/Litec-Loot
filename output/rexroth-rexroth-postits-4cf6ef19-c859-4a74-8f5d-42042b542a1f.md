@@ -1,7 +1,7 @@
 ---
 product: 'rexroth postits'
 company: 'Rexroth'
-rating: '5'
+rating: 5
 category: 'Block'
 ---
 

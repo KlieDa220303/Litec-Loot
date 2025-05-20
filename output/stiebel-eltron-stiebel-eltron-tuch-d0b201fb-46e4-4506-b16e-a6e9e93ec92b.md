@@ -1,7 +1,7 @@
 ---
 product: 'Stiebel Eltron Tuch'
 company: 'Stiebel Eltron'
-rating: '5'
+rating: 5
 category: 'Gesundheit'
 ---
 

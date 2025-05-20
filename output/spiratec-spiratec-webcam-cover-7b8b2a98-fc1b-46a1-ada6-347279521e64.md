@@ -1,7 +1,7 @@
 ---
 product: 'Spiratec Webcam cover'
 company: 'Spiratec'
-rating: '5'
+rating: 5
 category: 'Sicherheit'
 ---
 

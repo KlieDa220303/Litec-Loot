@@ -1,15 +1,15 @@
 ---
 product: 'Engel Smarties'
 company: 'Engel'
-rating: '5'
-category: 'Süßigkeiten'
+rating: 5
+category: 'Sï¿½ï¿½igkeiten'
 ---
 
 # Engel - Engel Smarties
 >
 > 5 / 10
 >
-> Süßigkeiten
+> Sï¿½ï¿½igkeiten
 
 ![Engel Smarties](assets\engel-engel-smarties-6741024c-a936-4291-b52d-444267afce16.jpg)
 choco

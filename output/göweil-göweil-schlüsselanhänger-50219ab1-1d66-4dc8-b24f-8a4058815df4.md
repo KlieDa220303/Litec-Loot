@@ -1,15 +1,15 @@
 ---
-product: 'Göweil schlüsselanhänger'
-company: 'Göweil'
-rating: '4'
-category: 'Schlüsselanhänger'
+product: 'Gï¿½weil schlï¿½sselanhï¿½nger'
+company: 'Gï¿½weil'
+rating: 4
+category: 'Schlï¿½sselanhï¿½nger'
 ---
 
-# Göweil - Göweil schlüsselanhänger
+# Gï¿½weil - Gï¿½weil schlï¿½sselanhï¿½nger
 >
 > 4 / 10
 >
-> Schlüsselanhänger
+> Schlï¿½sselanhï¿½nger
 
-![Göweil schlüsselanhänger](assets\göweil-göweil-schlüsselanhänger-50219ab1-1d66-4dc8-b24f-8a4058815df4.jpg)
-zum anhängen von schlüssel
+![Gï¿½weil schlï¿½sselanhï¿½nger](assets\gï¿½weil-gï¿½weil-schlï¿½sselanhï¿½nger-50219ab1-1d66-4dc8-b24f-8a4058815df4.jpg)
+zum anhï¿½ngen von schlï¿½ssel

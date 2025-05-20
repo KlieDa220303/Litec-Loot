@@ -1,7 +1,7 @@
 ---
 product: 'TGW Kappe'
 company: 'TGW'
-rating: '8'
+rating: 8
 category: 'Kleidung'
 ---
 

@@ -1,7 +1,7 @@
 ---
 product: 'WFL Ringlicht'
 company: 'WFL'
-rating: '9'
+rating: 9
 category: 'Elektronik'
 ---
 

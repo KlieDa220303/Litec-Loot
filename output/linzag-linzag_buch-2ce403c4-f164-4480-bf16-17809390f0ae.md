@@ -1,7 +1,7 @@
 ---
 product: 'linzAG_buch'
 company: 'LinzAG'
-rating: '5'
+rating: 5
 category: 'Block'
 ---
 

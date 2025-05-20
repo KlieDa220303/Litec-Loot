@@ -1,7 +1,7 @@
 ---
 product: 'Infineon Radabdeckung'
 company: 'Infineon'
-rating: '6'
+rating: 6
 category: 'Radabdeckung'
 ---
 

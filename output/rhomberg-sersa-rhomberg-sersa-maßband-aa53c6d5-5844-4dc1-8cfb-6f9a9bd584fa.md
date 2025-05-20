@@ -1,15 +1,15 @@
 ---
-product: 'Rhomberg-Sersa Maßband'
+product: 'Rhomberg-Sersa Maï¿½band'
 company: 'Rhomberg-Sersa'
-rating: '8'
+rating: 8
 category: 'Messzeug'
 ---
 
-# Rhomberg-Sersa - Rhomberg-Sersa Maßband
+# Rhomberg-Sersa - Rhomberg-Sersa Maï¿½band
 >
 > 8 / 10
 >
 > Messzeug
 
-![Rhomberg-Sersa Maßband](assets\rhomberg-sersa-rhomberg-sersa-maßband-aa53c6d5-5844-4dc1-8cfb-6f9a9bd584fa.jpg)
-jaaaaaa Maßband
+![Rhomberg-Sersa Maï¿½band](assets\rhomberg-sersa-rhomberg-sersa-maï¿½band-aa53c6d5-5844-4dc1-8cfb-6f9a9bd584fa.jpg)
+jaaaaaa Maï¿½band

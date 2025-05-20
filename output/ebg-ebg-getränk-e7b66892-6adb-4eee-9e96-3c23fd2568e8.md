@@ -1,15 +1,15 @@
 ---
-product: 'EBG Getränk'
+product: 'EBG Getrï¿½nk'
 company: 'EBG'
-rating: '8'
-category: 'Getränk'
+rating: 8
+category: 'Getrï¿½nk'
 ---
 
-# EBG - EBG Getränk
+# EBG - EBG Getrï¿½nk
 >
 > 8 / 10
 >
-> Getränk
+> Getrï¿½nk
 
-![EBG Getränk](assets\ebg-ebg-getränk-e7b66892-6adb-4eee-9e96-3c23fd2568e8.jpg)
+![EBG Getrï¿½nk](assets\ebg-ebg-getrï¿½nk-e7b66892-6adb-4eee-9e96-3c23fd2568e8.jpg)
 yum

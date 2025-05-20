@@ -1,15 +1,15 @@
 ---
 product: 'Spiratec'
 company: 'Spiratec'
-rating: '4'
-category: 'Süßigkeiten'
+rating: 4
+category: 'Sï¿½ï¿½igkeiten'
 ---
 
 # Spiratec - Spiratec
 >
 > 4 / 10
 >
-> Süßigkeiten
+> Sï¿½ï¿½igkeiten
 
 ![Spiratec](assets\spiratec-spiratec-a9ea83be-703d-4aff-a60b-9b99d437903e.jpg)
 zukkerl

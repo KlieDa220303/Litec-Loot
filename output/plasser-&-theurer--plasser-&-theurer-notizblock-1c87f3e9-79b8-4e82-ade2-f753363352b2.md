@@ -1,7 +1,7 @@
 ---
 product: 'Plasser & Theurer Notizblock'
 company: 'Plasser & Theurer '
-rating: '7'
+rating: 7
 category: 'Block'
 ---
 

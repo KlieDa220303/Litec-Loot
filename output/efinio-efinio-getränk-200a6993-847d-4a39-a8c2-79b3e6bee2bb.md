@@ -1,15 +1,15 @@
 ---
-product: 'Efinio Getränk'
+product: 'Efinio Getrï¿½nk'
 company: 'Efinio'
-rating: '7'
-category: 'Getränk'
+rating: 7
+category: 'Getrï¿½nk'
 ---
 
-# Efinio - Efinio Getränk
+# Efinio - Efinio Getrï¿½nk
 >
 > 7 / 10
 >
-> Getränk
+> Getrï¿½nk
 
-![Efinio Getränk](assets\efinio-efinio-getränk-200a6993-847d-4a39-a8c2-79b3e6bee2bb.jpg)
-slurp 
+![Efinio Getrï¿½nk](assets\efinio-efinio-getrï¿½nk-200a6993-847d-4a39-a8c2-79b3e6bee2bb.jpg)
+slurp

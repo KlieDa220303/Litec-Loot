@@ -1,15 +1,15 @@
 ---
 product: 'Starlim zuckerl'
 company: 'Starlim'
-rating: '2'
-category: 'Süßigkeiten'
+rating: 2
+category: 'Sï¿½ï¿½igkeiten'
 ---
 
 # Starlim - Starlim zuckerl
 >
 > 2 / 10
 >
-> Süßigkeiten
+> Sï¿½ï¿½igkeiten
 
 ![Starlim zuckerl](assets\starlim-starlim-zuckerl-8eb7c990-51fd-48f8-8126-ad55c7007789.jpg)
 mini Zuckerl

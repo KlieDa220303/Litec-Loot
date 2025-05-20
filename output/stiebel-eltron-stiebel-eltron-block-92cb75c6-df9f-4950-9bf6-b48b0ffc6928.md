@@ -1,7 +1,7 @@
 ---
 product: 'Stiebel Eltron Block'
 company: 'Stiebel Eltron'
-rating: '7'
+rating: 7
 category: 'Block'
 ---
 
@@ -12,4 +12,4 @@ category: 'Block'
 > Block
 
 ![Stiebel Eltron Block](assets\stiebel-eltron-stiebel-eltron-block-92cb75c6-df9f-4950-9bf6-b48b0ffc6928.jpg)
-großer block
+groï¿½er block

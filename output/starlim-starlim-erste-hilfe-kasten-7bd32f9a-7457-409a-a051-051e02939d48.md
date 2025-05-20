@@ -1,7 +1,7 @@
 ---
 product: 'Starlim erste hilfe kasten'
 company: 'Starlim'
-rating: '9'
+rating: 9
 category: 'Erste Hilfe'
 ---
 

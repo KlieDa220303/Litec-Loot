@@ -1,7 +1,7 @@
 ---
 product: 'Trench Radiergummi'
 company: 'Trench'
-rating: '7'
+rating: 7
 category: 'Radierer'
 ---
 

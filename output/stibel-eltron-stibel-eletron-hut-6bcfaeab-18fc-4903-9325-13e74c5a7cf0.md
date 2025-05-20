@@ -1,7 +1,7 @@
 ---
 product: 'Stibel Eletron hut'
 company: 'Stibel Eltron'
-rating: '8'
+rating: 8
 category: 'Hut'
 ---
 

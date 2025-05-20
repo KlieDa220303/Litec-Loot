@@ -1,7 +1,7 @@
 ---
 product: 'LinzAG_Block_gross'
 company: 'LinzAg'
-rating: '5'
+rating: 5
 category: 'Block'
 ---
 

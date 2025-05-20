@@ -1,15 +1,15 @@
 ---
-product: 'Kreuzpointner Getränk'
+product: 'Kreuzpointner Getrï¿½nk'
 company: 'Kreuzpointner'
-rating: '6'
-category: 'Getränk'
+rating: 6
+category: 'Getrï¿½nk'
 ---
 
-# Kreuzpointner - Kreuzpointner Getränk
+# Kreuzpointner - Kreuzpointner Getrï¿½nk
 >
 > 6 / 10
 >
-> Getränk
+> Getrï¿½nk
 
-![Kreuzpointner Getränk](assets\kreuzpointner-kreuzpointner-getränk-9e4f9548-27a2-4950-a402-92b3a5b439ed.jpg)
+![Kreuzpointner Getrï¿½nk](assets\kreuzpointner-kreuzpointner-getrï¿½nk-9e4f9548-27a2-4950-a402-92b3a5b439ed.jpg)
 yummy

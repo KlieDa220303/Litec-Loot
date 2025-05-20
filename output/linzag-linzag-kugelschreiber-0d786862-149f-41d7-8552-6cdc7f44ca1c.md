@@ -1,7 +1,7 @@
 ---
 product: 'LinzAG Kugelschreiber'
 company: 'LinzAG'
-rating: '6'
+rating: 6
 category: 'Schreibzeug'
 ---
 

@@ -1,7 +1,7 @@
 ---
 product: 'ABB Stift'
 company: 'ABB'
-rating: '5'
+rating: 5
 category: 'Stift'
 ---
 

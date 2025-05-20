@@ -1,7 +1,7 @@
 ---
 product: 'Simens Licht'
 company: 'Simens'
-rating: '7'
+rating: 7
 category: 'Elektronik'
 ---
 

@@ -1,7 +1,7 @@
 ---
 product: 'Umweltfrundlicher Kugelschreiber'
 company: 'EnergieAG'
-rating: '4'
+rating: 4
 category: 'Schreibzeug'
 ---
 

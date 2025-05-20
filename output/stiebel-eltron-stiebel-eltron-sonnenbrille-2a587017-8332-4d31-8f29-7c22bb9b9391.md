@@ -1,7 +1,7 @@
 ---
 product: 'Stiebel Eltron sonnenbrille'
 company: 'Stiebel Eltron'
-rating: '7'
+rating: 7
 category: 'Kleidung'
 ---
 

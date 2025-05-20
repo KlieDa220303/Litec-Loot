@@ -1,15 +1,15 @@
 ---
-product: 'Plasser & Theurer Schlüsselanhänger'
+product: 'Plasser & Theurer Schlï¿½sselanhï¿½nger'
 company: 'Plasser & Theurer'
-rating: '6'
-category: 'Schlüsselanhänger'
+rating: 6
+category: 'Schlï¿½sselanhï¿½nger'
 ---
 
-# Plasser & Theurer - Plasser & Theurer Schlüsselanhänger
+# Plasser & Theurer - Plasser & Theurer Schlï¿½sselanhï¿½nger
 >
 > 6 / 10
 >
-> Schlüsselanhänger
+> Schlï¿½sselanhï¿½nger
 
-![Plasser & Theurer Schlüsselanhänger](assets\plasser-&-theurer-plasser-&-theurer-schlüsselanhänger-dd11bbfb-a934-47af-a239-f2334fc623e7.jpg)
-Anhänger
+![Plasser & Theurer Schlï¿½sselanhï¿½nger](assets\plasser-&-theurer-plasser-&-theurer-schlï¿½sselanhï¿½nger-dd11bbfb-a934-47af-a239-f2334fc623e7.jpg)
+Anhï¿½nger

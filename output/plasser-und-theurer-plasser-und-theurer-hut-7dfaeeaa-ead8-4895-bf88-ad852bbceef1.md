@@ -1,7 +1,7 @@
 ---
 product: 'Plasser und Theurer Hut'
 company: 'Plasser und Theurer'
-rating: '8'
+rating: 8
 category: 'Hut'
 ---
 

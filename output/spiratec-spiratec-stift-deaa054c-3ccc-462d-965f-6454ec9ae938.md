@@ -1,7 +1,7 @@
 ---
 product: 'Spiratec stift'
 company: 'Spiratec'
-rating: '4'
+rating: 4
 category: 'Stift'
 ---
 

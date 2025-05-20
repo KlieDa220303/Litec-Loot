@@ -1,15 +1,15 @@
 ---
 product: 'Plasser & Theurer Honigbonbon'
 company: 'Plasser & Theurer'
-rating: '7'
-category: 'Süßigkeiten'
+rating: 7
+category: 'Sï¿½ï¿½igkeiten'
 ---
 
 # Plasser & Theurer - Plasser & Theurer Honigbonbon
 >
 > 7 / 10
 >
-> Süßigkeiten
+> Sï¿½ï¿½igkeiten
 
 ![Plasser & Theurer Honigbonbon](assets\plasser-&-theurer-plasser-&-theurer-honigbonbon-747bf9bf-f76f-4bad-a977-56bbb5eac720.jpg)
-Gut für den Hals
+Gut fï¿½r den Hals

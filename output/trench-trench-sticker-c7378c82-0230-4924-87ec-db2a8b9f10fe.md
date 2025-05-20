@@ -1,7 +1,7 @@
 ---
 product: 'Trench Sticker'
 company: 'Trench'
-rating: '10'
+rating: 10
 category: 'Sticker'
 ---
 

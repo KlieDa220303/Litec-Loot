@@ -1,7 +1,7 @@
 ---
 product: 'Starlim spielkarten'
 company: 'Starlim'
-rating: '7'
+rating: 7
 category: 'Spielzeug'
 ---
 

@@ -1,7 +1,7 @@
 ---
 product: 'Dorninger Hytronics Kugelschreiber'
 company: 'Dorninger Hytronics'
-rating: '6'
+rating: 6
 category: 'Schreibzeug'
 ---
 

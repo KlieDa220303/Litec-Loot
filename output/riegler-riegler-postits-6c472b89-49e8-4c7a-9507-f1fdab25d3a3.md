@@ -1,7 +1,7 @@
 ---
 product: 'Riegler Postits'
 company: 'Riegler'
-rating: '3'
+rating: 3
 category: 'Block'
 ---
 

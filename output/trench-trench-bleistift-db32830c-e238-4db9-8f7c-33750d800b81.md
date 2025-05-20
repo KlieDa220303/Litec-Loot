@@ -1,7 +1,7 @@
 ---
 product: 'Trench Bleistift'
 company: 'Trench'
-rating: '10'
+rating: 10
 category: 'Schreibzeug'
 ---
 

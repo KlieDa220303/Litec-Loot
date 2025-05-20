@@ -1,7 +1,7 @@
 ---
 product: 'Engel Jausenbox'
 company: 'Engel'
-rating: '7'
+rating: 7
 category: 'Jausenbox'
 ---
 

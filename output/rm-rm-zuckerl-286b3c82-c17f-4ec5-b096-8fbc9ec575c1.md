@@ -1,15 +1,15 @@
 ---
 product: 'RM zuckerl'
 company: 'RM'
-rating: '1'
-category: 'Süßigkeiten'
+rating: 1
+category: 'Sï¿½ï¿½igkeiten'
 ---
 
 # RM - RM zuckerl
 >
 > 1 / 10
 >
-> Süßigkeiten
+> Sï¿½ï¿½igkeiten
 
 ![RM zuckerl](assets\rm-rm-zuckerl-286b3c82-c17f-4ec5-b096-8fbc9ec575c1.jpg)
 kleines zuckerl

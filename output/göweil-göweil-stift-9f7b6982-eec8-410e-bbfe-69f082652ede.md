@@ -1,15 +1,15 @@
 ---
-product: 'Göweil Stift'
-company: 'Göweil'
-rating: '56'
+product: 'Gï¿½weil Stift'
+company: 'Gï¿½weil'
+rating: 5
 category: 'Stift'
 ---
 
-# Göweil - Göweil Stift
+# Gï¿½weil - Gï¿½weil Stift
 >
 > 56 / 10
 >
 > Stift
 
-![Göweil Stift](assets\göweil-göweil-stift-9f7b6982-eec8-410e-bbfe-69f082652ede.jpg)
+![Gï¿½weil Stift](assets\gï¿½weil-gï¿½weil-stift-9f7b6982-eec8-410e-bbfe-69f082652ede.jpg)
 Stift

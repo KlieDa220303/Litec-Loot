@@ -1,7 +1,7 @@
 ---
 product: 'Infineon Becher'
 company: 'Infineon'
-rating: '10'
+rating: 10
 category: 'Becher'
 ---
 

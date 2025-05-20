@@ -1,7 +1,7 @@
 ---
 product: 'Erema Kugelschreiber'
 company: 'Erema'
-rating: '4'
+rating: 4
 category: 'Schreibzeug'
 ---
 

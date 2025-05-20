@@ -1,7 +1,7 @@
 ---
 product: 'Spiratec Block'
 company: 'Spiratec'
-rating: '3'
+rating: 3
 category: 'Block'
 ---
 

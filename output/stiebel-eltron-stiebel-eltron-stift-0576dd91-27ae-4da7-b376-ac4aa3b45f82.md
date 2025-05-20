@@ -1,7 +1,7 @@
 ---
 product: 'Stiebel Eltron Stift'
 company: 'Stiebel Eltron'
-rating: '2'
+rating: 2
 category: 'Stift'
 ---
 

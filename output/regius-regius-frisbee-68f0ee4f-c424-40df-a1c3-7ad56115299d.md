@@ -1,7 +1,7 @@
 ---
 product: 'Regius Frisbee'
 company: 'Regius'
-rating: '8'
+rating: 8
 category: 'Spielzeug'
 ---
 

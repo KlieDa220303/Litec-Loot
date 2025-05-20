@@ -1,7 +1,7 @@
 ---
 product: 'Wolf Stift'
 company: 'Wolf'
-rating: '4'
+rating: 4
 category: 'Stift'
 ---
 

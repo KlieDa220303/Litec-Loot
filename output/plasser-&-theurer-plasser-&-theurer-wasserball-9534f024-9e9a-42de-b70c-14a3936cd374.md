@@ -1,7 +1,7 @@
 ---
 product: 'Plasser & Theurer Wasserball'
 company: 'Plasser & Theurer'
-rating: '4'
+rating: 4
 category: 'Spielzeug'
 ---
 

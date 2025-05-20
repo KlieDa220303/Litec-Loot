@@ -1,15 +1,15 @@
 ---
-product: 'Göweil Sonnenbrille'
-company: 'Göweil'
-rating: '6'
+product: 'Gï¿½weil Sonnenbrille'
+company: 'Gï¿½weil'
+rating: 6
 category: 'Sonnenbrille'
 ---
 
-# Göweil - Göweil Sonnenbrille
+# Gï¿½weil - Gï¿½weil Sonnenbrille
 >
 > 6 / 10
 >
 > Sonnenbrille
 
-![Göweil Sonnenbrille](assets\göweil-göweil-sonnenbrille-11d7a323-7d41-4cdc-850f-1e0080b2ab90.jpg)
+![Gï¿½weil Sonnenbrille](assets\gï¿½weil-gï¿½weil-sonnenbrille-11d7a323-7d41-4cdc-850f-1e0080b2ab90.jpg)
 Sonnenbrille

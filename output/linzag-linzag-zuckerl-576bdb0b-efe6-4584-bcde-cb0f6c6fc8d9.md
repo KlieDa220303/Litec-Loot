@@ -1,15 +1,15 @@
 ---
 product: 'LinzAG Zuckerl'
 company: 'LinzAG'
-rating: '3'
-category: 'Süßigkeit'
+rating: 3
+category: 'Sï¿½ï¿½igkeit'
 ---
 
 # LinzAG - LinzAG Zuckerl
 >
 > 3 / 10
 >
-> Süßigkeit
+> Sï¿½ï¿½igkeit
 
 ![LinzAG Zuckerl](assets\linzag-linzag-zuckerl-576bdb0b-efe6-4584-bcde-cb0f6c6fc8d9.jpg)
-Süß
+Sï¿½ï¿½

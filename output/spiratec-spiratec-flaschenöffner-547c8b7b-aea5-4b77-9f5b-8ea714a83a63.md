@@ -1,15 +1,15 @@
 ---
-product: 'Spiratec flaschenöffner'
+product: 'Spiratec flaschenï¿½ffner'
 company: 'Spiratec'
-rating: '7'
-category: 'Flaschenöffner'
+rating: 7
+category: 'Flaschenï¿½ffner'
 ---
 
-# Spiratec - Spiratec flaschenöffner
+# Spiratec - Spiratec flaschenï¿½ffner
 >
 > 7 / 10
 >
-> Flaschenöffner
+> Flaschenï¿½ffner
 
-![Spiratec flaschenöffner](assets\spiratec-spiratec-flaschenöffner-547c8b7b-aea5-4b77-9f5b-8ea714a83a63.jpg)
-standard flaschenöffner
+![Spiratec flaschenï¿½ffner](assets\spiratec-spiratec-flaschenï¿½ffner-547c8b7b-aea5-4b77-9f5b-8ea714a83a63.jpg)
+standard flaschenï¿½ffner

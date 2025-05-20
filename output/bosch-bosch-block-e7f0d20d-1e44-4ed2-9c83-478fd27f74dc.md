@@ -1,7 +1,7 @@
 ---
 product: 'Bosch Block'
 company: 'Bosch'
-rating: '7'
+rating: 7
 category: 'Block'
 ---
 

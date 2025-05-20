@@ -1,7 +1,7 @@
 ---
 product: 'KE KELIT lineal'
 company: 'KE KELIT'
-rating: '2'
+rating: 2
 category: 'Messzeug'
 ---
 

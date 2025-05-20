@@ -1,7 +1,7 @@
 ---
 product: 'Lenze Stift'
 company: 'Lenze'
-rating: '5'
+rating: 5
 category: 'Stift'
 ---
 

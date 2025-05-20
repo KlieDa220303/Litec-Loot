@@ -1,7 +1,7 @@
 ---
 product: 'Starlim Sonnenbrille'
 company: 'Starlim'
-rating: '8'
+rating: 8
 category: 'Kleidung'
 ---
 

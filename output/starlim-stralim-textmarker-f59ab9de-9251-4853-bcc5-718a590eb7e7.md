@@ -1,7 +1,7 @@
 ---
 product: 'Stralim textmarker'
 company: 'Starlim'
-rating: '5'
+rating: 5
 category: 'Stift'
 ---
 

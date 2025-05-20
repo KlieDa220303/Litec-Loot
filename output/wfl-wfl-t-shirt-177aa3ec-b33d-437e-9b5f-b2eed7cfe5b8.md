@@ -1,7 +1,7 @@
 ---
 product: 'Wfl T-Shirt'
 company: 'WFL'
-rating: '7'
+rating: 7
 category: 'Kleidung'
 ---
 

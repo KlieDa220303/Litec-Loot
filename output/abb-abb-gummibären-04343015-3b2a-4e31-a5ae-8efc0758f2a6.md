@@ -1,15 +1,15 @@
 ---
-product: 'ABB gummibären'
+product: 'ABB gummibï¿½ren'
 company: 'ABB'
-rating: '3'
-category: 'Süßigkeiten'
+rating: 3
+category: 'Sï¿½ï¿½igkeiten'
 ---
 
-# ABB - ABB gummibären
+# ABB - ABB gummibï¿½ren
 >
 > 3 / 10
 >
-> Süßigkeiten
+> Sï¿½ï¿½igkeiten
 
-![ABB gummibären](assets\abb-abb-gummibären-04343015-3b2a-4e31-a5ae-8efc0758f2a6.jpg)
-standard gummibären
+![ABB gummibï¿½ren](assets\abb-abb-gummibï¿½ren-04343015-3b2a-4e31-a5ae-8efc0758f2a6.jpg)
+standard gummibï¿½ren

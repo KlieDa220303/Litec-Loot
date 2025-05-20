@@ -1,7 +1,7 @@
 ---
 product: 'Riegler Schnapparmband'
 company: 'Riegler'
-rating: '6'
+rating: 6
 category: 'Kleidung'
 ---
 
@@ -12,4 +12,4 @@ category: 'Kleidung'
 > Kleidung
 
 ![Riegler Schnapparmband](assets\riegler-riegler-schnapparmband-45448463-f355-492b-ab8f-6ee171e964ca.jpg)
-für die hand
+fï¿½r die hand

@@ -1,7 +1,7 @@
 ---
 product: 'Beko Untersetzer'
 company: 'Beko'
-rating: '1'
+rating: 1
 category: 'Block'
 ---
 
@@ -12,4 +12,4 @@ category: 'Block'
 > Block
 
 ![Beko Untersetzer](assets\beko-beko-untersetzer-943257db-4cb5-4799-b437-c93a7b0dba2f.jpg)
-müll
+mï¿½ll

@@ -1,7 +1,7 @@
 ---
 product: 'Trench Geodreieck'
 company: 'Trench'
-rating: '7'
+rating: 7
 category: 'Messzeug'
 ---
 

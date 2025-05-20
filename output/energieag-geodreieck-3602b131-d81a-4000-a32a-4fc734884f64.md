@@ -1,7 +1,7 @@
 ---
 product: 'Geodreieck'
 company: 'EnergieAG'
-rating: '4'
+rating: 4
 category: 'Messzeug'
 ---
 

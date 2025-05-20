@@ -1,7 +1,7 @@
 ---
 product: 'Engel Kabeln'
 company: 'Engel'
-rating: '7'
+rating: 7
 category: 'Kabel'
 ---
 

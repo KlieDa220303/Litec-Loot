@@ -1,7 +1,7 @@
 ---
 product: 'Simens kugelschreiber'
 company: 'Simens'
-rating: '4'
+rating: 4
 category: 'Stift'
 ---
 

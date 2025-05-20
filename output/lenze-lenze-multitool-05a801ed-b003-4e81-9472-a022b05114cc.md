@@ -1,7 +1,7 @@
 ---
 product: 'Lenze Multitool'
 company: 'Lenze'
-rating: '7'
+rating: 7
 category: 'Multitool'
 ---
 

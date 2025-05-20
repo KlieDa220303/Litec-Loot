@@ -1,7 +1,7 @@
 ---
 product: 'Kreisel Stift'
 company: 'Kreisel'
-rating: '5'
+rating: 5
 category: 'Stift'
 ---
 

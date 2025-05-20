@@ -1,15 +1,15 @@
 ---
-product: 'Lenze Gummibärchen'
+product: 'Lenze Gummibï¿½rchen'
 company: 'Lenze'
-rating: '7'
-category: 'Süßigkeiten'
+rating: 7
+category: 'Sï¿½ï¿½igkeiten'
 ---
 
-# Lenze - Lenze Gummibärchen
+# Lenze - Lenze Gummibï¿½rchen
 >
 > 7 / 10
 >
-> Süßigkeiten
+> Sï¿½ï¿½igkeiten
 
-![Lenze Gummibärchen](assets\lenze-lenze-gummibärchen-0f897ae0-a58f-4254-89ca-8124978f4e60.jpg)
-standard gummibären
+![Lenze Gummibï¿½rchen](assets\lenze-lenze-gummibï¿½rchen-0f897ae0-a58f-4254-89ca-8124978f4e60.jpg)
+standard gummibï¿½ren

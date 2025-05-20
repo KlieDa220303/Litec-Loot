@@ -1,7 +1,7 @@
 ---
 product: 'Trench Block'
 company: 'Trench'
-rating: '5'
+rating: 5
 category: 'Block'
 ---
 

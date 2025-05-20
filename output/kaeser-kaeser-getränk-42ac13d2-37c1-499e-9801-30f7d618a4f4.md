@@ -1,15 +1,15 @@
 ---
-product: 'Kaeser Getränk'
+product: 'Kaeser Getrï¿½nk'
 company: 'Kaeser'
-rating: '7'
-category: 'Getränk'
+rating: 7
+category: 'Getrï¿½nk'
 ---
 
-# Kaeser - Kaeser Getränk
+# Kaeser - Kaeser Getrï¿½nk
 >
 > 7 / 10
 >
-> Getränk
+> Getrï¿½nk
 
-![Kaeser Getränk](assets\kaeser-kaeser-getränk-42ac13d2-37c1-499e-9801-30f7d618a4f4.jpg)
+![Kaeser Getrï¿½nk](assets\kaeser-kaeser-getrï¿½nk-42ac13d2-37c1-499e-9801-30f7d618a4f4.jpg)
 yummy

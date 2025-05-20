@@ -1,7 +1,7 @@
 ---
 product: 'Plasser & Theurer Socken'
 company: 'Plasser & Theurer'
-rating: '6'
+rating: 6
 category: 'Kleidung'
 ---
 

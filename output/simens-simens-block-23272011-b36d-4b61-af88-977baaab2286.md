@@ -1,7 +1,7 @@
 ---
 product: 'Simens Block'
 company: 'Simens'
-rating: '3'
+rating: 3
 category: 'Block'
 ---
 

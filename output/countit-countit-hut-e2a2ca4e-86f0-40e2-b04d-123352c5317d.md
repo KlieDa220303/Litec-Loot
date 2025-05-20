@@ -1,7 +1,7 @@
 ---
 product: 'CountIT hut'
 company: 'CountIT'
-rating: '8'
+rating: 8
 category: 'Hut'
 ---
 

@@ -1,7 +1,7 @@
 ---
 product: 'Plasser & Theurer Kugelschreiber'
 company: 'Plasser & Theurer'
-rating: '6'
+rating: 6
 category: 'Schreibzeug'
 ---
 

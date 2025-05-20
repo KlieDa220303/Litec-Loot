@@ -1,7 +1,7 @@
 ---
 product: 'Ke-kelit stift'
 company: 'ke-kelit'
-rating: '4'
+rating: 4
 category: 'Stift'
 ---
 

@@ -1,7 +1,7 @@
 ---
 product: 'Vace Group Feuerzeug'
 company: 'Vace Group'
-rating: '10'
+rating: 10
 category: 'Feuerzeug'
 ---
 

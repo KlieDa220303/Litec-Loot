@@ -1,15 +1,15 @@
 ---
-product: 'Spiratec Schlüsselanhänger'
+product: 'Spiratec Schlï¿½sselanhï¿½nger'
 company: 'Spiratec'
-rating: '8'
-category: 'Schlüsselanhänger'
+rating: 8
+category: 'Schlï¿½sselanhï¿½nger'
 ---
 
-# Spiratec - Spiratec Schlüsselanhänger
+# Spiratec - Spiratec Schlï¿½sselanhï¿½nger
 >
 > 8 / 10
 >
-> Schlüsselanhänger
+> Schlï¿½sselanhï¿½nger
 
-![Spiratec Schlüsselanhänger](assets\spiratec-spiratec-schlüsselanhänger-c83be454-3bff-46df-908d-cc9140236d86.jpg)
-schlüsselanhänger band mit feder
+![Spiratec Schlï¿½sselanhï¿½nger](assets\spiratec-spiratec-schlï¿½sselanhï¿½nger-c83be454-3bff-46df-908d-cc9140236d86.jpg)
+schlï¿½sselanhï¿½nger band mit feder

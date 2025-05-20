@@ -1,7 +1,7 @@
 ---
 product: 'Engel Kugelschreiber'
 company: 'Engel'
-rating: '5'
+rating: 5
 category: 'Schreibzeug'
 ---
 

@@ -1,7 +1,7 @@
 ---
 product: 'Primetals Sticker'
 company: 'Primetals'
-rating: '2'
+rating: 2
 category: 'Sticker'
 ---
 
@@ -12,4 +12,4 @@ category: 'Sticker'
 > Sticker
 
 ![Primetals Sticker](assets\primetals-primetals-sticker-37f7d30f-f6c7-4289-a7ae-3be393c12e83.jpg)
-gut für hauser
+gut fï¿½r hauser

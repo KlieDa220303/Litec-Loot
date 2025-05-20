@@ -1,7 +1,7 @@
 ---
 product: 'Primetals Stift'
 company: 'Primetals'
-rating: '8'
+rating: 8
 category: 'Stift'
 ---
 

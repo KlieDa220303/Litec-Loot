@@ -1,7 +1,7 @@
 ---
 product: 'Beko stift'
 company: 'Beko'
-rating: '4'
+rating: 4
 category: 'Stift'
 ---
 

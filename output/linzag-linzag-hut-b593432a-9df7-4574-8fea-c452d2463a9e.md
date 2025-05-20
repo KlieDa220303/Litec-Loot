@@ -1,7 +1,7 @@
 ---
 product: 'LinzAG hut'
 company: 'LinzAG'
-rating: '8'
+rating: 8
 category: 'Hut'
 ---
 

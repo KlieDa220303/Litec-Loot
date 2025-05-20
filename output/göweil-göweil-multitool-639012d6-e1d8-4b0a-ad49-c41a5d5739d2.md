@@ -1,15 +1,15 @@
 ---
-product: 'Göweil Multitool'
-company: 'Göweil'
-rating: '3'
+product: 'Gï¿½weil Multitool'
+company: 'Gï¿½weil'
+rating: 3
 category: 'Multitool'
 ---
 
-# Göweil - Göweil Multitool
+# Gï¿½weil - Gï¿½weil Multitool
 >
 > 3 / 10
 >
 > Multitool
 
-![Göweil Multitool](assets\göweil-göweil-multitool-639012d6-e1d8-4b0a-ad49-c41a5d5739d2.jpg)
-multitool mit weniger funktionalität
+![Gï¿½weil Multitool](assets\gï¿½weil-gï¿½weil-multitool-639012d6-e1d8-4b0a-ad49-c41a5d5739d2.jpg)
+multitool mit weniger funktionalitï¿½t
