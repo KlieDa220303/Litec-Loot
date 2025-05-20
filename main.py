@@ -64,7 +64,7 @@ def save_product_data(image, product_name, company_name, description, rating, ca
     image.save(image_path)
 
     # Create markdown file
-    with open(md_path, "w") as md_file:
+    with open(md_path, "w", encoding="utf-8") as md_file:
         md_file.write(
             f"""---
 product: '{product_name}'
