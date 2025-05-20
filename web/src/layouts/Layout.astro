@@ -1,17 +1,49 @@
 ---
+import Footer from "../components/Footer.astro";
 import "./src/styles/global.css";
+
+export interface Props {
+	title?: string;
+}
+
+const { title = "Litec-Loot" } = Astro.props;
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro Basics</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>{title}</title>
 	</head>
-	<body>
-		<slot />
+	<body class="bg-gray-50 min-h-screen">
+		<header class="bg-indigo-600 text-white p-4 shadow-md">
+			<div class="container mx-auto flex justify-between items-center">
+				<a href="/" class="text-2xl font-bold">Litec-Loot</a>
+				<nav>
+					<ul class="flex space-x-6">
+						<li>
+							<a href="/" class="hover:underline">Products</a>
+						</li>
+						<li>
+							<a href="/rating/desc" class="hover:underline"
+								>Top Rated</a
+							>
+						</li>
+						<li>
+							<a href="/stats" class="hover:underline"
+								>Statistics</a
+							>
+						</li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+
+		<main class="container mx-auto py-8 px-4">
+			<slot />
+		</main>
+
+		<Footer />
 	</body>
 </html>

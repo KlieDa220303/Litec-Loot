@@ -1,0 +1,74 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { getCollection, render } from "astro:content";
+
+export async function getStaticPaths() {
+    const products = await getCollection("products");
+    return products.map((product) => ({
+        params: { slug: product.id },
+        props: { product },
+    }));
+}
+
+const { product } = Astro.props;
+const { Content } = await render(product);
+---
+
+<Layout title={`${product.data.product} - Litec-Loot`}>
+    <div class="bg-white rounded-lg shadow-lg p-8">
+        <div class="mb-6 flex justify-between items-start">
+            <div>
+                <h1 class="text-3xl font-bold text-gray-800 mb-2">
+                    {product.data.product}
+                </h1>
+                <div class="flex space-x-4 text-sm">
+                    <a
+                        href={`/company/${product.data.company}`}
+                        class="text-indigo-600 hover:underline"
+                    >
+                        {product.data.company}
+                    </a>
+                    <span class="text-gray-400">|</span>
+                    <a
+                        href={`/category/${product.data.category}`}
+                        class="text-indigo-600 hover:underline"
+                    >
+                        {product.data.category}
+                    </a>
+                </div>
+            </div>
+            <a
+                href={`/rating/filter/${product.data.rating}`}
+                class="bg-indigo-600 text-white rounded-full w-14 h-14 flex items-center justify-center text-xl font-bold"
+            >
+                {product.data.rating}
+            </a>
+        </div>
+
+        <article class="prose prose-indigo max-w-none">
+            <Content />
+        </article>
+
+        <div class="mt-8 pt-6 border-t border-gray-200">
+            <a
+                href="/"
+                class="text-indigo-600 hover:underline flex items-center"
+            >
+                <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    class="h-5 w-5 mr-2"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                >
+                    <path
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
+                </svg>
+                Back to all products
+            </a>
+        </div>
+    </div>
+</Layout>

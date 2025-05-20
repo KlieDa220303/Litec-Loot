@@ -1,0 +1,329 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+
+const products = await getCollection("products");
+
+// Stats calculations
+const totalProducts = products.length;
+
+// Category stats
+const categoryCounts = products.reduce(
+    (acc, product) => {
+        const category = product.data.category;
+        acc[category] = (acc[category] || 0) + 1;
+        return acc;
+    },
+    {} as Record<string, number>,
+);
+
+const totalCategories = Object.keys(categoryCounts).length;
+const categoriesByCount = Object.entries(categoryCounts).sort(
+    (a, b) => b[1] - a[1],
+);
+const mostPopularCategory = categoriesByCount[0];
+const leastPopularCategory = categoriesByCount[categoriesByCount.length - 1];
+
+// Company stats
+const companyCounts = products.reduce(
+    (acc, product) => {
+        const company = product.data.company;
+        acc[company] = (acc[company] || 0) + 1;
+        return acc;
+    },
+    {} as Record<string, number>,
+);
+
+const totalCompanies = Object.keys(companyCounts).length;
+const companiesByCount = Object.entries(companyCounts).sort(
+    (a, b) => b[1] - a[1],
+);
+const mostProductiveCompany = companiesByCount[0];
+const leastProductiveCompany = companiesByCount[companiesByCount.length - 1];
+
+// Rating stats
+const avgRating =
+    products.reduce((sum, product) => sum + product.data.rating, 0) /
+    products.length;
+const highestRatedProduct = [...products].sort(
+    (a, b) => b.data.rating - a.data.rating,
+)[0];
+const lowestRatedProduct = [...products].sort(
+    (a, b) => a.data.rating - b.data.rating,
+)[0];
+const ratingsDistribution = products.reduce(
+    (acc, product) => {
+        const rating = product.data.rating;
+        acc[rating] = (acc[rating] || 0) + 1;
+        return acc;
+    },
+    {} as Record<number, number>,
+);
+
+const ratingsData = Object.entries(ratingsDistribution)
+    .sort((a, b) => Number(b[0]) - Number(a[0]))
+    .map(([rating, count]) => ({
+        rating: Number(rating),
+        count,
+        percentage: Math.round((count / products.length) * 100),
+    }));
+---
+
+<Layout title="Litec-Loot - Statistics">
+    <h1 class="text-3xl font-bold text-gray-800 mb-8">Product Statistics</h1>
+
+    <!-- Overview Stats -->
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
+        <div class="bg-white rounded-lg shadow-md p-6">
+            <h2 class="text-xl font-bold text-gray-700 mb-2">Products</h2>
+            <p class="text-4xl font-bold text-indigo-600">{totalProducts}</p>
+            <p class="text-sm text-gray-500 mt-2">Total products in database</p>
+        </div>
+
+        <div class="bg-white rounded-lg shadow-md p-6">
+            <h2 class="text-xl font-bold text-gray-700 mb-2">Categories</h2>
+            <p class="text-4xl font-bold text-indigo-600">{totalCategories}</p>
+            <p class="text-sm text-gray-500 mt-2">
+                Different product categories
+            </p>
+        </div>
+
+        <div class="bg-white rounded-lg shadow-md p-6">
+            <h2 class="text-xl font-bold text-gray-700 mb-2">Companies</h2>
+            <p class="text-4xl font-bold text-indigo-600">{totalCompanies}</p>
+            <p class="text-sm text-gray-500 mt-2">Companies represented</p>
+        </div>
+    </div>
+
+    <!-- Category Statistics -->
+    <h2 class="text-2xl font-bold text-gray-800 mb-4">Category Statistics</h2>
+    <div class="bg-white rounded-lg shadow-md p-6 mb-8">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div>
+                <h3 class="text-lg font-semibold mb-3">
+                    Most Popular Category
+                </h3>
+                <div class="flex items-center">
+                    <div class="bg-indigo-100 p-3 rounded-md mr-4">
+                        <a
+                            href={`/category/${mostPopularCategory[0]}`}
+                            class="text-indigo-600 hover:underline"
+                        >
+                            {mostPopularCategory[0]}
+                        </a>
+                    </div>
+                    <div>
+                        <p class="text-3xl font-bold">
+                            {mostPopularCategory[1]}
+                        </p>
+                        <p class="text-sm text-gray-500">Products</p>
+                    </div>
+                </div>
+            </div>
+
+            <div>
+                <h3 class="text-lg font-semibold mb-3">
+                    Least Popular Category
+                </h3>
+                <div class="flex items-center">
+                    <div class="bg-indigo-100 p-3 rounded-md mr-4">
+                        <a
+                            href={`/category/${leastPopularCategory[0]}`}
+                            class="text-indigo-600 hover:underline"
+                        >
+                            {leastPopularCategory[0]}
+                        </a>
+                    </div>
+                    <div>
+                        <p class="text-3xl font-bold">
+                            {leastPopularCategory[1]}
+                        </p>
+                        <p class="text-sm text-gray-500">Products</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="mt-8">
+            <h3 class="text-lg font-semibold mb-4">All Categories</h3>
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                {
+                    categoriesByCount.map(([category, count]) => (
+                        <div class="flex justify-between items-center border border-gray-200 rounded-lg p-4">
+                            <a
+                                href={`/category/${category}`}
+                                class="text-indigo-600 hover:underline font-medium"
+                            >
+                                {category}
+                            </a>
+                            <span class="bg-indigo-100 text-indigo-800 px-3 py-1 rounded-full text-sm">
+                                {count} product{count !== 1 ? "s" : ""}
+                            </span>
+                        </div>
+                    ))
+                }
+            </div>
+        </div>
+    </div>
+
+    <!-- Company Statistics -->
+    <h2 class="text-2xl font-bold text-gray-800 mb-4">Company Statistics</h2>
+    <div class="bg-white rounded-lg shadow-md p-6 mb-8">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div>
+                <h3 class="text-lg font-semibold mb-3">Top Company</h3>
+                <div class="flex items-center">
+                    <div class="bg-indigo-100 p-3 rounded-md mr-4">
+                        <a
+                            href={`/company/${mostProductiveCompany[0]}`}
+                            class="text-indigo-600 hover:underline"
+                        >
+                            {mostProductiveCompany[0]}
+                        </a>
+                    </div>
+                    <div>
+                        <p class="text-3xl font-bold">
+                            {mostProductiveCompany[1]}
+                        </p>
+                        <p class="text-sm text-gray-500">Products</p>
+                    </div>
+                </div>
+            </div>
+
+            <div>
+                <h3 class="text-lg font-semibold mb-3">
+                    Company with Fewest Products
+                </h3>
+                <div class="flex items-center">
+                    <div class="bg-indigo-100 p-3 rounded-md mr-4">
+                        <a
+                            href={`/company/${leastProductiveCompany[0]}`}
+                            class="text-indigo-600 hover:underline"
+                        >
+                            {leastProductiveCompany[0]}
+                        </a>
+                    </div>
+                    <div>
+                        <p class="text-3xl font-bold">
+                            {leastProductiveCompany[1]}
+                        </p>
+                        <p class="text-sm text-gray-500">Products</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="mt-8">
+            <h3 class="text-lg font-semibold mb-4">All Companies</h3>
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                {
+                    companiesByCount.map(([company, count]) => (
+                        <div class="flex justify-between items-center border border-gray-200 rounded-lg p-4">
+                            <a
+                                href={`/company/${company}`}
+                                class="text-indigo-600 hover:underline font-medium"
+                            >
+                                {company}
+                            </a>
+                            <span class="bg-indigo-100 text-indigo-800 px-3 py-1 rounded-full text-sm">
+                                {count} product{count !== 1 ? "s" : ""}
+                            </span>
+                        </div>
+                    ))
+                }
+            </div>
+        </div>
+    </div>
+
+    <!-- Rating Statistics -->
+    <h2 class="text-2xl font-bold text-gray-800 mb-4">Rating Statistics</h2>
+    <div class="bg-white rounded-lg shadow-md p-6 mb-8">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+            <div>
+                <h3 class="text-lg font-semibold mb-2">Average Rating</h3>
+                <div class="flex items-center">
+                    <div
+                        class="bg-indigo-600 text-white rounded-full w-16 h-16 flex items-center justify-center text-xl font-bold mr-4"
+                    >
+                        {avgRating.toFixed(1)}
+                    </div>
+                    <div>
+                        <p class="text-sm text-gray-500">Out of 10</p>
+                    </div>
+                </div>
+            </div>
+
+            <div>
+                <h3 class="text-lg font-semibold mb-2">Highest Rated</h3>
+                <div>
+                    <p class="font-medium">
+                        <a
+                            href={`/product/${highestRatedProduct.id}`}
+                            class="text-indigo-600 hover:underline"
+                        >
+                            {highestRatedProduct.data.product}
+                        </a>
+                    </p>
+                    <div class="flex items-center mt-1">
+                        <div
+                            class="bg-green-600 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold mr-2"
+                        >
+                            {highestRatedProduct.data.rating}
+                        </div>
+                        <p class="text-sm text-gray-500">/ 10</p>
+                    </div>
+                </div>
+            </div>
+
+            <div>
+                <h3 class="text-lg font-semibold mb-2">Lowest Rated</h3>
+                <div>
+                    <p class="font-medium">
+                        <a
+                            href={`/product/${lowestRatedProduct.id}`}
+                            class="text-indigo-600 hover:underline"
+                        >
+                            {lowestRatedProduct.data.product}
+                        </a>
+                    </p>
+                    <div class="flex items-center mt-1">
+                        <div
+                            class="bg-red-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold mr-2"
+                        >
+                            {lowestRatedProduct.data.rating}
+                        </div>
+                        <p class="text-sm text-gray-500">/ 10</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <h3 class="text-lg font-semibold mb-4">Rating Distribution</h3>
+        <div class="space-y-4">
+            {
+                ratingsData.map(({ rating, count, percentage }) => (
+                    <div>
+                        <div class="flex justify-between mb-1">
+                            <a
+                                href={`/rating/filter/${rating}`}
+                                class="text-indigo-600 hover:underline"
+                            >
+                                {rating}/10
+                            </a>
+                            <span>
+                                {count} product{count !== 1 ? "s" : ""} (
+                                {percentage}%)
+                            </span>
+                        </div>
+                        <div class="w-full bg-gray-200 rounded-full h-2.5">
+                            <div
+                                class="bg-indigo-600 h-2.5 rounded-full"
+                                style={`width: ${percentage}%`}
+                            />
+                        </div>
+                    </div>
+                ))
+            }
+        </div>
+    </div>
+</Layout>

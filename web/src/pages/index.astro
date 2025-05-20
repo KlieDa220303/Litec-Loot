@@ -1,17 +1,23 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import ProductGrid from "../components/ProductGrid.astro";
+import SortingToggle from "../components/SortingToggle.astro";
+import FilterSection from "../components/FilterSection.astro";
 import { getCollection } from "astro:content";
+
 const products = await getCollection("products");
+const sortedProducts = [...products].sort(
+	(a, b) => b.data.rating - a.data.rating,
+);
 ---
 
-<Layout>
-	<ul>
-		{
-			products.map((product) => (
-				<li>
-					<a href={`/blog/${product.id}`}>{product.data.product}</a>
-				</li>
-			))
-		}
-	</ul>
+<Layout title="Litec-Loot - All Products">
+	<div class="flex justify-between items-center mb-8">
+		<h1 class="text-3xl font-bold text-gray-800">All Products</h1>
+		<SortingToggle currentPath={Astro.url.pathname} />
+	</div>
+
+	<FilterSection products={products} />
+
+	<ProductGrid products={sortedProducts} />
 </Layout>

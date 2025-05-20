@@ -1,0 +1,70 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import ProductGrid from "../../../components/ProductGrid.astro";
+import FilterSection from "../../../components/FilterSection.astro";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+    const products = await getCollection("products");
+    const ratings = [
+        ...new Set(products.map((product) => product.data.rating)),
+    ];
+
+    return ratings.map((rating) => {
+        const ratingProducts = products.filter(
+            (product) => product.data.rating === rating,
+        );
+        return {
+            params: { slug: rating.toString() },
+            props: { rating, products: ratingProducts },
+        };
+    });
+}
+
+const { rating, products } = Astro.props;
+const sortedProducts = [...products].sort(
+    (a, b) => b.data.rating - a.data.rating,
+);
+const allProducts = await getCollection("products");
+---
+
+<Layout title={`Products Rated ${rating}/10 - Litec-Loot`}>
+    <div class="mb-8">
+        <a
+            href="/"
+            class="text-indigo-600 hover:underline flex items-center mb-4"
+        >
+            <svg
+                xmlns="http://www.w3.org/2000/svg"
+                class="h-5 w-5 mr-2"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+            >
+                <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
+            </svg>
+            Back to all products
+        </a>
+    </div>
+
+    <div class="bg-indigo-50 border border-indigo-100 rounded-lg p-4 mb-8">
+        <div class="flex items-center">
+            <div
+                class="bg-indigo-600 text-white rounded-full w-12 h-12 flex items-center justify-center text-xl font-bold mr-4"
+            >
+                {rating}
+            </div>
+            <p class="text-lg">
+                Showing all products rated <strong>{rating}/10</strong>
+            </p>
+        </div>
+    </div>
+
+    <FilterSection products={allProducts} showRatingFilter={false} />
+
+    <ProductGrid products={sortedProducts} />
+</Layout>

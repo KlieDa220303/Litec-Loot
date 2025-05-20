@@ -1,0 +1,22 @@
+---
+const { currentPath } = Astro.props;
+const isDesc = currentPath === "/rating/desc" || currentPath === "/";
+const isAsc = currentPath === "/rating/asc";
+---
+
+<div class="flex justify-end mb-6">
+    <div class="bg-white rounded-lg shadow-md p-2 inline-flex">
+        <a
+            href="/rating/desc"
+            class={`px-4 py-2 rounded-l-md ${isDesc ? "bg-indigo-600 text-white" : "hover:bg-gray-100"}`}
+        >
+            Highest Rated
+        </a>
+        <a
+            href="/rating/asc"
+            class={`px-4 py-2 rounded-r-md ${isAsc ? "bg-indigo-600 text-white" : "hover:bg-gray-100"}`}
+        >
+            Lowest Rated
+        </a>
+    </div>
+</div>

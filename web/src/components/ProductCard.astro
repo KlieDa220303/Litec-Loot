@@ -1,0 +1,47 @@
+---
+export interface Props {
+    id: string;
+    product: string;
+    company: string;
+    category: string;
+    rating: number;
+}
+
+const { id, product, company, category, rating } = Astro.props;
+---
+
+<div
+    class="bg-white rounded-lg shadow-lg overflow-hidden transition-transform hover:scale-105"
+>
+    <div class="p-5 relative">
+        <a
+            href={`/rating/filter/${rating}`}
+            class="absolute top-2 right-2 bg-indigo-600 text-white rounded-full w-10 h-10 flex items-center justify-center font-bold"
+        >
+            {rating}
+        </a>
+
+        <h2 class="text-xl font-bold mt-2 mb-3">
+            <a href={`/product/${id}`} class="text-indigo-700 hover:underline"
+                >{product}</a
+            >
+        </h2>
+
+        <div class="flex flex-col space-y-2 text-sm text-gray-600">
+            <div>
+                <span class="font-medium">Company:</span>
+                <a
+                    href={`/company/${company}`}
+                    class="text-indigo-600 hover:underline">{company}</a
+                >
+            </div>
+            <div>
+                <span class="font-medium">Category:</span>
+                <a
+                    href={`/category/${category}`}
+                    class="text-indigo-600 hover:underline">{category}</a
+                >
+            </div>
+        </div>
+    </div>
+</div>

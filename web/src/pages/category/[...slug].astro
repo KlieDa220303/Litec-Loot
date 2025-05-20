@@ -1,0 +1,59 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import ProductGrid from "../../components/ProductGrid.astro";
+import FilterSection from "../../components/FilterSection.astro";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+    const products = await getCollection("products");
+    const categories = [
+        ...new Set(products.map((product) => product.data.category)),
+    ];
+
+    return categories.map((category) => {
+        const categoryProducts = products.filter(
+            (product) => product.data.category === category,
+        );
+        return {
+            params: { slug: category },
+            props: { category, products: categoryProducts },
+        };
+    });
+}
+
+const { category, products } = Astro.props;
+const sortedProducts = [...products].sort(
+    (a, b) => b.data.rating - a.data.rating,
+);
+const allProducts = await getCollection("products");
+---
+
+<Layout title={`${category} Products - Litec-Loot`}>
+    <div class="mb-8">
+        <a
+            href="/"
+            class="text-indigo-600 hover:underline flex items-center mb-4"
+        >
+            <svg
+                xmlns="http://www.w3.org/2000/svg"
+                class="h-5 w-5 mr-2"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+            >
+                <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
+            </svg>
+            Back to all products
+        </a>
+    </div>
+
+    <h1 class="text-3xl font-bold text-gray-800 mb-8">{category} Products</h1>
+
+    <FilterSection products={allProducts} />
+
+    <ProductGrid products={sortedProducts} />
+</Layout>
