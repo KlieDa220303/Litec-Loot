@@ -1,15 +1,15 @@
 ---
-product: 'Din Getr�nl'
+product: 'Din Getränk'
 company: 'Din'
 rating: 6
-category: 'Getr�nk'
+category: 'Getränk'
 ---
 
-# Din - Din Getr�nl
+# Din - Din Getränk
 >
 > 6 / 10
 >
-> Getr�nk
+> Getränk
 
-![Din Getr�nl](./assets/din-din-getr�nl-ee30b2ac-b580-474c-bbc1-535764bc0575.jpg)
+![Din Getränk](./assets/din-din-getränl-ee30b2ac-b580-474c-bbc1-535764bc0575.jpg)
 energy drink

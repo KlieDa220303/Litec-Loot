@@ -1,15 +1,15 @@
 ---
-product: 'Efinio Getr�nk'
+product: 'Efinio Getränk'
 company: 'Efinio'
 rating: 7
-category: 'Getr�nk'
+category: 'Getränk'
 ---
 
 # Efinio - Efinio Getr�nk
 >
 > 7 / 10
 >
-> Getr�nk
+> Getränk
 
-![Efinio Getr�nk](./assets/efinio-efinio-getr�nk-200a6993-847d-4a39-a8c2-79b3e6bee2bb.jpg)
+![Efinio Getränk](./assets/efinio-efinio-getränk-200a6993-847d-4a39-a8c2-79b3e6bee2bb.jpg)
 slurp

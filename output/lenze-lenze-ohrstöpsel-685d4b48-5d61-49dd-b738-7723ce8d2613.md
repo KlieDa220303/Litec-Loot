@@ -1,15 +1,15 @@
 ---
-product: 'Lenze Ohrst�psel'
+product: 'Lenze Ohrstöpsel'
 company: 'Lenze'
 rating: 7
-category: 'Ohrst�psel'
+category: 'Ohrstöpsel'
 ---
 
-# Lenze - Lenze Ohrst�psel
+# Lenze - Lenze Ohrstöpsel
 >
 > 7 / 10
 >
-> Ohrst�psel
+> Ohrstöpsel
 
-![Lenze Ohrst�psel](./assets/lenze-lenze-ohrst�psel-685d4b48-5d61-49dd-b738-7723ce8d2613.jpg)
-Ohrst�psel
+![Lenze Ohrstöpsel](./assets/lenze-lenze-ohrstöpsel-685d4b48-5d61-49dd-b738-7723ce8d2613.jpg)
+Ohrstöpsel

@@ -1,15 +1,15 @@
 ---
-product: 'ABB gummib�ren'
+product: 'ABB gummibären'
 company: 'ABB'
 rating: 3
-category: 'S��igkeiten'
+category: 'Süßigkeiten'
 ---
 
 # ABB - ABB gummib�ren
 >
 > 3 / 10
 >
-> S��igkeiten
+> Süßigkeiten
 
-![ABB gummib�ren](./assets/abb-abb-gummib�ren-04343015-3b2a-4e31-a5ae-8efc0758f2a6.jpg)
-standard gummib�ren
+![ABB gummibären](./assets/abb-abb-gummibären-04343015-3b2a-4e31-a5ae-8efc0758f2a6.jpg)
+standard gummibären

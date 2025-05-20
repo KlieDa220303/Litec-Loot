@@ -1,15 +1,15 @@
 ---
-product: 'Kaeser Getr�nk'
+product: 'Kaeser Getränk'
 company: 'Kaeser'
 rating: 7
-category: 'Getr�nk'
+category: 'Getränk'
 ---
 
 # Kaeser - Kaeser Getr�nk
 >
 > 7 / 10
 >
-> Getr�nk
+> Getränk
 
-![Kaeser Getr�nk](./assets/kaeser-kaeser-getr�nk-42ac13d2-37c1-499e-9801-30f7d618a4f4.jpg)
+![Kaeser Getränk](./assets/kaeser-kaeser-getränk-42ac13d2-37c1-499e-9801-30f7d618a4f4.jpg)
 yummy

@@ -1,15 +1,15 @@
 ---
-product: 'Wolf gummib�ren'
+product: 'Wolf gummibären'
 company: 'wolf'
 rating: 3
-category: 'S��igkeiten'
+category: 'Süßigkeiten'
 ---
 
 # wolf - Wolf gummib�ren
 >
 > 3 / 10
 >
-> S��igkeiten
+> Süßigkeiten
 
-![Wolf gummib�ren](./assets/wolf-wolf-gummib�ren-ee60b9e0-9f30-4e64-9cad-60212987b92d.jpg)
-Gummib�ren
+![Wolf gummibären](./assets/wolf-wolf-gummibären-ee60b9e0-9f30-4e64-9cad-60212987b92d.jpg)
+Gummibären

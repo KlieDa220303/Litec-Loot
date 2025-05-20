@@ -1,15 +1,15 @@
 ---
-product: 'Lenze Gummib�rchen'
+product: 'Lenze Gummibärchen'
 company: 'Lenze'
 rating: 7
-category: 'S��igkeiten'
+category: 'Süßigkeiten'
 ---
 
 # Lenze - Lenze Gummib�rchen
 >
 > 7 / 10
 >
-> S��igkeiten
+> Süßigkeiten
 
-![Lenze Gummib�rchen](./assets/lenze-lenze-gummib�rchen-0f897ae0-a58f-4254-89ca-8124978f4e60.jpg)
-standard gummib�ren
+![Lenze Gummibärchen](./assets/lenze-lenze-gummibärchen-0f897ae0-a58f-4254-89ca-8124978f4e60.jpg)
+standard gummibären

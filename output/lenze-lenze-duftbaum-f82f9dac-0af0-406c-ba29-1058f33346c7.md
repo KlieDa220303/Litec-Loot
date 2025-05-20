@@ -12,4 +12,4 @@ category: 'Duft'
 > Duft
 
 ![Lenze DuftBaum](./assets/lenze-lenze-duftbaum-f82f9dac-0af0-406c-ba29-1058f33346c7.jpg)
-ein duftbaum f�rs auto
+ein duftbaum fürs auto

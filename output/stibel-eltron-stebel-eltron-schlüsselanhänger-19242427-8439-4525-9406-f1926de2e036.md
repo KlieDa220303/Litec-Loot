@@ -1,15 +1,15 @@
 ---
-product: 'Stebel Eltron Schl�sselanh�nger'
+product: 'Stebel Eltron Schlüsselanhänger'
 company: 'Stibel Eltron'
 rating: 4
-category: 'Schl�sselanh�nger'
+category: 'Schlüsselanhänger'
 ---
 
 # Stibel Eltron - Stebel Eltron Schl�sselanh�nger
 >
 > 4 / 10
 >
-> Schl�sselanh�nger
+> Schlüsselanhänger
 
-![Stebel Eltron Schl�sselanh�nger](./assets/stibel-eltron-stebel-eltron-schl�sselanh�nger-19242427-8439-4525-9406-f1926de2e036.jpg)
-zum aufh�ngen am hals
+![Stebel Eltron Schlüsselanhänger](./assets/stibel-eltron-stebel-eltron-schlüsselanhänger-19242427-8439-4525-9406-f1926de2e036.jpg)
+zum aufhängen am hals
