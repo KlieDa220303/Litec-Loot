@@ -1,7 +1,6 @@
 ---
 import Layout from "../../layouts/Layout.astro";
 import ProductGrid from "../../components/ProductGrid.astro";
-import SortingToggle from "../../components/SortingToggle.astro";
 import FilterSection from "../../components/FilterSection.astro";
 import { getCollection } from "astro:content";
 
@@ -14,7 +13,22 @@ const sortedProducts = [...products].sort(
 <Layout title="Lowest Rated Products - Litec-Loot">
     <div class="flex justify-between items-center mb-8">
         <h1 class="text-3xl font-bold text-gray-800">Lowest Rated Products</h1>
-        <SortingToggle currentPath={Astro.url.pathname} />
+        <div class="flex justify-end mb-6">
+            <div class="bg-white rounded-lg shadow-md p-2 inline-flex">
+                <a
+                    href="/rating/desc"
+                    class="px-4 py-2 rounded-l-md hover:bg-gray-100"
+                >
+                    Highest Rated
+                </a>
+                <a
+                    href="/rating/asc"
+                    class="px-4 py-2 rounded-r-md bg-indigo-600 text-white"
+                >
+                    Lowest Rated
+                </a>
+            </div>
+        </div>
     </div>
 
     <FilterSection products={products} />
