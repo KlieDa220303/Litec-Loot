@@ -1,11 +1,11 @@
 ---
 product: 'LinzAG_Block_gross'
-company: 'LinzAg'
+company: 'LinzAG'
 rating: 5
 category: 'Block'
 ---
 
-# LinzAg - LinzAG_Block_gross
+# LinzAg - LinzAG Block gross
 >
 > 5 / 10
 >

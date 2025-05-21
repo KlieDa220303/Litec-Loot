@@ -1,6 +1,6 @@
 ---
 product: 'Ke-kelit stift'
-company: 'ke-kelit'
+company: 'KE KELIT'
 rating: 4
 category: 'Stift'
 ---
