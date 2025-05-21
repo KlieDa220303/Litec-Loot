@@ -1,5 +1,5 @@
 ---
-product: 'LinzAG_Block_gross'
+product: 'LinzAG Block gross'
 company: 'LinzAG'
 rating: 5
 category: 'Block'

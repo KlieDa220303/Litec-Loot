@@ -1,11 +1,11 @@
 ---
-product: 'linzAG_buch'
+product: 'linzAG buch'
 company: 'LinzAG'
 rating: 5
 category: 'Block'
 ---
 
-# LinzAG - linzAG_buch
+# LinzAG - linzAG buch
 >
 > 5 / 10
 >
