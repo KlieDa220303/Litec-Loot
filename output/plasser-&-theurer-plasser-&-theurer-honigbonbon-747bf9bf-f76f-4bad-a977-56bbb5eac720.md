@@ -11,5 +11,5 @@ category: 'Süßigkeiten'
 >
 > Süßigkeiten
 
-![Plasser & Theurer Honigbonbon](./assets/plasser-&-theurer-plasser-&-theurer-honigbonbon-747bf9bf-f76f-4bad-a977-56bbb5eac720.jpg)
+![Plasser & Theurer Honigbonbon](./assets/plasser-und-theurer-plasser-und-theurer-honigbonbon-747bf9bf-f76f-4bad-a977-56bbb5eac720.jpg)
 Gut für den Hals

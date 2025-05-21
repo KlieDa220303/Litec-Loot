@@ -11,5 +11,5 @@ category: 'Schlüsselanhänger'
 >
 > Schlüsselanhänger
 
-![Plasser & Theurer Schlüsselanhänger](./assets/plasser-&-theurer-plasser-&-theurer-schlüsselanhänger-dd11bbfb-a934-47af-a239-f2334fc623e7.jpg)
+![Plasser & Theurer Schlüsselanhänger](./assets/plasser-und-theurer-plasser-und-theurer-schlüsselanhänger-dd11bbfb-a934-47af-a239-f2334fc623e7.jpg)
 Anhänger

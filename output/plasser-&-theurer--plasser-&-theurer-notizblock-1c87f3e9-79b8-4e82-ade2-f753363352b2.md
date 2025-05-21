@@ -11,5 +11,5 @@ category: 'Block'
 >
 > Block
 
-![Plasser & Theurer Notizblock](./assets/plasser-&-theurer--plasser-&-theurer-notizblock-1c87f3e9-79b8-4e82-ade2-f753363352b2.jpg)
+![Plasser & Theurer Notizblock](./assets/plasser-und-theurer--plasser-und-theurer-notizblock-1c87f3e9-79b8-4e82-ade2-f753363352b2.jpg)
 Notizen
