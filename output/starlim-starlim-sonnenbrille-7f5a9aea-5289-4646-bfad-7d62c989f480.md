@@ -1,15 +1,15 @@
 ---
-product: 'Starlim Sonnenbrille'
-company: 'Starlim'
+product: 'Starlim Sterner Sonnenbrille'
+company: 'Starlim Sterner'
 rating: 8
 category: 'Kleidung'
 ---
 
-# Starlim - Starlim Sonnenbrille
+# Starlim Sterner - Starlim Sterner Sonnenbrille
 >
 > 8 / 10
 >
 > Kleidung
 
-![Starlim Sonnenbrille](./assets/starlim-starlim-sonnenbrille-7f5a9aea-5289-4646-bfad-7d62c989f480.jpg)
+![Starlim Sterner Sonnenbrille](./assets/starlim-starlim-sonnenbrille-7f5a9aea-5289-4646-bfad-7d62c989f480.jpg)
 gute sonnenbrille

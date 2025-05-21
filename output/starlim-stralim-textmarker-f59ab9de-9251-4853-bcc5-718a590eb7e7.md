@@ -1,11 +1,11 @@
 ---
 product: 'Stralim textmarker'
-company: 'Starlim'
+company: 'Starlim Sterner'
 rating: 5
 category: 'Stift'
 ---
 
-# Starlim - Stralim textmarker
+# Starlim Sterner - Stralim textmarker
 >
 > 5 / 10
 >
