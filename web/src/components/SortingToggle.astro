@@ -1,7 +1,10 @@
 ---
 const { currentPath } = Astro.props;
-const isDesc = currentPath === "/rating/desc" || currentPath === "/";
-const isAsc = currentPath === "/rating/asc";
+const isDesc =
+    currentPath.endsWith("/rating/desc") ||
+    currentPath === "/" ||
+    currentPath.endsWith("/");
+const isAsc = currentPath.endsWith("/rating/asc");
 ---
 
 <div class="flex justify-end mb-6">
