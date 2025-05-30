@@ -1,6 +1,6 @@
 ---
-product: 'Swie-Energie'
-company: 'Swie-Energie band'
+product: 'Swie-Energie band'
+company: 'Swie-Energie'
 rating: 4
 category: 'Schlüsselanhänger'
 ---

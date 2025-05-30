@@ -1,6 +1,6 @@
 ---
-product: 'CountIT hut'
-company: 'CountIT'
+product: 'Count IT hut'
+company: 'Count IT'
 rating: 8
 category: 'Kleidung'
 ---

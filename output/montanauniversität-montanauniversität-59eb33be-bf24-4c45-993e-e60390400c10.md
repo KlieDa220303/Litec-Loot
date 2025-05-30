@@ -1,6 +1,6 @@
 ---
-product: 'Montanauniversität'
-company: 'MOntanauniversität'
+product: 'Montanuniversität Block'
+company: 'Montanuniversität'
 rating: 4
 category: 'Block'
 ---

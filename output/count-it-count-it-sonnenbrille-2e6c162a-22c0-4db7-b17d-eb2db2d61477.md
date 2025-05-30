@@ -1,6 +1,6 @@
 ---
 product: 'Count IT Sonnenbrille'
-company: 'Count It'
+company: 'Count IT'
 rating: 6
 category: 'Kleidung'
 ---
