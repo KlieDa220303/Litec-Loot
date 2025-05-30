@@ -1,13 +1,13 @@
 ---
 product: 'DIN Kondom'
 company: 'DIN'
-rating: 'Sicherheit'
+rating: 6
 category: 'Sicherheit'
 ---
 
 # DIN - DIN Kondom
 >
-> Sicherheit / 10
+> 6 / 10
 >
 > Sicherheit
 
