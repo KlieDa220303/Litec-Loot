@@ -1,7 +1,7 @@
 ---
 product: 'Bilfinger Stift'
 company: 'Bilfinger'
-rating: '5'
+rating: 5
 category: 'Stift'
 ---
 

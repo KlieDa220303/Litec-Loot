@@ -1,7 +1,7 @@
 ---
 product: 'TGW Postists'
 company: 'TGW'
-rating: '4'
+rating: 4
 category: 'Block'
 ---
 

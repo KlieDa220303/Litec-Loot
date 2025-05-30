@@ -1,7 +1,7 @@
 ---
 product: 'Bosch Popsocket'
 company: 'Bosch'
-rating: '8'
+rating: 8
 category: 'Spielzeug'
 ---
 

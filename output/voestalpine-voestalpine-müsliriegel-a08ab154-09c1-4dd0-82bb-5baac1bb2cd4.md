@@ -1,7 +1,7 @@
 ---
 product: 'Voestalpine Müsliriegel'
 company: 'Voestalpine'
-rating: '7'
+rating: 7
 category: 'Essen'
 ---
 

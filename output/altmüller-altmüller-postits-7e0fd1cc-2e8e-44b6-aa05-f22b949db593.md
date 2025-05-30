@@ -1,7 +1,7 @@
 ---
 product: 'Altmüller postits'
 company: 'Altmüller'
-rating: '4'
+rating: 4
 category: 'Block'
 ---
 

@@ -1,7 +1,7 @@
 ---
 product: 'Count IT spielkarten'
 company: 'Count IT'
-rating: '8'
+rating: 8
 category: 'Spielzeug'
 ---
 

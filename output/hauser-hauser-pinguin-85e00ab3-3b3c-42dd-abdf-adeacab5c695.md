@@ -1,7 +1,7 @@
 ---
 product: 'Hauser Pinguin'
 company: 'Hauser'
-rating: '10'
+rating: 10
 category: 'Spielzeug'
 ---
 

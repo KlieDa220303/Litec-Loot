@@ -1,7 +1,7 @@
 ---
 product: 'Stiwa multitool'
 company: 'Stiwa'
-rating: '6'
+rating: 6
 category: 'Schlüsselanhänger'
 ---
 

@@ -1,7 +1,7 @@
 ---
 product: 'Count IT radierer'
 company: 'Count IT'
-rating: '2'
+rating: 2
 category: 'Radierer'
 ---
 

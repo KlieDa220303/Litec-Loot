@@ -1,7 +1,7 @@
 ---
 product: 'Eisenbeiss Stift'
 company: 'Eisenbeiss'
-rating: '7'
+rating: 7
 category: 'Stift'
 ---
 

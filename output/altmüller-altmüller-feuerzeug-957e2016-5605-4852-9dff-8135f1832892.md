@@ -1,7 +1,7 @@
 ---
 product: 'Altmüller Feuerzeug'
 company: 'Altmüller'
-rating: '9'
+rating: 9
 category: 'Feuerzeug'
 ---
 

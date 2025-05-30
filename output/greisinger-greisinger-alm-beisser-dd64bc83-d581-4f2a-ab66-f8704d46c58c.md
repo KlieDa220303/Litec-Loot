@@ -1,7 +1,7 @@
 ---
 product: 'Greisinger Alm Beisser'
 company: 'Greisinger'
-rating: '9'
+rating: 9
 category: 'Essen'
 ---
 

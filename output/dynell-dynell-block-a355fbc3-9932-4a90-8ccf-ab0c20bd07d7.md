@@ -1,7 +1,7 @@
 ---
 product: 'Dynell Block'
 company: 'Dynell'
-rating: '5'
+rating: 5
 category: 'Block'
 ---
 

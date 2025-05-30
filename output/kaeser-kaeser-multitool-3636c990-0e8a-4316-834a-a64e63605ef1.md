@@ -1,7 +1,7 @@
 ---
 product: 'Kaeser Multitool'
 company: 'Kaeser'
-rating: '10'
+rating: 10
 category: 'Multitool'
 ---
 

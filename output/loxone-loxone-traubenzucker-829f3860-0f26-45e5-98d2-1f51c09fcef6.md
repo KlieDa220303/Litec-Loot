@@ -1,7 +1,7 @@
 ---
 product: 'Loxone Traubenzucker'
 company: 'Loxone'
-rating: '3'
+rating: 3
 category: 'Süßigkeiten'
 ---
 

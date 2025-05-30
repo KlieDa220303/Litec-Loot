@@ -1,7 +1,7 @@
 ---
 product: 'Spie Fruchtgummis'
 company: 'Spie'
-rating: '5'
+rating: 5
 category: 'Süßigkeiten'
 ---
 

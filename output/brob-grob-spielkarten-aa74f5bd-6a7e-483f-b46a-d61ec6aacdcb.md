@@ -1,7 +1,7 @@
 ---
 product: 'Grob Spielkarten'
 company: 'Brob'
-rating: '7'
+rating: 7
 category: 'spielzeug'
 ---
 

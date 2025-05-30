@@ -1,7 +1,7 @@
 ---
 product: 'Salvagnini Textmarker'
 company: 'Salvagnini'
-rating: '5'
+rating: 5
 category: 'Stift'
 ---
 

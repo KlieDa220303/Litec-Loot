@@ -1,7 +1,7 @@
 ---
 product: 'Bosch Minzen'
 company: 'Bosch'
-rating: '4'
+rating: 4
 category: 'Süßigkeiten'
 ---
 

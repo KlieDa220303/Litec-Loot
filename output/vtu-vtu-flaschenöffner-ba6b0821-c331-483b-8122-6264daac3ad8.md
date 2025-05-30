@@ -1,7 +1,7 @@
 ---
 product: 'VTU Flaschenöffner'
 company: 'VTU'
-rating: '5'
+rating: 5
 category: 'Schlüsselanhänger'
 ---
 

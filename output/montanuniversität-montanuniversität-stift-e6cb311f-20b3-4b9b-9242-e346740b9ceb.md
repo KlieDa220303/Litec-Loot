@@ -1,7 +1,7 @@
 ---
 product: 'Montanuniversität Stift'
 company: 'Montanuniversität'
-rating: '4'
+rating: 4
 category: 'Stift'
 ---
 

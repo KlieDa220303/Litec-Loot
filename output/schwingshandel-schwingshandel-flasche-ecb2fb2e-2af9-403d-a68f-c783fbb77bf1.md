@@ -1,7 +1,7 @@
 ---
 product: 'Schwingshandel Flasche'
 company: 'Schwingshandel'
-rating: '6'
+rating: 6
 category: 'Getränk'
 ---
 

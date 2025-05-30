@@ -1,7 +1,7 @@
 ---
 product: 'Dynell kugelschreiber'
 company: 'Dynell'
-rating: '6'
+rating: 6
 category: 'Stift'
 ---
 

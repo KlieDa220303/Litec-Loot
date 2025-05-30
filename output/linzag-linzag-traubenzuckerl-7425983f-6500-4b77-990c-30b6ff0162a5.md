@@ -1,7 +1,7 @@
 ---
 product: 'LinzAG Traubenzuckerl'
 company: 'LinzAG'
-rating: '4'
+rating: 4
 category: 'Süßigkeiten'
 ---
 

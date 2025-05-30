@@ -1,7 +1,7 @@
 ---
 product: 'Schwingshandel Müsli riegel'
 company: 'Schwingshandel'
-rating: '7'
+rating: 7
 category: 'Süßigkeieten'
 ---
 

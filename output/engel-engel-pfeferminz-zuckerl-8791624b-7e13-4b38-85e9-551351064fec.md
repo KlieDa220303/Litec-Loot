@@ -1,7 +1,7 @@
 ---
 product: 'Engel pfeferminz zuckerl'
 company: 'Engel'
-rating: '5'
+rating: 5
 category: 'Süßigkeiten'
 ---
 

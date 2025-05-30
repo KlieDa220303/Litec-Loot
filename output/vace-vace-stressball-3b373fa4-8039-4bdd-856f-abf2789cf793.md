@@ -1,7 +1,7 @@
 ---
 product: 'Vace Stressball'
 company: 'Vace Group'
-rating: '4'
+rating: 4
 category: 'Gesundheit'
 ---
 

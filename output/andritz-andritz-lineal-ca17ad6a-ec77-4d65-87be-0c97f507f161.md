@@ -1,7 +1,7 @@
 ---
 product: 'Andritz Lineal'
 company: 'Andritz'
-rating: '5'
+rating: 5
 category: 'Messzeug'
 ---
 

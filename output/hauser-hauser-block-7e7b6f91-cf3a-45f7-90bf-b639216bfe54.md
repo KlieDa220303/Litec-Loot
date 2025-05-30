@@ -1,7 +1,7 @@
 ---
 product: 'Hauser Block'
 company: 'Hauser'
-rating: '5'
+rating: 5
 category: 'Block'
 ---
 

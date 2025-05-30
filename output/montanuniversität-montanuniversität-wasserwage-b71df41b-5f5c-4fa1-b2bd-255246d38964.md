@@ -1,7 +1,7 @@
 ---
 product: 'Montanuniversität wasserwage'
 company: 'Montanuniversität'
-rating: '8'
+rating: 8
 category: 'Schlüsselanhänger'
 ---
 

@@ -1,7 +1,7 @@
 ---
 product: 'Swie-Energie Sonnenbrille'
 company: 'Swie-Energie'
-rating: '6'
+rating: 6
 category: 'Kleidung'
 ---
 

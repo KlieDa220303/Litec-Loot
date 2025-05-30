@@ -1,7 +1,7 @@
 ---
 product: 'IMA Stift'
 company: 'IMA'
-rating: '4'
+rating: 4
 category: 'Stift'
 ---
 

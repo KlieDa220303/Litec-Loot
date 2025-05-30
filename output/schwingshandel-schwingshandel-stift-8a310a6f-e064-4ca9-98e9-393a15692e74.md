@@ -1,7 +1,7 @@
 ---
 product: 'Schwingshandel Stift'
 company: 'Schwingshandel'
-rating: '6'
+rating: 6
 category: 'Stift'
 ---
 

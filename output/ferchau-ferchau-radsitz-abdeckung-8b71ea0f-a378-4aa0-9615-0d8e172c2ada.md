@@ -1,7 +1,7 @@
 ---
 product: 'Ferchau radsitz abdeckung'
 company: 'Ferchau'
-rating: '5'
+rating: 5
 category: 'Radabdeckung'
 ---
 

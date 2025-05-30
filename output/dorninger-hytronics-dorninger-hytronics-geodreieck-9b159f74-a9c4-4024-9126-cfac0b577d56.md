@@ -1,7 +1,7 @@
 ---
 product: 'Dorninger Hytronics Geodreieck'
 company: 'Dorninger Hytronics'
-rating: '6'
+rating: 6
 category: 'Messzeug'
 ---
 

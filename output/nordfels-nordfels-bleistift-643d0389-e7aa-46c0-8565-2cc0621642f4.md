@@ -1,7 +1,7 @@
 ---
 product: 'Nordfels Bleistift'
 company: 'Nordfels'
-rating: '5'
+rating: 5
 category: 'Stift'
 ---
 

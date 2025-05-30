@@ -1,7 +1,7 @@
 ---
 product: 'Liwest Ringlicht'
 company: 'Liwest'
-rating: '8'
+rating: 8
 category: 'Elektronik'
 ---
 

@@ -1,7 +1,7 @@
 ---
 product: 'Ebner Block'
 company: 'Ebner'
-rating: '5'
+rating: 5
 category: 'Block'
 ---
 

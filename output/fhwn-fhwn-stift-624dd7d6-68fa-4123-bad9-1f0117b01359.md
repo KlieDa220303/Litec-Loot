@@ -1,7 +1,7 @@
 ---
 product: 'Fhwn Stift'
 company: 'Fhwn'
-rating: '5'
+rating: 5
 category: 'ift'
 ---
 

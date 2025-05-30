@@ -1,7 +1,7 @@
 ---
 product: 'Ecotherm Postits'
 company: 'Ecotherm'
-rating: '5'
+rating: 5
 category: 'Block'
 ---
 

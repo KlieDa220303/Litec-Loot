@@ -1,7 +1,7 @@
 ---
 product: 'Spie Block'
 company: 'Spie'
-rating: '3'
+rating: 3
 category: 'Block'
 ---
 

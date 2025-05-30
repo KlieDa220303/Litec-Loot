@@ -1,7 +1,7 @@
 ---
 product: 'Valiant TMS multitool'
 company: 'Valiant TMS'
-rating: '7'
+rating: 7
 category: 'Schlüsselanhänger'
 ---
 

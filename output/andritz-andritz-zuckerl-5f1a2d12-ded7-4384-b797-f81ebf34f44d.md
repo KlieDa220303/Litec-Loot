@@ -1,7 +1,7 @@
 ---
 product: 'Andritz Zuckerl'
 company: 'Andritz'
-rating: '3'
+rating: 3
 category: 'Süßigkeiten'
 ---
 

@@ -1,7 +1,7 @@
 ---
 product: 'Loxone Kugelschreiber'
 company: 'Loxone'
-rating: '8'
+rating: 8
 category: 'Stift'
 ---
 

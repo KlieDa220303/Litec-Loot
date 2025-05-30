@@ -1,7 +1,7 @@
 ---
 product: 'Eisenbeiss manner waffeln'
 company: 'Eisenbeiss'
-rating: '6'
+rating: 6
 category: 'Süßigkeiten'
 ---
 

@@ -1,7 +1,7 @@
 ---
 product: 'Swie-Energie Stift'
 company: 'Swie-Energie'
-rating: '5'
+rating: 5
 category: 'Stift'
 ---
 

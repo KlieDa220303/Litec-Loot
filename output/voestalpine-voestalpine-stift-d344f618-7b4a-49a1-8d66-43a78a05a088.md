@@ -1,7 +1,7 @@
 ---
 product: 'voestalpine stift'
 company: 'Voestalpine'
-rating: '5'
+rating: 5
 category: 'Stift'
 ---
 

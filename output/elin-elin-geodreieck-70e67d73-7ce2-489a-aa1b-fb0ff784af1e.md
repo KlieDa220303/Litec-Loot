@@ -1,7 +1,7 @@
 ---
 product: 'Elin Geodreieck'
 company: 'Elin'
-rating: '6'
+rating: 6
 category: 'Messzeug'
 ---
 

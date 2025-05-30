@@ -1,7 +1,7 @@
 ---
 product: 'Kreuzpointner Stift'
 company: 'Kreuzpointner'
-rating: '7'
+rating: 7
 category: 'Stift'
 ---
 

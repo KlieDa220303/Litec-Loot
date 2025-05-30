@@ -1,7 +1,7 @@
 ---
 product: 'Wacker Neuson Gummibären'
 company: 'Wacker Neuson'
-rating: '5'
+rating: 5
 category: 'Süßigkeiten'
 ---
 

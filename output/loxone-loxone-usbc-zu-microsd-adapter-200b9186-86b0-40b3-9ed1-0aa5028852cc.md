@@ -1,7 +1,7 @@
 ---
 product: 'Loxone usbc zu microsd adapter'
 company: 'Loxone'
-rating: '9'
+rating: 9
 category: 'Elektronik'
 ---
 

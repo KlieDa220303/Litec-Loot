@@ -1,7 +1,7 @@
 ---
 product: 'TGW RFID Blocker'
 company: 'TGW'
-rating: '3'
+rating: 3
 category: 'Sicherheit'
 ---
 

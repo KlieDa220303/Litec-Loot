@@ -1,7 +1,7 @@
 ---
 product: 'Dynell Stift'
 company: 'Dynell'
-rating: '5'
+rating: 5
 category: 'Stoft'
 ---
 

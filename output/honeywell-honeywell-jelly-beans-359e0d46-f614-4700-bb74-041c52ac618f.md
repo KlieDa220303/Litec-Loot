@@ -1,7 +1,7 @@
 ---
 product: 'Honeywell Jelly Beans'
 company: 'Honeywell'
-rating: '8'
+rating: 8
 category: 'Süßigkeiten'
 ---
 

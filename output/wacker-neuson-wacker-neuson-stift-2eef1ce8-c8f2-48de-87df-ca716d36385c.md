@@ -1,7 +1,7 @@
 ---
 product: 'Wacker neuson Stift'
 company: 'Wacker Neuson'
-rating: '5'
+rating: 5
 category: 'Stift'
 ---
 

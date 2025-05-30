@@ -1,7 +1,7 @@
 ---
 product: 'PMS Stift'
 company: 'PMS'
-rating: '7'
+rating: 7
 category: 'Stift'
 ---
 

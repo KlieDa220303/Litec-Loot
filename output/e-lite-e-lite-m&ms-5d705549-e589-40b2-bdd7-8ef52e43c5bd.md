@@ -1,7 +1,7 @@
 ---
 product: 'E-Lite M&Ms'
 company: 'E-Lite'
-rating: '7'
+rating: 7
 category: 'Süßigkeiten'
 ---
 

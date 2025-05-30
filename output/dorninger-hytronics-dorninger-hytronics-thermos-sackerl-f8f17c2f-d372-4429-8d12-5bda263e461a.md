@@ -1,7 +1,7 @@
 ---
 product: 'Dorninger Hytronics Thermos sackerl'
 company: 'Dorninger Hytronics'
-rating: '8'
+rating: 8
 category: 'anderes'
 ---
 

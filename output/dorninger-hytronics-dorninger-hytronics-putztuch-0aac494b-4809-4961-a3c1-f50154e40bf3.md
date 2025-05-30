@@ -1,7 +1,7 @@
 ---
 product: 'Dorninger Hytronics Putztuch'
 company: 'Dorninger Hytronics'
-rating: '5'
+rating: 5
 category: 'Anderes'
 ---
 

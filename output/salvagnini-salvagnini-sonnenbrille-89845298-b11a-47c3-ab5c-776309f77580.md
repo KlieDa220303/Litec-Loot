@@ -1,7 +1,7 @@
 ---
 product: 'Salvagnini Sonnenbrille'
 company: 'Salvagnini'
-rating: '7'
+rating: 7
 category: 'Kleidung'
 ---
 

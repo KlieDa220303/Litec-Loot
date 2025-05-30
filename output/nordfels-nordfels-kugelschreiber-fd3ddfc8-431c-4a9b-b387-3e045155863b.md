@@ -1,7 +1,7 @@
 ---
 product: 'Nordfels Kugelschreiber'
 company: 'Nordfels'
-rating: '7'
+rating: 7
 category: 'Stift'
 ---
 

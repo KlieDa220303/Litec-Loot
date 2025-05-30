@@ -1,7 +1,7 @@
 ---
 product: 'PMS Sonnenbrille'
 company: 'PMS'
-rating: '6'
+rating: 6
 category: 'Kleidung'
 ---
 

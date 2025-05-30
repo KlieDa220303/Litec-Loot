@@ -1,7 +1,7 @@
 ---
 product: 'ÖBB Kugelschreiber'
 company: 'ÖBB'
-rating: '7'
+rating: 7
 category: 'Stift'
 ---
 

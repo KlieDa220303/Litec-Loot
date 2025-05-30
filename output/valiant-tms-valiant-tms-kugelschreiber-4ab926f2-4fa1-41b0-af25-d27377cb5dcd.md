@@ -1,7 +1,7 @@
 ---
 product: 'Valiant TMS kugelschreiber'
 company: 'Valiant TMS'
-rating: '6'
+rating: 6
 category: 'Stift'
 ---
 

@@ -1,7 +1,7 @@
 ---
 product: 'Loxone Flaschenöffner'
 company: 'Loxone'
-rating: '5'
+rating: 5
 category: 'Schlüsselanhänger'
 ---
 

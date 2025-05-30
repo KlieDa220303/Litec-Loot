@@ -1,7 +1,7 @@
 ---
 product: 'Schwingshandel Schokolade'
 company: 'Schwingshandel'
-rating: '10'
+rating: 10
 category: 'Süßigkeiten'
 ---
 

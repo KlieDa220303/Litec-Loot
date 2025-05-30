@@ -1,7 +1,7 @@
 ---
 product: 'PMS Taschentücher'
 company: 'PMS'
-rating: '3'
+rating: 3
 category: 'Gesundheit'
 ---
 

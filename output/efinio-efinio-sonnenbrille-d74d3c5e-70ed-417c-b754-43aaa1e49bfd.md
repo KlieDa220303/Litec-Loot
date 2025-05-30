@@ -1,7 +1,7 @@
 ---
 product: 'Efinio Sonnenbrille'
 company: 'Efinio'
-rating: '6'
+rating: 6
 category: 'Kleidung'
 ---
 

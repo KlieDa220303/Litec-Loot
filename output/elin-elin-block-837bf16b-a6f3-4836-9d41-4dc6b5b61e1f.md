@@ -1,7 +1,7 @@
 ---
 product: 'Elin Block'
 company: 'Elin'
-rating: '4'
+rating: 4
 category: 'Block'
 ---
 

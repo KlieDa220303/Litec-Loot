@@ -1,7 +1,7 @@
 ---
 product: 'Ramsauer Feuerzeug'
 company: 'Ramsauer'
-rating: '6'
+rating: 6
 category: 'Feuerzeug'
 ---
 

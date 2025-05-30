@@ -1,7 +1,7 @@
 ---
 product: 'Wacker Neuson Block'
 company: 'Wacker Neuson'
-rating: '3'
+rating: 3
 category: 'Block'
 ---
 

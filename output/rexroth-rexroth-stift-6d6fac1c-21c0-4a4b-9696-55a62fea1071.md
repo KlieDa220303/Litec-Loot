@@ -1,7 +1,7 @@
 ---
 product: 'Rexroth Stift'
 company: 'Rexroth'
-rating: '7'
+rating: 7
 category: 'ift'
 ---
 

@@ -1,7 +1,7 @@
 ---
 product: 'Liwest Stift'
 company: 'Liwest'
-rating: '5'
+rating: 5
 category: 'Stift'
 ---
 

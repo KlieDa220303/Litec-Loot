@@ -1,7 +1,7 @@
 ---
 product: 'Grob Postits'
 company: 'Grob'
-rating: '5'
+rating: 5
 category: 'Block'
 ---
 

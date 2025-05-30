@@ -5,7 +5,7 @@ rating: 6
 category: 'Stift'
 ---
 
-# E Punkt - E Punkt Regenschirm
+# E Punkt - E Punkt Stift
 >
 > 6 / 10
 >

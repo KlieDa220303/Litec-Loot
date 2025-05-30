@@ -1,7 +1,7 @@
 ---
 product: 'ÖBB blumensamen'
 company: 'ÖBB'
-rating: '1'
+rating: 1
 category: 'Anderes'
 ---
 

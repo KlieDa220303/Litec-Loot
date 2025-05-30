@@ -1,7 +1,7 @@
 ---
 product: 'Liwest Textmarker'
 company: 'Liwest'
-rating: '6'
+rating: 6
 category: 'Stift'
 ---
 

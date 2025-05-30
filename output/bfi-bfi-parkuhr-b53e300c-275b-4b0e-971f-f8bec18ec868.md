@@ -1,7 +1,7 @@
 ---
 product: 'BFI Parkuhr'
 company: 'BFI'
-rating: '7'
+rating: 7
 category: 'Messzeug'
 ---
 

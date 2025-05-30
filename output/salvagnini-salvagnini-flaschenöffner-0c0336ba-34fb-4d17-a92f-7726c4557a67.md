@@ -1,7 +1,7 @@
 ---
 product: 'Salvagnini Flaschenöffner'
 company: 'Salvagnini'
-rating: '5'
+rating: 5
 category: 'Flaschenöffner'
 ---
 

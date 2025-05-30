@@ -1,7 +1,7 @@
 ---
 product: 'DIN Schnapparmband'
 company: 'DIN'
-rating: '5'
+rating: 5
 category: 'Spielzeug'
 ---
 

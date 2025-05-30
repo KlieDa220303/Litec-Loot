@@ -1,7 +1,7 @@
 ---
 product: 'R.Riegler Stift'
 company: 'R.Riegler'
-rating: '3'
+rating: 3
 category: 'Stift'
 ---
 

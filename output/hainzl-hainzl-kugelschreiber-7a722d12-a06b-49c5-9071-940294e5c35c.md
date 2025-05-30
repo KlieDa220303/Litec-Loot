@@ -1,7 +1,7 @@
 ---
 product: 'Hainzl Kugelschreiber'
 company: 'Hainzl'
-rating: '5'
+rating: 5
 category: 'Stift'
 ---
 

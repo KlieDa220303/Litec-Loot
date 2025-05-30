@@ -1,7 +1,7 @@
 ---
 product: 'Eisenbeiss lesezeichen'
 company: 'Eisenbeiss'
-rating: '3'
+rating: 3
 category: 'Messzeug'
 ---
 

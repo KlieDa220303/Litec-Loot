@@ -1,7 +1,7 @@
 ---
 product: 'Salvagnini Knobelspiel'
 company: 'Salvagnini'
-rating: '8'
+rating: 8
 category: 'Spielzeug'
 ---
 

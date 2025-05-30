@@ -1,7 +1,7 @@
 ---
 product: 'BFI textmarker'
 company: 'BFI'
-rating: '5'
+rating: 5
 category: 'Stift'
 ---
 

@@ -1,7 +1,7 @@
 ---
 product: 'Keba Geodreieck'
 company: 'Keba'
-rating: '6'
+rating: 6
 category: 'Messzeug'
 ---
 

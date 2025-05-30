@@ -1,7 +1,7 @@
 ---
 product: 'Elin Kugelschreiber'
 company: 'Elin'
-rating: '4'
+rating: 4
 category: 'Stift'
 ---
 

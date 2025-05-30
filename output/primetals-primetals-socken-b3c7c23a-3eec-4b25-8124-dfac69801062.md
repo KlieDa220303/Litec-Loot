@@ -1,7 +1,7 @@
 ---
 product: 'Primetals Socken'
 company: 'Primetals'
-rating: '6'
+rating: 6
 category: 'Kleidung'
 ---
 

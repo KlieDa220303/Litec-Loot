@@ -1,7 +1,7 @@
 ---
 product: 'Vace RegenPonscho'
 company: 'Vace Group'
-rating: '7'
+rating: 7
 category: 'Kleidung'
 ---
 

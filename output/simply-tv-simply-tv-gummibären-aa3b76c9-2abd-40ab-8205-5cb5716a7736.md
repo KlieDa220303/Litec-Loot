@@ -1,7 +1,7 @@
 ---
 product: 'Simply TV gummibären'
 company: 'Simply TV'
-rating: '3'
+rating: 3
 category: 'Süßigkeiten'
 ---
 

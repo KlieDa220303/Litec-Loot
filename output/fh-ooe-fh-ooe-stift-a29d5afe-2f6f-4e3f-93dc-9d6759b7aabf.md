@@ -1,7 +1,7 @@
 ---
 product: 'FH-OOE stift'
 company: 'FH-OOE'
-rating: '4'
+rating: 4
 category: 'Stift'
 ---
 

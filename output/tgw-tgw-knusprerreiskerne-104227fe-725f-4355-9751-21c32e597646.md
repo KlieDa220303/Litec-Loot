@@ -1,7 +1,7 @@
 ---
 product: 'TGW Knusprerreiskerne'
 company: 'TGW'
-rating: '6'
+rating: 6
 category: 'Süßigkeiten'
 ---
 

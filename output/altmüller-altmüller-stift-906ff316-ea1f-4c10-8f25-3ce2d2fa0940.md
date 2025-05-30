@@ -1,7 +1,7 @@
 ---
 product: 'Altmüller stift'
 company: 'Altmüller'
-rating: '6'
+rating: 6
 category: 'Stift'
 ---
 

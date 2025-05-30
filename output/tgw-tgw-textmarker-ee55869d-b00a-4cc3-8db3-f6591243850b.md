@@ -1,7 +1,7 @@
 ---
 product: 'TGW Textmarker'
 company: 'TGW'
-rating: '5'
+rating: 5
 category: 'Stift'
 ---
 

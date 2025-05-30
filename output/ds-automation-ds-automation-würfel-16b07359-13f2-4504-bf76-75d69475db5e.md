@@ -1,7 +1,7 @@
 ---
 product: 'DS Automation Würfel'
 company: 'DS Automation'
-rating: '4'
+rating: 4
 category: 'Spielzeug'
 ---
 

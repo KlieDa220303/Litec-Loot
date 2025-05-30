@@ -1,7 +1,7 @@
 ---
 product: 'FH-OOE zuckerl'
 company: 'FH-OOE'
-rating: '3'
+rating: 3
 category: 'Süßigkeiten'
 ---
 

@@ -1,7 +1,7 @@
 ---
 product: 'PMS Band'
 company: 'PMS'
-rating: '4'
+rating: 4
 category: 'Schlüsselanhänger'
 ---
 

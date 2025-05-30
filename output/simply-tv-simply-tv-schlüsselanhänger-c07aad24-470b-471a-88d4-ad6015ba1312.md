@@ -1,7 +1,7 @@
 ---
 product: 'Simply TV Schlüsselanhänger'
 company: 'Simply TV'
-rating: '6'
+rating: 6
 category: 'Schlüsselanhänger'
 ---
 

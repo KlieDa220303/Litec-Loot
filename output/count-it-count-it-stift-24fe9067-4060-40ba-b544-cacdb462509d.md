@@ -1,7 +1,7 @@
 ---
 product: 'Count IT Stift'
 company: 'Count IT'
-rating: '5'
+rating: 5
 category: 'Stift'
 ---
 

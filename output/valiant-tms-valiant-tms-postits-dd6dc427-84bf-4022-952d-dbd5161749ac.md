@@ -1,7 +1,7 @@
 ---
 product: 'Valiant TMS postits'
 company: 'Valiant TMS'
-rating: '4'
+rating: 4
 category: 'Block'
 ---
 

@@ -1,7 +1,7 @@
 ---
 product: 'BFI Einkaufswagen münze'
 company: 'BFI'
-rating: '3'
+rating: 3
 category: 'Schlüsselanhänger'
 ---
 

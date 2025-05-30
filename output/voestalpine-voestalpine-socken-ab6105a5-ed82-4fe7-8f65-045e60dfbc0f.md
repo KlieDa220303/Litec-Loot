@@ -1,7 +1,7 @@
 ---
 product: 'Voestalpine Socken'
 company: 'Voestalpine'
-rating: '8'
+rating: 8
 category: 'Kliedung'
 ---
 

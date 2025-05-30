@@ -1,7 +1,7 @@
 ---
 product: 'Kaeser Zuckerl'
 company: 'Kaeser'
-rating: '2'
+rating: 2
 category: 'Süßigkeiten'
 ---
 

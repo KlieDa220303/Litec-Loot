@@ -1,7 +1,7 @@
 ---
 product: 'Honeywell Stift'
 company: 'Honeywell'
-rating: '5'
+rating: 5
 category: 'Stift'
 ---
 

@@ -1,7 +1,7 @@
 ---
 product: 'IMA Traubenzucker'
 company: 'IMA'
-rating: '3'
+rating: 3
 category: 'Süßigkeiten'
 ---
 

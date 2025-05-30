@@ -1,7 +1,7 @@
 ---
 product: 'Firn Zuckerl'
 company: 'Firn'
-rating: '2'
+rating: 2
 category: 'Süßigkeiten'
 ---
 

@@ -1,7 +1,7 @@
 ---
 product: 'Honeywell Postits'
 company: 'Honeywell'
-rating: '3'
+rating: 3
 category: 'Block'
 ---
 

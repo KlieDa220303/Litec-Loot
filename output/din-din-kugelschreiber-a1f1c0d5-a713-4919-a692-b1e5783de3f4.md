@@ -1,7 +1,7 @@
 ---
 product: 'DIN Kugelschreiber'
 company: 'DIN'
-rating: '7'
+rating: 7
 category: 'Stift'
 ---
 

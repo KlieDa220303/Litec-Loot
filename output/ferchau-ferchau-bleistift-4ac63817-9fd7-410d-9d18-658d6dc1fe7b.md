@@ -1,7 +1,7 @@
 ---
 product: 'Ferchau Bleistift'
 company: 'Ferchau'
-rating: '4'
+rating: 4
 category: 'ift'
 ---
 

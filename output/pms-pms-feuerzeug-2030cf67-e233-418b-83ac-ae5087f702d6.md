@@ -1,7 +1,7 @@
 ---
 product: 'PMS Feuerzeug'
 company: 'PMS'
-rating: '5'
+rating: 5
 category: 'Feuerzeug'
 ---
 

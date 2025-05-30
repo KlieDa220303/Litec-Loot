@@ -1,7 +1,7 @@
 ---
 product: 'Stiwa Block'
 company: 'Stiwa'
-rating: '5'
+rating: 5
 category: 'Block'
 ---
 

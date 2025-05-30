@@ -1,7 +1,7 @@
 ---
 product: 'Ecotherm Stift'
 company: 'Ecotherm'
-rating: '5'
+rating: 5
 category: 'ift'
 ---
 

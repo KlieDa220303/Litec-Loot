@@ -1,7 +1,7 @@
 ---
 product: 'Stiwa Flaschenöffner'
 company: 'Stiwa'
-rating: '4'
+rating: 4
 category: 'Schlüsselanhänger'
 ---
 

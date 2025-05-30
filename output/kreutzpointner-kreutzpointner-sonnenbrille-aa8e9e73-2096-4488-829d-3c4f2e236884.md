@@ -1,7 +1,7 @@
 ---
 product: 'Kreutzpointner Sonnenbrille'
 company: 'Kreutzpointner'
-rating: '6'
+rating: 6
 category: 'Kleidung'
 ---
 

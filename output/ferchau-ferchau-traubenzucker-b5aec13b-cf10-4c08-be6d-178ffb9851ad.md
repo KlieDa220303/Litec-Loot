@@ -1,7 +1,7 @@
 ---
 product: 'Ferchau Traubenzucker'
 company: 'Ferchau'
-rating: '3'
+rating: 3
 category: 'Süßigkeiten'
 ---
 

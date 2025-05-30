@@ -1,7 +1,7 @@
 ---
 product: 'Montanuniversität Geodreieck'
 company: 'Montanuniversität'
-rating: '5'
+rating: 5
 category: 'Messzeug'
 ---
 

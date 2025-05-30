@@ -1,7 +1,7 @@
 ---
 product: 'Andritz Flasche'
 company: 'Andritz'
-rating: '8'
+rating: 8
 category: 'Getränke'
 ---
 

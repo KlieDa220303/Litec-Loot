@@ -1,7 +1,7 @@
 ---
 product: 'Simply TV Band'
 company: 'Simply TV'
-rating: '4'
+rating: 4
 category: 'Schlüsselanhänger'
 ---
 

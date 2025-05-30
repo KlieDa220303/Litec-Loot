@@ -1,7 +1,7 @@
 ---
 product: 'Hainzl Radiergummi'
 company: 'Hainzl'
-rating: '3'
+rating: 3
 category: 'Radiergummi'
 ---
 

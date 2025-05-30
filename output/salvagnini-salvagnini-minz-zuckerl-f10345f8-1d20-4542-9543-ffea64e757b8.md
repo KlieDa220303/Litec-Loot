@@ -1,7 +1,7 @@
 ---
 product: 'Salvagnini minz zuckerl'
 company: 'Salvagnini'
-rating: '5'
+rating: 5
 category: 'Süßigkeiten'
 ---
 

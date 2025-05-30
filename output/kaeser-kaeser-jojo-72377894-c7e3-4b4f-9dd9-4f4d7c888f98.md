@@ -1,7 +1,7 @@
 ---
 product: 'Kaeser JoJo'
 company: 'Kaeser'
-rating: '9'
+rating: 9
 category: 'Spielzeug'
 ---
 

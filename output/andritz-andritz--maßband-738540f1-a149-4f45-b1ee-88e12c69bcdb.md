@@ -1,7 +1,7 @@
 ---
 product: 'Andritz  Maßband'
 company: 'Andritz'
-rating: '9'
+rating: 9
 category: 'Messzeug'
 ---
 

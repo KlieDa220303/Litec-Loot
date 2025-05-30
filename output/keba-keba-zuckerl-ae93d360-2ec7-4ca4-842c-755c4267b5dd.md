@@ -1,7 +1,7 @@
 ---
 product: 'Keba Zuckerl'
 company: 'Keba'
-rating: '2'
+rating: 2
 category: 'Süßigkeiten'
 ---
 

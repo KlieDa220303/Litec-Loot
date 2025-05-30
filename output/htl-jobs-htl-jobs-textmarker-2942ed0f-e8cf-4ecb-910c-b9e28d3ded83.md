@@ -1,7 +1,7 @@
 ---
 product: 'HTL-Jobs textmarker'
 company: 'HTL-Jobs'
-rating: '5'
+rating: 5
 category: 'Stift'
 ---
 

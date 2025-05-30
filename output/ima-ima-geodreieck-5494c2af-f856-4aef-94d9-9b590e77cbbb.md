@@ -1,7 +1,7 @@
 ---
 product: 'IMA Geodreieck'
 company: 'IMA'
-rating: '5'
+rating: 5
 category: 'Messzeug'
 ---
 

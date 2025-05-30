@@ -1,7 +1,7 @@
 ---
 product: 'Grob Multitool'
 company: 'Grob'
-rating: '6'
+rating: 6
 category: 'Multitool'
 ---
 

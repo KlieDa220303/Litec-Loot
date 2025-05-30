@@ -1,7 +1,7 @@
 ---
 product: 'Loxone Sonnenbrille'
 company: 'Loxone'
-rating: '7'
+rating: 7
 category: 'Kleidung'
 ---
 

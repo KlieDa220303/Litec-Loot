@@ -1,7 +1,7 @@
 ---
 product: 'Vace webcam cover'
 company: 'Vace Group'
-rating: '5'
+rating: 5
 category: 'Sicherheit'
 ---
 
