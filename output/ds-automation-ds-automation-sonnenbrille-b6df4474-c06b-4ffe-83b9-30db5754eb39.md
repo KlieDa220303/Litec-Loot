@@ -1,6 +1,6 @@
 ---
 product: 'DS Automation Sonnenbrille'
-company: 'Ds Automation'
+company: 'DS Automation'
 rating: 7
 category: 'Kleidung'
 ---
