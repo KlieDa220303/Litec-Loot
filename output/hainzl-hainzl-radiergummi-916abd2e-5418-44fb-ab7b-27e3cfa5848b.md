@@ -9,7 +9,7 @@ category: 'Radiergummi'
 >
 > 3 / 10
 >
-> Radiergummi
+> Radierer
 
 ![Hainzl Radiergummi](./assets/hainzl-hainzl-radiergummi-916abd2e-5418-44fb-ab7b-27e3cfa5848b.jpg)
 zum löschen deiner fehler
