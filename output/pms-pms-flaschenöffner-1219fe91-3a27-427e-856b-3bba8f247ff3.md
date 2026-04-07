@@ -2,7 +2,7 @@
 product: 'PMS Flaschenöffner'
 company: 'PMS'
 rating: 6
-category: 'hlüsselanhänger'
+category: 'Schlüsselanhänger'
 ---
 
 # PMS - PMS Flaschenöffner

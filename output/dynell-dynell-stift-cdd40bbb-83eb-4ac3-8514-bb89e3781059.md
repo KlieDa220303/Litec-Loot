@@ -2,7 +2,7 @@
 product: 'Dynell Stift'
 company: 'Dynell'
 rating: 5
-category: 'Stoft'
+category: 'Stift'
 ---
 
 # Dynell - Dynell Stift

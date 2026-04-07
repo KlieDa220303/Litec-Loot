@@ -2,7 +2,7 @@
 product: 'Dorninger Hytronics Thermos sackerl'
 company: 'Dorninger Hytronics'
 rating: 8
-category: 'anderes'
+category: 'Anderes'
 ---
 
 # Dorninger Hytronics - Dorninger Hytronics Thermos sackerl

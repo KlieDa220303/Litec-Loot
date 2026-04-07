@@ -2,7 +2,7 @@
 product: 'Ecotherm Stift'
 company: 'Ecotherm'
 rating: 5
-category: 'ift'
+category: 'Stift'
 ---
 
 # Ecotherm - Ecotherm Stift

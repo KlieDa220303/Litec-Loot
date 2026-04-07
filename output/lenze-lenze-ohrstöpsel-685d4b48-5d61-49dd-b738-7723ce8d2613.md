@@ -2,7 +2,7 @@
 product: 'Lenze Ohrstöpsel'
 company: 'Lenze'
 rating: 7
-category: 'Ohrstöpsel'
+category: 'Anderes'
 ---
 
 # Lenze - Lenze Ohrstöpsel
