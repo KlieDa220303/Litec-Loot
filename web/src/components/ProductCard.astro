@@ -14,13 +14,12 @@ const imageSrc = new URL(`../../../output/assets/${id}.jpg`, import.meta.url).hr
 <div
     class="bg-white rounded-lg shadow-lg overflow-hidden transition-transform hover:scale-105"
 >
-    <a href={`/product/${id}`} class="block overflow-hidden">
+    <a href={`/product/${id}`} class="block overflow-hidden bg-gray-100">
         <img
             src={imageSrc}
             alt={product}
             class="w-full h-56 object-cover transition-transform duration-300 hover:scale-105"
-            loading="lazy"
-            onerror="this.style.display='none'"
+            loading="eager"
         />
     </a>
 
