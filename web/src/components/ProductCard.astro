@@ -8,7 +8,7 @@ export interface Props {
 }
 
 const { id, product, company, category, rating } = Astro.props;
-const imageSrc = `/assets/${id}.jpg`;
+const imageSrc = new URL(`../../../output/assets/${id}.jpg`, import.meta.url).href;
 ---
 
 <div
