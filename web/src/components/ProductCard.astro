@@ -8,11 +8,22 @@ export interface Props {
 }
 
 const { id, product, company, category, rating } = Astro.props;
+const imageSrc = `/assets/${id}.jpg`;
 ---
 
 <div
     class="bg-white rounded-lg shadow-lg overflow-hidden transition-transform hover:scale-105"
 >
+    <a href={`/product/${id}`} class="block overflow-hidden">
+        <img
+            src={imageSrc}
+            alt={product}
+            class="w-full h-56 object-cover transition-transform duration-300 hover:scale-105"
+            loading="lazy"
+            onerror="this.style.display='none'"
+        />
+    </a>
+
     <div class="p-5 relative">
         <a
             href={`/rating/filter/${rating}`}
