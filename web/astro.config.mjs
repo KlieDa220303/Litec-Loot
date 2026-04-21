@@ -8,9 +8,14 @@ import sitemap from '@astrojs/sitemap';
 // https://astro.build/config
 export default defineConfig({
   vite: {
-    plugins: [tailwindcss()]
+    plugins: [tailwindcss()],
+    server: {
+      middlewares: []
+    }
   },
 
   integrations: [sitemap()],
-  site: 'https://litec-loot.dakl.org'
+  site: 'https://litec-loot.dakl.org',
+  root: process.cwd(),
+  publicDir: '../output/assets'
 });
