@@ -8,3 +8,6 @@
 
 ### 14.04.2026
 - I tried to show the pictures of the products before clicking on the product but failed terribly. The problem here was me not knowing how astro works... Today i used the time to get to learn astro by doing tutorials.
+
+### 21.04.2026
+- Today I watched some videos about Astro and did some tutorials. These tutorials allowed me to finish what i was trying to do last week. It went very well and i will be working on more changes next week.
