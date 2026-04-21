@@ -11,5 +11,5 @@ category: 'Stift'
 >
 > Stift
 
-![E Punkt Stift](./assets/IMG_20250524_125910.jpg)
+![E Punkt Stift](./assets/e-punkt-e-punkt-regenschirm-104fdcd2-ded6-4e5f-b6a2-255a1fb879c9 copy.jpg)
 Extrawurscht
