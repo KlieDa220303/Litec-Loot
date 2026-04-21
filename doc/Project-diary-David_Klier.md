@@ -20,3 +20,8 @@
 - did not work on this project
 
 ### 21.04.2026
+- am repo und einstellungen gearbeitet
+
+- kleine fixes
+
+- strategie ausdenken
