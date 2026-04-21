@@ -12,4 +12,11 @@
 - start ki kategorisierungs programm
 
 ### 07.04.2026
-- TODO
+- ki kategorisierungs programm fertig gemacht
+
+- weitere besprechungen
+
+### 14.04.2026
+- did not work on this project
+
+### 21.04.2026
