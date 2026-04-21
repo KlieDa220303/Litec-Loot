@@ -17,7 +17,7 @@
 - weitere besprechungen
 
 ### 14.04.2026
-- did not work on this project
+- hab min steffan an lego roboter gearbeitet
 
 ### 21.04.2026
 - am repo und einstellungen gearbeitet
