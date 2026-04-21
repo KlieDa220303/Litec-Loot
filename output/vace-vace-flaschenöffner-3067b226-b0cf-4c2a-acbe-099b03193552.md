@@ -2,14 +2,14 @@
 product: 'Vace Flaschenöffner'
 company: 'Vace Group'
 rating: 5
-category: 'Schlüssenanhänger'
+category: 'Schlüsselanhänger'
 ---
 
 # Vace - Vace Flaschenöffner
 >
 > 5 / 10
 >
-> Schlüssenanhänger
+> Schlüsselanhänger
 
 ![Vace Flaschenöffner](./assets/vace-vace-flaschenöffner-3067b226-b0cf-4c2a-acbe-099b03193552.jpg)
 zum öfffnen von flaschen
