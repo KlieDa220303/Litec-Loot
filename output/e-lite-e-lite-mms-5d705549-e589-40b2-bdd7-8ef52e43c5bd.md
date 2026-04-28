@@ -11,5 +11,5 @@ category: 'Süßigkeiten'
 >
 > Süßigkeiten
 
-![E-Lite M&Ms](./assets/e-lite-e-lite-m&ms-5d705549-e589-40b2-bdd7-8ef52e43c5bd.jpg)
+![E-Lite M&Ms](./assets/e-lite-e-lite-mms-5d705549-e589-40b2-bdd7-8ef52e43c5bd.jpg)
 gutes essen
