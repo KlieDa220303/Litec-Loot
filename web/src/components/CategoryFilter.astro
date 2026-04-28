@@ -24,7 +24,9 @@ const INITIAL_COUNT = 5;
 
 <div class="mb-8">
     <h2 class="text-xl font-semibold mb-4">Browse by Category</h2>
+
     <div class="flex flex-wrap gap-2">
+        {/* sichtbar */}
         {
             categories.slice(0, INITIAL_COUNT).map(([category, count]) => (
                 <a
@@ -39,7 +41,7 @@ const INITIAL_COUNT = 5;
             ))
         }
 
-        {/* versteckte Categories */}
+        {/* versteckt */}
         <div id="more-categories" class="hidden flex flex-wrap gap-2">
             {
                 categories.slice(INITIAL_COUNT).map(([category, count]) => (
@@ -60,16 +62,17 @@ const INITIAL_COUNT = 5;
     {/* Button */}
     {categories.length > INITIAL_COUNT && (
         <button
-            id="toggle-btn"
+            id="toggle-categories"
             class="mt-3 text-indigo-600 hover:underline text-sm"
         >
             Show more
         </button>
-    )}   
+    )}
 </div>
 
+{/* Script */}
 <script>
-    const btn = document.getElementById('toggle-btn');
+    const btn = document.getElementById('toggle-categories');
     const more = document.getElementById('more-categories');
 
     if (btn && more) {
