@@ -11,3 +11,6 @@
 
 ### 21.04.2026
 - Today I watched some videos about Astro and did some tutorials. These tutorials allowed me to finish what i was trying to do last week. It went very well and i will be working on more changes next week.
+
+### 28.04.2026
+- Today i did a lot of changing on the website. I fixed all the images that weren't being shown. I also added buttons to show less companies and less categories. You can make it show more categories or companies by clicking on the button. I also added a new Logo for Litec-Loot. I was very hardworking today and I am proud of my work. Will do more design changes next time.
