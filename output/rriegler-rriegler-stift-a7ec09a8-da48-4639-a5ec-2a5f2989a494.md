@@ -11,5 +11,5 @@ category: 'Stift'
 >
 > Stift
 
-![R.Riegler Stift](./assets/r.riegler-r.riegler-stift-a7ec09a8-da48-4639-a5ec-2a5f2989a494.jpg)
+![R.Riegler Stift](./assets/rriegler-rriegler-stift-a7ec09a8-da48-4639-a5ec-2a5f2989a494.jpg)
 komischer stift
