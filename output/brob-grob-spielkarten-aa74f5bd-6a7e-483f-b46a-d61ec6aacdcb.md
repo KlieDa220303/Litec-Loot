@@ -12,4 +12,4 @@ category: 'spielzeug'
 > spielzeug
 
 ![Grob Spielkarten](./assets/brob-grob-spielkarten-aa74f5bd-6a7e-483f-b46a-d61ec6aacdcb.jpg)
-Keine ahnnung welche art
+A deck of playing cards from Grob. Entertainment item with company branding.

@@ -12,4 +12,4 @@ category: 'Spielzeug'
 > Spielzeug
 
 ![DIN Schnapparmband](./assets/din-din-schnapparmband-a44b995a-e03f-4ee9-8bc5-a32fb010c491.jpg)
-fürd die hand
+A branded ribbon or band from DIN. Useful for bundling items or as a decorative accessory.

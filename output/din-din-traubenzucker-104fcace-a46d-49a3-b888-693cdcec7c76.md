@@ -12,4 +12,4 @@ category: 'Süßigkeiten'
 > Süßigkeiten
 
 ![Din Traubenzucker](./assets/din-din-traubenzucker-104fcace-a46d-49a3-b888-693cdcec7c76.jpg)
-5gramm
+Promotional candy from DIN. A sweet treat featuring the company's branding.

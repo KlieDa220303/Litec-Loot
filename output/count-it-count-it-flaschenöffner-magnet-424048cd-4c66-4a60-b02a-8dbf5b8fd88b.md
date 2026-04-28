@@ -12,4 +12,4 @@ category: 'Multitool'
 > Multitool
 
 ![Count IT flaschenöffner magnet](./assets/count-it-count-it-flaschenöffner-magnet-424048cd-4c66-4a60-b02a-8dbf5b8fd88b.jpg)
-flaschenöffner mit magnet
+A multi-tool from Count IT. Versatile compact tool combining multiple functions in one portable device.

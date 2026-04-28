@@ -12,4 +12,4 @@ category: 'Stift'
 > Stift
 
 ![Dynell kugelschreiber](./assets/dynell-dynell-kugelschreiber-a7a38745-82ae-4abd-823b-52086c29ff14.jpg)
-standard
+A promotional pen branded with Dynell. Practical writing instrument suitable for everyday use, featuring the company's branding.

@@ -12,4 +12,4 @@ category: 'Getränk'
 > Getränk
 
 ![EBG Getränk](./assets/ebg-ebg-getränk-e7b66892-6adb-4eee-9e96-3c23fd2568e8.jpg)
-yum
+A beverage item from EBG. Branded drink or drink-related promotional item.

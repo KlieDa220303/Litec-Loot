@@ -12,4 +12,4 @@ category: 'Block'
 > Block
 
 ![Ebner Block](./assets/ebner-ebner-block-2642de76-c7ec-44d8-9f77-86315961e3ea.jpg)
-standard Block
+A notepad from Ebner. Practical for jotting down notes and organizing thoughts throughout the day.

@@ -12,4 +12,4 @@ category: 'Messzeug'
 > Messzeug
 
 ![BFI Parkuhr](./assets/bfi-bfi-parkuhr-b53e300c-275b-4b0e-971f-f8bec18ec868.jpg)
-parkuhr nützlich
+A promotional item from BFI in the Messzeug category. Useful branded merchandise featuring the company's logo.

@@ -12,4 +12,4 @@ category: 'Süßigkeiten'
 > Süßigkeiten
 
 ![ABB gummibären](./assets/abb-abb-gummibären-04343015-3b2a-4e31-a5ae-8efc0758f2a6.jpg)
-standard gummibären
+Gummy bears branded by ABB. Tasty promotional candy featuring the company's branding.

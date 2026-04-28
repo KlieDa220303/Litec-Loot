@@ -12,4 +12,4 @@ category: 'Spielzeug'
 > Spielzeug
 
 ![Count IT stressball](./assets/count-it-count-it-stressball-728fcf71-4ab8-4b52-a9bc-2038519f1af2.jpg)
-standard Stressball
+A stress relief ball from Count IT. Useful fidget toy and stress-relief item with company branding.

@@ -12,4 +12,4 @@ category: 'Stift'
 > Stift
 
 ![Bilfinger Stift](./assets/bilfinger-bilfinger-stift-a75eb833-5680-496f-b33a-25612d6bdd83.jpg)
-standard kulli
+A promotional pen branded with Bilfinger. Practical writing instrument suitable for everyday use, featuring the company's branding.

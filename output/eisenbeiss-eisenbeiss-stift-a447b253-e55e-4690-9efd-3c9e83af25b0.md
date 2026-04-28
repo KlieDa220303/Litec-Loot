@@ -12,4 +12,4 @@ category: 'Stift'
 > Stift
 
 ![Eisenbeiss Stift](./assets/eisenbeiss-eisenbeiss-stift-a447b253-e55e-4690-9efd-3c9e83af25b0.jpg)
-ich mag dise art von stift
+A promotional pen branded with Eisenbeiss. Practical writing instrument suitable for everyday use, featuring the company's branding.

@@ -12,4 +12,4 @@ category: 'Messzeug'
 > Messzeug
 
 ![Elin geodreieck](./assets/elin-elin-geodreieck-d0896590-40c2-469b-9f0c-fa8542e26488.jpg)
-wir sind fast fetig
+A triangle ruler from Elin. Essential technical drawing tool for geometry and engineering work.

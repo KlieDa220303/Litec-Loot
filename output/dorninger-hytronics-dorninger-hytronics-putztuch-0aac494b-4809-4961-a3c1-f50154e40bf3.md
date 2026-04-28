@@ -12,4 +12,4 @@ category: 'Anderes'
 > Anderes
 
 ![Dorninger Hytronics Putztuch](./assets/dorninger-hytronics-dorninger-hytronics-putztuch-0aac494b-4809-4961-a3c1-f50154e40bf3.jpg)
-zum putzen mit mikrofasern glaube ich
+A cloth item from Dorninger Hytronics. Multipurpose fabric product with company branding.

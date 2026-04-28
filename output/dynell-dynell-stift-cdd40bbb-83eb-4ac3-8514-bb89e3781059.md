@@ -12,4 +12,4 @@ category: 'Stift'
 > Stift
 
 ![Dynell Stift](./assets/dynell-dynell-stift-cdd40bbb-83eb-4ac3-8514-bb89e3781059.jpg)
-bleistift
+A promotional pen branded with Dynell. Practical writing instrument suitable for everyday use, featuring the company's branding.

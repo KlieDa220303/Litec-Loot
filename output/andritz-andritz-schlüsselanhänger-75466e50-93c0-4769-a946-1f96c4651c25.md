@@ -12,4 +12,4 @@ category: 'Schlüsselanhänger'
 > Schlüsselanhänger
 
 ![Andritz Schlüsselanhänger](./assets/andritz-andritz-schlüsselanhänger-75466e50-93c0-4769-a946-1f96c4651c25.jpg)
-zum aufsperren von einkaufswagen und so
+A keychain accessory branded with Andritz. Handy item for identifying keys while promoting the company.

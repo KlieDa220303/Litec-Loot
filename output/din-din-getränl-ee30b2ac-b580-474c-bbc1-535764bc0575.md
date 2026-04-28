@@ -12,4 +12,4 @@ category: 'Getränk'
 > Getränk
 
 ![Din Getränk](./assets/din-din-getränl-ee30b2ac-b580-474c-bbc1-535764bc0575.jpg)
-energy drink
+A beverage item from Din. Branded drink or drink-related promotional item.

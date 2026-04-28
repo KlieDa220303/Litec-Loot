@@ -12,4 +12,4 @@ category: 'Stift'
 > Stift
 
 ![BFI textmarker](./assets/bfi-bfi-textmarker-60b41984-eb82-4a86-ad8b-314d9193392c.jpg)
-zum text makiren
+A promotional pen branded with BFI. Practical writing instrument suitable for everyday use, featuring the company's branding.

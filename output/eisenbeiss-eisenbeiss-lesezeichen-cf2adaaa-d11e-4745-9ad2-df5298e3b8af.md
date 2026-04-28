@@ -12,4 +12,4 @@ category: 'Messzeug'
 > Messzeug
 
 ![Eisenbeiss lesezeichen](./assets/eisenbeiss-eisenbeiss-lesezeichen-cf2adaaa-d11e-4745-9ad2-df5298e3b8af.jpg)
-zu lesen und so
+A bookmark from Eisenbeiss. Practical reading accessory featuring the company's logo.

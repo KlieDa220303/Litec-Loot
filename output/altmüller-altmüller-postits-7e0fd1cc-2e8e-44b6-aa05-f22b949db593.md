@@ -12,4 +12,4 @@ category: 'Block'
 > Block
 
 ![Altmüller postits](./assets/altmüller-altmüller-postits-7e0fd1cc-2e8e-44b6-aa05-f22b949db593.jpg)
-standard postits
+A notepad from Altmüller. Practical for jotting down notes and organizing thoughts throughout the day.

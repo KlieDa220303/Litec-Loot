@@ -12,4 +12,4 @@ category: 'Jausenbox'
 > Jausenbox
 
 ![Dorninger Hytronics](./assets/dorninger-hytronics-dorninger-hytronics-02735cff-b23c-4abf-afae-d75e7816e64e.jpg)
-jausenbox
+A lunch box from Dorninger Hytronics. Practical container for carrying meals and snacks.

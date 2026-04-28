@@ -12,4 +12,4 @@ category: 'Messzeug'
 > Messzeug
 
 ![Beko Geodreieck](./assets/beko-beko-geodreieck-9f22f0f4-b4e8-4c7d-a983-299fde685175.jpg)
-Geometrie dash referenz
+A triangle ruler from Beko. Essential technical drawing tool for geometry and engineering work.

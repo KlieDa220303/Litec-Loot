@@ -12,4 +12,4 @@ category: 'Stift'
 >
 
 ![Elin Kugelschreiber](./assets/elin-elin-kugelschreiber-27ea1db0-65be-45c0-a96b-be8ccd762a88.jpg)
-kulli
+A promotional pen branded with Elin. Practical writing instrument suitable for everyday use, featuring the company's branding.

@@ -12,4 +12,4 @@ category: 'Süßigkeiten'
 > Süßigkeiten
 
 ![Count IT Gummibären](./assets/count-it-count-it-gummibären-8829a3af-fa71-4736-82ce-5f8f5ffa1ad0.jpg)
-standard gummiobären
+Gummy bears branded by Count IT. Tasty promotional candy featuring the company's branding.

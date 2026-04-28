@@ -12,4 +12,4 @@ category: 'Spielzeug'
 > Spielzeug
 
 ![DS Automation Würfel](./assets/ds-automation-ds-automation-würfel-16b07359-13f2-4504-bf76-75d69475db5e.jpg)
-ein Würfen mit runde ecken
+A promotional die from DS Automation. Fun gaming accessory featuring company branding.

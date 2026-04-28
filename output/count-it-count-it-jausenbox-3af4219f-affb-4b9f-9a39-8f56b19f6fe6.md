@@ -12,4 +12,4 @@ category: 'Jausenbox'
 > Jausenbox
 
 ![Count IT Jausenbox](./assets/count-it-count-it-jausenbox-3af4219f-affb-4b9f-9a39-8f56b19f6fe6.jpg)
-jausenbox mit cooler grafik
+A lunch box from Count IT. Practical container for carrying meals and snacks.

@@ -12,4 +12,4 @@ category: 'Kleidung'
 > Kleidung
 
 ![CountIT hut](./assets/countit-countit-hut-e2a2ca4e-86f0-40e2-b04d-123352c5317d.jpg)
-guter hut 3/4
+A promotional hat from Count IT. Comfortable headwear featuring the company's branding.

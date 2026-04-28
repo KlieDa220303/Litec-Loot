@@ -12,4 +12,4 @@ category: 'Süßigkeiten'
 > Süßigkeiten
 
 ![DS Automation Schokolade](./assets/ds-automation-ds-automation-schokolade-4f2fa8c8-dfb9-4c2d-935a-4ab0bb960b90.jpg)
-lecker
+Promotional candy from DS Automation. A sweet treat featuring the company's branding.

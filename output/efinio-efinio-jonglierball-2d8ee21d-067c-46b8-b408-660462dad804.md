@@ -12,4 +12,4 @@ category: 'Spielzeug'
 > Spielzeug
 
 ![Efinio jonglierball](./assets/efinio-efinio-jonglierball-2d8ee21d-067c-46b8-b408-660462dad804.jpg)
-Nur einer
+A juggling ball from Efinio. Circus skill toy featuring company branding.

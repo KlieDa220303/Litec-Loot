@@ -12,4 +12,4 @@ category: 'Stift'
 > Stift
 
 ![Andritz Kugelschreiber](./assets/andritz-andritz-kugelschreiber-2d66f961-e754-46b1-9638-0adfa688396e.jpg)
-Standard kugeslschreiber die sammlung wächst
+A promotional pen branded with Andritz. Practical writing instrument suitable for everyday use, featuring the company's branding.

@@ -12,4 +12,4 @@ category: 'Radierer'
 > Radierer
 
 ![Count IT radierer](./assets/count-it-count-it-radierer-82eb1730-ec14-4013-a293-b691aef9d378.jpg)
-rund
+An eraser from Count IT. Essential writing accessory for correcting pencil marks.

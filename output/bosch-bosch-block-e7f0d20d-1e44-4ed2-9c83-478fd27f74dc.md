@@ -12,4 +12,4 @@ category: 'Block'
 > Block
 
 ![Bosch Block](./assets/bosch-bosch-block-e7f0d20d-1e44-4ed2-9c83-478fd27f74dc.jpg)
-guter block
+A notepad from Bosch. Practical for jotting down notes and organizing thoughts throughout the day.

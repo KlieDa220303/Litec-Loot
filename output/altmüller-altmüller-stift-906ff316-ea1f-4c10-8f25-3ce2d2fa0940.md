@@ -12,4 +12,4 @@ category: 'Stift'
 > Stift
 
 ![Altmüller stift](./assets/altmüller-altmüller-stift-906ff316-ea1f-4c10-8f25-3ce2d2fa0940.jpg)
-mir touch nupsi fürs handy
+A promotional pen branded with Altmüller. Practical writing instrument suitable for everyday use, featuring the company's branding.

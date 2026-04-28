@@ -12,4 +12,4 @@ category: 'Block'
 > Block
 
 ![Bilfinger Postists](./assets/bilfinger-bilfinger-postists-a8ba8271-d992-42ea-9393-66e14f13d5e1.jpg)
-standard postits aber mehr
+A notepad from Bilfinger. Practical for jotting down notes and organizing thoughts throughout the day.

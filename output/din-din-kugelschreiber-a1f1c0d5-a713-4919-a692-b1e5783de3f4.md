@@ -12,4 +12,4 @@ category: 'Stift'
 > Stift
 
 ![DIN Kugelschreiber](./assets/din-din-kugelschreiber-a1f1c0d5-a713-4919-a692-b1e5783de3f4.jpg)
-gutes design gute qualität
+A promotional pen branded with DIN. Practical writing instrument suitable for everyday use, featuring the company's branding.

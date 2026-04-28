@@ -12,4 +12,4 @@ category: 'Messzeug'
 > Messzeug
 
 ![Bilfinger zollstock](./assets/bilfinger-bilfinger-zollstock-7cda6d58-3477-4551-8c42-2c1f7be16a2f.jpg)
-langer zollstock
+A folding ruler from Bilfinger. Essential measuring tool for construction and DIY.

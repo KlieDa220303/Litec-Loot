@@ -12,4 +12,4 @@ category: 'Stift'
 > stift
 
 ![Ecotherm Stift](./assets/ecotherm-ecotherm-stift-48ee6c98-a3ed-402d-9b0c-19651293d688.jpg)
-kulli
+A promotional pen branded with Ecotherm. Practical writing instrument suitable for everyday use, featuring the company's branding.

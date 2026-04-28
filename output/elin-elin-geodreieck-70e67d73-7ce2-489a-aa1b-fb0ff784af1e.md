@@ -12,4 +12,4 @@ category: 'Messzeug'
 > Messzeug
 
 ![Elin Geodreieck](./assets/elin-elin-geodreieck-70e67d73-7ce2-489a-aa1b-fb0ff784af1e.jpg)
-e ecken
+A triangle ruler from Elin. Essential technical drawing tool for geometry and engineering work.

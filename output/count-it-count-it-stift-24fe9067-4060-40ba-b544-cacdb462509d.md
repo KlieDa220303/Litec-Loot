@@ -12,4 +12,4 @@ category: 'Stift'
 > Stift
 
 ![Count IT Stift](./assets/count-it-count-it-stift-24fe9067-4060-40ba-b544-cacdb462509d.jpg)
-standard kulli
+A promotional pen branded with Count IT. Practical writing instrument suitable for everyday use, featuring the company's branding.

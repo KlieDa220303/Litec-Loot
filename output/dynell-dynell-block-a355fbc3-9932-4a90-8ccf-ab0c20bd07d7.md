@@ -12,4 +12,4 @@ category: 'Block'
 > Block
 
 ![Dynell Block](./assets/dynell-dynell-block-a355fbc3-9932-4a90-8ccf-ab0c20bd07d7.jpg)
-Block
+A notepad from Dynell. Practical for jotting down notes and organizing thoughts throughout the day.

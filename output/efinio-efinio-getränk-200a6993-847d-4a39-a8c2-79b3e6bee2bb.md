@@ -12,4 +12,4 @@ category: 'Getränk'
 > Getränk
 
 ![Efinio Getränk](./assets/efinio-efinio-getränk-200a6993-847d-4a39-a8c2-79b3e6bee2bb.jpg)
-slurp
+A beverage item from Efinio. Branded drink or drink-related promotional item.

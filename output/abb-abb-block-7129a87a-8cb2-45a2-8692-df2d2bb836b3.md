@@ -12,4 +12,4 @@ category: 'Block'
 > Block
 
 ![ABB block](./assets/abb-abb-block-7129a87a-8cb2-45a2-8692-df2d2bb836b3.jpg)
-block
+A notepad from ABB. Practical for jotting down notes and organizing thoughts throughout the day.

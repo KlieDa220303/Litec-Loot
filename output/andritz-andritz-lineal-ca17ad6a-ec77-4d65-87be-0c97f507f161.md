@@ -12,4 +12,4 @@ category: 'Messzeug'
 > Messzeug
 
 ![Andritz Lineal](./assets/andritz-andritz-lineal-ca17ad6a-ec77-4d65-87be-0c97f507f161.jpg)
-ein Lineal
+A ruler from Andritz. Practical measuring tool for drawing straight lines and measuring distances.

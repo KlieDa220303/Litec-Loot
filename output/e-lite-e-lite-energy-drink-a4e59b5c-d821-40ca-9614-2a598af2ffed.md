@@ -12,4 +12,4 @@ category: 'Getränk'
 > Getränk
 
 ![E-Lite Energy Drink](./assets/e-lite-e-lite-energy-drink-a4e59b5c-d821-40ca-9614-2a598af2ffed.jpg)
-energy go!!!
+A beverage item from E-Lite. Branded drink or drink-related promotional item.

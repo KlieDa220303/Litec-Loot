@@ -12,4 +12,4 @@ category: 'Kleidung'
 > Kleidung
 
 ![DS Automation Sonnenbrille](./assets/ds-automation-ds-automation-sonnenbrille-b6df4474-c06b-4ffe-83b9-30db5754eb39.jpg)
-zum schutz vor sonne
+Sunglasses from DS Automation. Stylish eyewear featuring the company's logo or branding.

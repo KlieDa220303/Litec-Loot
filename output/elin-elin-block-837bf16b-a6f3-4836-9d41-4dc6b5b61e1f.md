@@ -12,4 +12,4 @@ category: 'Block'
 > Block
 
 ![Elin Block](./assets/elin-elin-block-837bf16b-a6f3-4836-9d41-4dc6b5b61e1f.jpg)
-Block
+A notepad from Elin. Practical for jotting down notes and organizing thoughts throughout the day.
