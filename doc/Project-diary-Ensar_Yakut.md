@@ -14,3 +14,6 @@
 
 ### 28.04.2026
 - Today i did a lot of changing on the website. I fixed all the images that weren't being shown. I also added buttons to show less companies and less categories. You can make it show more categories or companies by clicking on the button. I also added a new Logo for Litec-Loot. I was very hardworking today and I am proud of my work. Will do more design changes next time.
+
+### 05.05.2026
+- Today i updated the website by adding some new features: Not all products are being loaded when the website is being opened. Learned about paging and added pages so that only a number of products are shown on the website.
