@@ -5,19 +5,20 @@ import type { CollectionEntry } from "astro:content";
 export interface Props {
     products: CollectionEntry<"products">[];
     title?: string;
+    itemsPerPage?: number;
 }
 
-const { products, title } = Astro.props;
+const { products, title, itemsPerPage = 12 } = Astro.props;
+const initialProducts = products.slice(0, itemsPerPage);
+const hasMore = products.length > itemsPerPage;
 ---
 
 <div class="mb-8">
     {title && <h1 class="text-3xl font-bold text-gray-800 mb-6">{title}</h1>}
 
-    <div
-        class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6"
-    >
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6" id="product-grid">
         {
-            products.map((product) => (
+            initialProducts.map((product) => (
                 <ProductCard
                     id={product.id}
                     product={product.data.product}
@@ -29,9 +30,97 @@ const { products, title } = Astro.props;
         }
     </div>
 
+    {hasMore && <div id="sentinel" class="w-full h-1"></div>}
+
     {
         products.length === 0 && (
             <p class="text-gray-500 text-center py-10">No products found.</p>
         )
     }
 </div>
+
+<script define:vars={{ products: JSON.stringify(products), itemsPerPage }}>
+    const allProducts = JSON.parse(products);
+    let currentIndex = itemsPerPage;
+
+    function createProductCard(product) {
+        const card = document.createElement("div");
+        card.innerHTML = `
+            <div class="bg-white rounded-lg shadow-lg overflow-hidden transition-transform hover:scale-105">
+                <a href="/product/${product.id}" class="block overflow-hidden bg-gray-100">
+                    <img
+                        src="/${product.id}.jpg"
+                        alt="${product.data.product}"
+                        class="w-full h-56 object-cover transition-transform duration-300 hover:scale-105"
+                        loading="lazy"
+                    />
+                </a>
+                <div class="p-5 relative">
+                    <a
+                        href="/rating/filter/${product.data.rating}"
+                        class="absolute top-2 right-2 bg-indigo-600 text-white rounded-full w-10 h-10 flex items-center justify-center font-bold"
+                    >
+                        ${product.data.rating}
+                    </a>
+                    <h2 class="text-xl font-bold mt-2 mb-3">
+                        <a href="/product/${product.id}" class="text-indigo-700 hover:underline">
+                            ${product.data.product}
+                        </a>
+                    </h2>
+                    <div class="flex flex-col space-y-2 text-sm text-gray-600">
+                        <div>
+                            <span class="font-medium">Company:</span>
+                            <a href="/company/${product.data.company}" class="text-indigo-600 hover:underline">
+                                ${product.data.company}
+                            </a>
+                        </div>
+                        <div>
+                            <span class="font-medium">Category:</span>
+                            <a href="/category/${product.data.category}" class="text-indigo-600 hover:underline">
+                                ${product.data.category}
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        `;
+        return card.firstElementChild;
+    }
+
+    function loadMoreProducts() {
+        const grid = document.getElementById("product-grid");
+        const sentinel = document.getElementById("sentinel");
+        
+        if (!grid) return;
+
+        const endIndex = Math.min(currentIndex + itemsPerPage, allProducts.length);
+        
+        for (let i = currentIndex; i < endIndex; i++) {
+            const productCard = createProductCard(allProducts[i]);
+            grid.appendChild(productCard);
+        }
+
+        currentIndex = endIndex;
+
+        // Remove sentinel if all products loaded
+        if (currentIndex >= allProducts.length && sentinel) {
+            sentinel.remove();
+            observer.disconnect();
+        }
+    }
+
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+                loadMoreProducts();
+            }
+        });
+    }, {
+        rootMargin: "100px"
+    });
+
+    const sentinel = document.getElementById("sentinel");
+    if (sentinel) {
+        observer.observe(sentinel);
+    }
+</script>
