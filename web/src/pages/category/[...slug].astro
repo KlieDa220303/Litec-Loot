@@ -12,7 +12,7 @@ export async function getStaticPaths() {
 
     return categories.map((category) => {
         const categoryProducts = products.filter(
-            (product) => product.data.category === category,
+            (product) => product.data.category.toLowerCase().includes(category.toLowerCase()),
         );
         return {
             params: { slug: category },
