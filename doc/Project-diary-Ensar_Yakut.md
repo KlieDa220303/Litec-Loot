@@ -17,3 +17,6 @@
 
 ### 05.05.2026
 - Today i updated the website by adding some new features: Not all products are being loaded when the website is being opened. Learned about paging and added pages so that only a number of products are shown on the website.
+
+### 12.05.2026
+- After some more tutorials and code copy i have added a new category year. I don't know if this info should be shown on the items or not. A lot has changed since i have started updating the website. It already looks much better than it used to.
