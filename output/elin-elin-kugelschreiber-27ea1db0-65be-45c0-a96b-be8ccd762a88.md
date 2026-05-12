@@ -3,6 +3,7 @@ product: 'Elin Kugelschreiber'
 company: 'Elin'
 rating: 4
 category: 'Stift'
+year: 2026
 ---
 
 # Elin - Elin Kugelschreiber

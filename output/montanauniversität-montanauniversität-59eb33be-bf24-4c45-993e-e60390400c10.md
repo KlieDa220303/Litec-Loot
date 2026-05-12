@@ -3,6 +3,7 @@ product: 'Montanuniversität Block'
 company: 'Montanuniversität'
 rating: 4
 category: 'Block'
+year: 2026
 ---
 
 # MOntanauniversität - Montanauniversität

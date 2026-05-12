@@ -3,6 +3,7 @@ product: 'LinzAG Zuckerl'
 company: 'LinzAG'
 rating: 3
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # LinzAG - LinzAG Zuckerl

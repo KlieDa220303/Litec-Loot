@@ -3,6 +3,7 @@ product: 'Plasser & Theurer Notizblock'
 company: 'Plasser & Theurer'
 rating: 7
 category: 'Block'
+year: 2026
 ---
 
 # Plasser & Theurer  - Plasser & Theurer Notizblock

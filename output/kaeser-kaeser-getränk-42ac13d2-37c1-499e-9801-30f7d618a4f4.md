@@ -3,6 +3,7 @@ product: 'Kaeser Getränk'
 company: 'Kaeser'
 rating: 7
 category: 'Getränk'
+year: 2026
 ---
 
 # Kaeser - Kaeser Getr�nk

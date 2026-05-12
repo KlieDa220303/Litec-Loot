@@ -3,6 +3,7 @@ product: 'Spiratec Schlüsselanhänger'
 company: 'Spiratec'
 rating: 8
 category: 'Schlüsselanhänger'
+year: 2026
 ---
 
 # Spiratec - Spiratec Schl�sselanh�nger

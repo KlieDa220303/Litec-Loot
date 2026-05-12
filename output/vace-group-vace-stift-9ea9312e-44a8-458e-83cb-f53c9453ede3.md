@@ -3,6 +3,7 @@ product: 'Vace Stift'
 company: 'Vace Group'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # Vace Group - Vace Stift

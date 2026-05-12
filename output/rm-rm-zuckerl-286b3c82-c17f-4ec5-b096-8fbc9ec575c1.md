@@ -3,6 +3,7 @@ product: 'RM zuckerl'
 company: 'RM'
 rating: 1
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # RM - RM zuckerl

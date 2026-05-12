@@ -3,6 +3,7 @@ product: 'Hainzl Gummibären'
 company: 'Hainzl'
 rating: 4
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Hainzl - Hainzl Gummibären

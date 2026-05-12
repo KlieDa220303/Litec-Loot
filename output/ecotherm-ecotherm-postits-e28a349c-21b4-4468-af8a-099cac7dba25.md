@@ -3,6 +3,7 @@ product: 'Ecotherm Postits'
 company: 'Ecotherm'
 rating: 5
 category: 'Block'
+year: 2026
 ---
 
 # Ecotherm - Ecotherm Postits

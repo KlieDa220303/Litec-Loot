@@ -3,6 +3,7 @@ product: 'Hauser Pinguin'
 company: 'Hauser'
 rating: 10
 category: 'Spielzeug'
+year: 2026
 ---
 
 # Hauser - Hauser Pinguin

@@ -3,6 +3,7 @@ product: 'TexEnergieAG Textmarker'
 company: 'EnergieAG'
 rating: 6
 category: 'Stift'
+year: 2026
 ---
 
 # EnergieAG - TexEnergieAG Textmarker

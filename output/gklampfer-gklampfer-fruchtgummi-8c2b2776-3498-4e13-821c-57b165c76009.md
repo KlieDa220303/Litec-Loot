@@ -3,6 +3,7 @@ product: 'G.Klampfer Fruchtgummi'
 company: 'G.Klampfer'
 rating: 5
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # G.Klampfer - G.Klampfer Fruchtgummi

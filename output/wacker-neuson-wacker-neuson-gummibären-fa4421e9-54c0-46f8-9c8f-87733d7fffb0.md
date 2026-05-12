@@ -3,6 +3,7 @@ product: 'Wacker Neuson Gummibären'
 company: 'Wacker Neuson'
 rating: 5
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Wacker Neuson - Wacker Neuson Gummibären

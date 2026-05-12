@@ -3,6 +3,7 @@ product: 'Plasser & Theurer Wasserball'
 company: 'Plasser & Theurer'
 rating: 4
 category: 'Spielzeug'
+year: 2026
 ---
 
 # Plasser & Theurer - Plasser & Theurer Wasserball

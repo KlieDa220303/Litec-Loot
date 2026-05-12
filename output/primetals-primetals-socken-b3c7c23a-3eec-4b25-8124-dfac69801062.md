@@ -3,6 +3,7 @@ product: 'Primetals Socken'
 company: 'Primetals'
 rating: 6
 category: 'Kleidung'
+year: 2026
 ---
 
 # Primetals - Primetals Socken

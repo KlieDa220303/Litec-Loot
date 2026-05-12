@@ -3,6 +3,7 @@ product: 'Kreuzpointner Stift'
 company: 'Kreuzpointner'
 rating: 7
 category: 'Stift'
+year: 2026
 ---
 
 # Kreuzpointner - Kreuzpointner Stift

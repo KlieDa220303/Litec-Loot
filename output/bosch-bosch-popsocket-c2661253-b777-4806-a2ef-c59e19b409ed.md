@@ -3,6 +3,7 @@ product: 'Bosch Popsocket'
 company: 'Bosch'
 rating: 8
 category: 'Spielzeug'
+year: 2026
 ---
 
 # Bosch - Bosch Popsocket

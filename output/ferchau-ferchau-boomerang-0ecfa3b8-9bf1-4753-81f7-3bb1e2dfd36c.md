@@ -3,6 +3,7 @@ product: 'Ferchau Boomerang'
 company: 'Ferchau'
 rating: 8
 category: 'Spielzeug'
+year: 2026
 ---
 
 # Ferchau - Ferchau Boomerang

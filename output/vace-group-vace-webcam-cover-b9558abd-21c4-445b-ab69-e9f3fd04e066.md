@@ -3,6 +3,7 @@ product: 'Vace webcam cover'
 company: 'Vace Group'
 rating: 5
 category: 'Sicherheit'
+year: 2026
 ---
 
 # Vace Group - Vace webcam cover

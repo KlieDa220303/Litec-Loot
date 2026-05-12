@@ -3,6 +3,7 @@ product: 'ABB block'
 company: 'ABB'
 rating: 6
 category: 'Block'
+year: 2026
 ---
 
 # ABB - ABB block

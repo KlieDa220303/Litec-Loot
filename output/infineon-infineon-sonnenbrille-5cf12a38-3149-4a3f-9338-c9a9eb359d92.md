@@ -3,6 +3,7 @@ product: 'Infineon Sonnenbrille'
 company: 'Infineon'
 rating: 6
 category: 'Kleidung'
+year: 2026
 ---
 
 # Infineon - Infineon Sonnenbrille

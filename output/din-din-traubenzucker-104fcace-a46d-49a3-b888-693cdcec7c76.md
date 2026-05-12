@@ -3,6 +3,7 @@ product: 'Din Traubenzucker'
 company: 'DIN'
 rating: 3
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # DIN - Din Traubenzucker

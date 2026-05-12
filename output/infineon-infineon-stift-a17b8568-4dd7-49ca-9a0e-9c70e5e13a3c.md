@@ -3,6 +3,7 @@ product: 'Infineon Stift'
 company: 'Infineon'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # Infineon - Infineon Stift

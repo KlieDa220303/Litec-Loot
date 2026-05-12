@@ -3,6 +3,7 @@ product: 'DS Automation Würfel'
 company: 'DS Automation'
 rating: 4
 category: 'Spielzeug'
+year: 2026
 ---
 
 # DS Automation - DS Automation Würfel

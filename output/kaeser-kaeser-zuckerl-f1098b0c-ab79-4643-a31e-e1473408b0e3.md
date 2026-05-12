@@ -3,6 +3,7 @@ product: 'Kaeser Zuckerl'
 company: 'Kaeser'
 rating: 2
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Kaeser - Kaeser Zuckerl

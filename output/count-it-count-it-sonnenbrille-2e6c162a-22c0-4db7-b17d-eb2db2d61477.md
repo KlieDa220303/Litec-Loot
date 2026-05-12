@@ -3,6 +3,7 @@ product: 'Count IT Sonnenbrille'
 company: 'Count IT'
 rating: 6
 category: 'Kleidung'
+year: 2026
 ---
 
 # Count It - Count IT Sonnenbrille

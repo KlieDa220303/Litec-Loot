@@ -3,6 +3,7 @@ product: 'Infineon Radabdeckung'
 company: 'Infineon'
 rating: 6
 category: 'Radabdeckung'
+year: 2026
 ---
 
 # Infineon - Infineon Radabdeckung

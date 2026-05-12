@@ -3,6 +3,7 @@ product: 'Andritz Zuckerl'
 company: 'Andritz'
 rating: 3
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Andritz - Andritz Zuckerl

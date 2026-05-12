@@ -3,6 +3,7 @@ product: 'Altmüller stift'
 company: 'Altmüller'
 rating: 6
 category: 'Stift'
+year: 2026
 ---
 
 # Altmüller - Altmüller stift

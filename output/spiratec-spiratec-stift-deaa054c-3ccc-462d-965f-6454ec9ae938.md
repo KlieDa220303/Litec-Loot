@@ -3,6 +3,7 @@ product: 'Spiratec stift'
 company: 'Spiratec'
 rating: 4
 category: 'Stift'
+year: 2026
 ---
 
 # Spiratec - Spiratec stift

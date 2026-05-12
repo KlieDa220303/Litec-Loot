@@ -3,6 +3,7 @@ product: 'Hainzl Bleistift'
 company: 'Hainzl'
 rating: 7
 category: 'Stift'
+year: 2026
 ---
 
 # Hainzl - Hainzl Bleistift

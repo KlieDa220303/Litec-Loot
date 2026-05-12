@@ -3,6 +3,7 @@ product: 'Etech stift'
 company: 'Etech'
 rating: 4
 category: 'Stift'
+year: 2026
 ---
 
 # Etech - Etech stift

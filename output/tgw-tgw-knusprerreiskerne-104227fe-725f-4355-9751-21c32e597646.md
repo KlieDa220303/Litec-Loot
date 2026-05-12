@@ -3,6 +3,7 @@ product: 'TGW Knusprerreiskerne'
 company: 'TGW'
 rating: 6
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # TGW - TGW Knusprerreiskerne

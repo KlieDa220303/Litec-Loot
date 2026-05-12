@@ -3,6 +3,7 @@ product: 'Wolf gummibären'
 company: 'Wolf'
 rating: 3
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Wolf - Wolf gummib�ren

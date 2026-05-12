@@ -3,6 +3,7 @@ product: 'Salvagnini Textmarker'
 company: 'Salvagnini'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # Salvagnini - Salvagnini Textmarker

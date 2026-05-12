@@ -3,6 +3,7 @@ product: 'Dorninger Hytronics Putztuch'
 company: 'Dorninger Hytronics'
 rating: 5
 category: 'Anderes'
+year: 2026
 ---
 
 # Dorninger Hytronics - Dorninger Hytronics Putztuch

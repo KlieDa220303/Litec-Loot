@@ -3,6 +3,7 @@ product: 'Riegler Kaugummi'
 company: 'Riegler'
 rating: 6
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Riegler - Riegler Kaugummi

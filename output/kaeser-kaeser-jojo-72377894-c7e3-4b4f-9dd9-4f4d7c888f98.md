@@ -3,6 +3,7 @@ product: 'Kaeser JoJo'
 company: 'Kaeser'
 rating: 9
 category: 'Spielzeug'
+year: 2026
 ---
 
 # Kaeser - Kaeser JoJo

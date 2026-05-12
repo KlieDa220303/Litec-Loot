@@ -3,6 +3,7 @@ product: 'Riegler Geodreieck'
 company: 'Riegler'
 rating: 6
 category: 'Messzeug'
+year: 2026
 ---
 
 # Riegler - Riegler Geodreieck

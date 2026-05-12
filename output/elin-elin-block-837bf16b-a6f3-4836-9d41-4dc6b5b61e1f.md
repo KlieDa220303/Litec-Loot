@@ -3,6 +3,7 @@ product: 'Elin Block'
 company: 'Elin'
 rating: 4
 category: 'Block'
+year: 2026
 ---
 
 # Elin - Elin Block

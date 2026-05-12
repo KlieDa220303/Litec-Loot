@@ -3,6 +3,7 @@ product: 'BFI Einkaufswagen münze'
 company: 'BFI'
 rating: 3
 category: 'Schlüsselanhänger'
+year: 2026
 ---
 
 # BFI - BFI Einkaufswagen münze

@@ -3,6 +3,7 @@ product: 'Beko stift'
 company: 'Beko'
 rating: 4
 category: 'Stift'
+year: 2026
 ---
 
 # Beko - Beko stift

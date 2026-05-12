@@ -3,6 +3,7 @@ product: 'Elin geodreieck'
 company: 'Elin'
 rating: 5
 category: 'Messzeug'
+year: 2026
 ---
 
 # Elin - Elin geodreieck

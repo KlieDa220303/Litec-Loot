@@ -3,6 +3,7 @@ product: 'PMS Flaschenöffner'
 company: 'PMS'
 rating: 6
 category: 'Schlüsselanhänger'
+year: 2026
 ---
 
 # PMS - PMS Flaschenöffner

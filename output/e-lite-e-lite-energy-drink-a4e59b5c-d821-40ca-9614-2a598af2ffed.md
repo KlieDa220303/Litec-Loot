@@ -3,6 +3,7 @@ product: 'E-Lite Energy Drink'
 company: 'E-Lite'
 rating: 7
 category: 'Getränk'
+year: 2026
 ---
 
 # E-Lite - E-Lite Energy Drink

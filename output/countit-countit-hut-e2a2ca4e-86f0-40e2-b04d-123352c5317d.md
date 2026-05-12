@@ -3,6 +3,7 @@ product: 'Count IT hut'
 company: 'Count IT'
 rating: 8
 category: 'Kleidung'
+year: 2026
 ---
 
 # CountIT - CountIT hut

@@ -3,6 +3,7 @@ product: 'Loxone Kugelschreiber'
 company: 'Loxone'
 rating: 8
 category: 'Stift'
+year: 2026
 ---
 
 # Loxone - Loxone Kugelschreiber

@@ -3,6 +3,7 @@ product: 'Stiebel Eltron Block'
 company: 'Stiebel Eltron'
 rating: 7
 category: 'Block'
+year: 2026
 ---
 
 # Stiebel Eltron - Stiebel Eltron Block

@@ -3,6 +3,7 @@ product: 'Swie-Energie Sonnenbrille'
 company: 'Swie-Energie'
 rating: 6
 category: 'Kleidung'
+year: 2026
 ---
 
 # Swie-Energie - Swie-Energie Sonnenbrille

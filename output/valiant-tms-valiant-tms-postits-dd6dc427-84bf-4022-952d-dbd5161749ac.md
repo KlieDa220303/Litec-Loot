@@ -3,6 +3,7 @@ product: 'Valiant TMS postits'
 company: 'Valiant TMS'
 rating: 4
 category: 'Block'
+year: 2026
 ---
 
 # Valiant TMS - Valiant TMS postits

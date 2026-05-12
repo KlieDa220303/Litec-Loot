@@ -3,6 +3,7 @@ product: 'Voesalpine Block'
 company: 'Voestalpine'
 rating: 4
 category: 'Block'
+year: 2026
 ---
 
 # Voestalpine - Voesalpine Block

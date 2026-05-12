@@ -3,6 +3,7 @@ product: 'Notizen'
 company: 'EnergieAG'
 rating: 5
 category: 'Block'
+year: 2026
 ---
 
 # EnergieAG - Notizen

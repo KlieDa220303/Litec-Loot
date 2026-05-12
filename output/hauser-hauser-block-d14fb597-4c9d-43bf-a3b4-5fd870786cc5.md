@@ -3,6 +3,7 @@ product: 'Hauser Block'
 company: 'Hauser'
 rating: 4
 category: 'Block'
+year: 2026
 ---
 
 # Hauser - Hauser Block

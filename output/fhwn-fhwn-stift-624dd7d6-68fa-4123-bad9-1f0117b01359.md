@@ -3,6 +3,7 @@ product: 'Fhwn Stift'
 company: 'Fhwn'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # Fhwn - Fhwn Stift

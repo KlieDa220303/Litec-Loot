@@ -3,6 +3,7 @@ product: 'Primetals Sticker'
 company: 'Primetals'
 rating: 2
 category: 'Sticker'
+year: 2026
 ---
 
 # Primetals - Primetals Sticker

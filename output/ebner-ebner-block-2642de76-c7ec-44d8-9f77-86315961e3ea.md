@@ -3,6 +3,7 @@ product: 'Ebner Block'
 company: 'Ebner'
 rating: 5
 category: 'Block'
+year: 2026
 ---
 
 # Ebner - Ebner Block

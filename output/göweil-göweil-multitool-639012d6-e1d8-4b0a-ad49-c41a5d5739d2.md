@@ -3,6 +3,7 @@ product: 'Göweil Multitool'
 company: 'Göweil'
 rating: 3
 category: 'Multitool'
+year: 2026
 ---
 
 # Göweil - Göweil Multitool

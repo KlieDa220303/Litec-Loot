@@ -3,6 +3,7 @@ product: 'Altmüller postits'
 company: 'Altmüller'
 rating: 4
 category: 'Block'
+year: 2026
 ---
 
 # Altmüller - Altmüller postits

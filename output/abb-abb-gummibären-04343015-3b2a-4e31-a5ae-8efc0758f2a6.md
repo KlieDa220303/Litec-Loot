@@ -3,6 +3,7 @@ product: 'ABB gummibären'
 company: 'ABB'
 rating: 3
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # ABB - ABB gummib�ren

@@ -3,6 +3,7 @@ product: 'Wacker Neuson Flaschenöffner'
 company: 'Wacker Neuson'
 rating: 5
 category: 'Schlüsselanhänger'
+year: 2026
 ---
 
 # Wacker Neuson - Wacker Neuson Flaschenöffner

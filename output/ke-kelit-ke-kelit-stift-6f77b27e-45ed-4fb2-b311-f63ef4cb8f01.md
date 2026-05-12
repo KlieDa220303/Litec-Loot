@@ -3,6 +3,7 @@ product: 'Ke-kelit stift'
 company: 'KE KELIT'
 rating: 4
 category: 'Stift'
+year: 2026
 ---
 
 # ke-kelit - Ke-kelit stift

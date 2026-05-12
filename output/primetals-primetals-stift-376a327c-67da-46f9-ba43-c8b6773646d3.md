@@ -3,6 +3,7 @@ product: 'Primetals Stift'
 company: 'Primetals'
 rating: 8
 category: 'Stift'
+year: 2026
 ---
 
 # Primetals - Primetals Stift

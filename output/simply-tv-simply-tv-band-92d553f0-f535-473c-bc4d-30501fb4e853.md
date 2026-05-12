@@ -3,6 +3,7 @@ product: 'Simply TV Band'
 company: 'Simply TV'
 rating: 4
 category: 'Schlüsselanhänger'
+year: 2026
 ---
 
 # Simply TV - Simply TV Band

@@ -3,6 +3,7 @@ product: 'Swie-Energie band'
 company: 'Swie-Energie'
 rating: 4
 category: 'Schlüsselanhänger'
+year: 2026
 ---
 
 # Swie-Energie band - Swie-Energie

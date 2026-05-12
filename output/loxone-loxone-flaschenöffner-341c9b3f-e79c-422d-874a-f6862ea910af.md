@@ -3,6 +3,7 @@ product: 'Loxone Flaschenöffner'
 company: 'Loxone'
 rating: 5
 category: 'Schlüsselanhänger'
+year: 2026
 ---
 
 # Loxone - Loxone Flaschenöffner

@@ -3,6 +3,7 @@ product: 'linzAG buch'
 company: 'LinzAG'
 rating: 5
 category: 'Block'
+year: 2026
 ---
 
 # LinzAG - linzAG buch

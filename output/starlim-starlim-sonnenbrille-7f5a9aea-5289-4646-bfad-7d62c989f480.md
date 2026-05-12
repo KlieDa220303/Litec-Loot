@@ -3,6 +3,7 @@ product: 'Starlim Sterner Sonnenbrille'
 company: 'Starlim Sterner'
 rating: 8
 category: 'Kleidung'
+year: 2026
 ---
 
 # Starlim Sterner - Starlim Sterner Sonnenbrille

@@ -3,6 +3,7 @@ product: 'BFI bleistift'
 company: 'BFI'
 rating: 4
 category: 'Stift'
+year: 2026
 ---
 
 # BFI - BFI bleistift

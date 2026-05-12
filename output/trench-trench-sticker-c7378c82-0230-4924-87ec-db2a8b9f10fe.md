@@ -3,6 +3,7 @@ product: 'Trench Sticker'
 company: 'Trench'
 rating: 2
 category: 'Sticker'
+year: 2026
 ---
 
 # Trench - Trench Sticker

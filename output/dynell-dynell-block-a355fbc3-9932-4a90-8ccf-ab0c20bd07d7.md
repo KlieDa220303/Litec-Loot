@@ -3,6 +3,7 @@ product: 'Dynell Block'
 company: 'Dynell'
 rating: 5
 category: 'Block'
+year: 2026
 ---
 
 # Dynell - Dynell Block

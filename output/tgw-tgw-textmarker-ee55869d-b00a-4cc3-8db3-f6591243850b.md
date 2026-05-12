@@ -3,6 +3,7 @@ product: 'TGW Textmarker'
 company: 'TGW'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # TGW - TGW Textmarker

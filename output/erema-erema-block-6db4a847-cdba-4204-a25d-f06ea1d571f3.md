@@ -3,6 +3,7 @@ product: 'Erema Block'
 company: 'Erema'
 rating: 3
 category: 'Block'
+year: 2026
 ---
 
 # Erema - Erema Block

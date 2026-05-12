@@ -3,6 +3,7 @@ product: 'E Punkt stift'
 company: 'E Punkt'
 rating: 6
 category: 'Stift'
+year: 2026
 ---
 
 # E Punkt - E Punkt Stift

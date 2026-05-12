@@ -3,6 +3,7 @@ product: 'Spie Fruchtgummis'
 company: 'Spie'
 rating: 5
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Spie - Spie Fruchtgummis

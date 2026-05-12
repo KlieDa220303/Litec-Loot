@@ -3,6 +3,7 @@ product: 'KE KELIT Notizblock'
 company: 'KE KELIT'
 rating: 5
 category: 'Block'
+year: 2026
 ---
 
 # KE KELIT - KE KELIT Notizblock

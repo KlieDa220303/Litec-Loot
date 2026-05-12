@@ -3,6 +3,7 @@ product: 'Loxone Traubenzucker'
 company: 'Loxone'
 rating: 3
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Loxone - Loxone Traubenzucker

@@ -3,6 +3,7 @@ product: 'Starlim Sterner zuckerl'
 company: 'Starlim Sterner'
 rating: 2
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Starlim Sterner - Starlim Sterner zuckerl

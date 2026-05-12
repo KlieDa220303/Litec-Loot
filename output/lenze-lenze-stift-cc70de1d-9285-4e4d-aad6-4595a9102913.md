@@ -3,6 +3,7 @@ product: 'Lenze Stift'
 company: 'Lenze'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # Lenze - Lenze Stift

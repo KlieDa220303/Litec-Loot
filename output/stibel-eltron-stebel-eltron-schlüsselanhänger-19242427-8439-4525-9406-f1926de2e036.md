@@ -3,6 +3,7 @@ product: 'Stebel Eltron Schlüsselanhänger'
 company: 'Stibel Eltron'
 rating: 4
 category: 'Schlüsselanhänger'
+year: 2026
 ---
 
 # Stibel Eltron - Stebel Eltron Schl�sselanh�nger

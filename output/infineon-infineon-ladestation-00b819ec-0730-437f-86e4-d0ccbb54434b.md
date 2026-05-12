@@ -3,6 +3,7 @@ product: 'infineon Ladestation'
 company: 'Infineon'
 rating: 9
 category: 'Elektronik'
+year: 2026
 ---
 
 # Infineon - infineon Ladestation

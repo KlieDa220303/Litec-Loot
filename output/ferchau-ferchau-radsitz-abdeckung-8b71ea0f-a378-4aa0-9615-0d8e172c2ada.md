@@ -3,6 +3,7 @@ product: 'Ferchau radsitz abdeckung'
 company: 'Ferchau'
 rating: 5
 category: 'Radabdeckung'
+year: 2026
 ---
 
 # Ferchau - Ferchau radsitz abdeckung

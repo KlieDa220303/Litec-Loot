@@ -3,6 +3,7 @@ product: 'voestalpine stift'
 company: 'Voestalpine'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # Voestalpine - voestalpine stift

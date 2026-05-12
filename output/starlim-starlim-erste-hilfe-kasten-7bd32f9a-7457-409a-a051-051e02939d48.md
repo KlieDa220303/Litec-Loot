@@ -3,6 +3,7 @@ product: 'Starlim Sterner erste hilfe kasten'
 company: 'Starlim Sterner'
 rating: 9
 category: 'Gesundheit'
+year: 2026
 ---
 
 # Starlim Sterner - Starlim Sterner erste hilfe kasten

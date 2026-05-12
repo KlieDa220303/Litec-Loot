@@ -3,6 +3,7 @@ product: 'EBG Getränk'
 company: 'EBG'
 rating: 8
 category: 'Getränk'
+year: 2026
 ---
 
 # EBG - EBG Getr�nk

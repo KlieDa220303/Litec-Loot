@@ -3,6 +3,7 @@ product: 'Simens kugelschreiber'
 company: 'Simens'
 rating: 4
 category: 'Stift'
+year: 2026
 ---
 
 # Simens - Simens kugelschreiber

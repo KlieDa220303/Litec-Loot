@@ -3,6 +3,7 @@ product: 'Beko Untersetzer'
 company: 'Beko'
 rating: 1
 category: 'Block'
+year: 2026
 ---
 
 # Beko - Beko Untersetzer

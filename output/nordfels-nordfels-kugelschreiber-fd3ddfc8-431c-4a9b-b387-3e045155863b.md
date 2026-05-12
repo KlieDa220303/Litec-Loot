@@ -3,6 +3,7 @@ product: 'Nordfels Kugelschreiber'
 company: 'Nordfels'
 rating: 7
 category: 'Stift'
+year: 2026
 ---
 
 # Nordfels - Nordfels Kugelschreiber

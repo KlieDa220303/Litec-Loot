@@ -3,6 +3,7 @@ product: 'Dorninger Hytronics Kugelschreiber'
 company: 'Dorninger Hytronics'
 rating: 6
 category: 'Stift'
+year: 2026
 ---
 
 # Dorninger Hytronics - Dorninger Hytronics Kugelschreiber

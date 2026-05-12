@@ -3,6 +3,7 @@ product: 'Count IT Stift'
 company: 'Count IT'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # Count IT - Count IT Stift

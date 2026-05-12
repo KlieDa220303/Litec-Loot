@@ -3,6 +3,7 @@ product: 'Ecotherm Stift'
 company: 'Ecotherm'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # Ecotherm - Ecotherm Stift

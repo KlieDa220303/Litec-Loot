@@ -3,6 +3,7 @@ product: 'Trench Geodreieck'
 company: 'Trench'
 rating: 7
 category: 'Messzeug'
+year: 2026
 ---
 
 # Trench - Trench Geodreieck

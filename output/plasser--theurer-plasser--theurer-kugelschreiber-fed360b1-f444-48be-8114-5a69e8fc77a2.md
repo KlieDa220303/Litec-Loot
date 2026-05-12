@@ -3,6 +3,7 @@ product: 'Plasser & Theurer Kugelschreiber'
 company: 'Plasser & Theurer'
 rating: 6
 category: 'Stift'
+year: 2026
 ---
 
 # Plasser & Theurer - Plasser & Theurer Kugelschreiber

@@ -3,6 +3,7 @@ product: 'Kaeser Mentos'
 company: 'Kaeser'
 rating: 4
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Kaeser - Kaeser Mentos

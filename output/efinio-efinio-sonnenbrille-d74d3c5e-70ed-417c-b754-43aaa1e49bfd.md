@@ -3,6 +3,7 @@ product: 'Efinio Sonnenbrille'
 company: 'Efinio'
 rating: 6
 category: 'Kleidung'
+year: 2026
 ---
 
 # Efinio - Efinio Sonnenbrille

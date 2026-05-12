@@ -3,6 +3,7 @@ product: 'Liwest Stift'
 company: 'Liwest'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # Liwest - Liwest Stift

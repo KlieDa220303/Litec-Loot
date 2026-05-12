@@ -3,6 +3,7 @@ product: 'Regius gummibären'
 company: 'Regius'
 rating: 4
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Regius - Regius gummibären

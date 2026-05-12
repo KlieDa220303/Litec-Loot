@@ -3,6 +3,7 @@ product: 'Andritz Flasche'
 company: 'Andritz'
 rating: 8
 category: 'Getränke'
+year: 2026
 ---
 
 # Andritz - Andritz Flasche

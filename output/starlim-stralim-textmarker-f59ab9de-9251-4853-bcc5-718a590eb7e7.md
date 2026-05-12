@@ -3,6 +3,7 @@ product: 'Stralim textmarker'
 company: 'Starlim Sterner'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # Starlim Sterner - Stralim textmarker

@@ -3,6 +3,7 @@ product: 'BFI Parkuhr'
 company: 'BFI'
 rating: 7
 category: 'Messzeug'
+year: 2026
 ---
 
 # BFI - BFI Parkuhr

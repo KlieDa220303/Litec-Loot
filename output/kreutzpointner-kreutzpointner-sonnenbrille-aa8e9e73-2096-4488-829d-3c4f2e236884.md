@@ -3,6 +3,7 @@ product: 'Kreutzpointner Sonnenbrille'
 company: 'Kreutzpointner'
 rating: 6
 category: 'Kleidung'
+year: 2026
 ---
 
 # Kreutzpointner - Kreutzpointner Sonnenbrille

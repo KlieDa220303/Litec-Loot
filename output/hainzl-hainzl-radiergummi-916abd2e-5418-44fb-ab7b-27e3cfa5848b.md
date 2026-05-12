@@ -3,6 +3,7 @@ product: 'Hainzl Radiergummi'
 company: 'Hainzl'
 rating: 3
 category: 'Radiergummi'
+year: 2026
 ---
 
 # Hainzl - Hainzl Radiergummi

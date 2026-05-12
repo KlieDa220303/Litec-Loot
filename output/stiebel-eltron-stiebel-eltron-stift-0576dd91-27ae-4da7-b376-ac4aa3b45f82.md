@@ -3,6 +3,7 @@ product: 'Stiebel Eltron Stift'
 company: 'Stiebel Eltron'
 rating: 2
 category: 'Stift'
+year: 2026
 ---
 
 # Stiebel Eltron - Stiebel Eltron Stift

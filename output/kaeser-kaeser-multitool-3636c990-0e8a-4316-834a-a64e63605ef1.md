@@ -3,6 +3,7 @@ product: 'Kaeser Multitool'
 company: 'Kaeser'
 rating: 10
 category: 'Multitool'
+year: 2026
 ---
 
 # Kaeser - Kaeser Multitool

@@ -3,6 +3,7 @@ product: 'Spiratec'
 company: 'Spiratec'
 rating: 4
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Spiratec - Spiratec

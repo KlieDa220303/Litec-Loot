@@ -3,6 +3,7 @@ product: 'Efinio jonglierball'
 company: 'Efinio'
 rating: 6
 category: 'Spielzeug'
+year: 2026
 ---
 
 # Efinio - Efinio jonglierball

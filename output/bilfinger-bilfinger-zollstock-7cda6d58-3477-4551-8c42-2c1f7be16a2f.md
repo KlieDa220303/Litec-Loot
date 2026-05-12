@@ -3,6 +3,7 @@ product: 'Bilfinger zollstock'
 company: 'Bilfinger'
 rating: 7
 category: 'Messzeug'
+year: 2026
 ---
 
 # Bilfinger - Bilfinger zollstock

@@ -3,6 +3,7 @@ product: 'Swie-Energie Stressball'
 company: 'Swie-Energie'
 rating: 4
 category: 'Gesundheit'
+year: 2026
 ---
 
 # Swie-Energie - Swie-Energie Stressball

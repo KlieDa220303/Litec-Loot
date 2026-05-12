@@ -3,6 +3,7 @@ product: 'ÖBB blumensamen'
 company: 'ÖBB'
 rating: 1
 category: 'Anderes'
+year: 2026
 ---
 
 # ÖBB - ÖBB blumensamen

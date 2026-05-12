@@ -3,6 +3,7 @@ product: 'Grob Stift'
 company: 'Grob'
 rating: 4
 category: 'Stift'
+year: 2026
 ---
 
 # Grob - Grob Stift

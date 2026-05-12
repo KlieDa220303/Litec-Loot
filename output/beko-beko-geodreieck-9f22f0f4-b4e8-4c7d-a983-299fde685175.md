@@ -3,6 +3,7 @@ product: 'Beko Geodreieck'
 company: 'Beko'
 rating: 5
 category: 'Messzeug'
+year: 2026
 ---
 
 # Beko - Beko Geodreieck

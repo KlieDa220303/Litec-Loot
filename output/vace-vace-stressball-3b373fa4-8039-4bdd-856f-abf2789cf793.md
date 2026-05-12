@@ -3,6 +3,7 @@ product: 'Vace Stressball'
 company: 'Vace Group'
 rating: 4
 category: 'Gesundheit'
+year: 2026
 ---
 
 # Vace - Vace Stressball

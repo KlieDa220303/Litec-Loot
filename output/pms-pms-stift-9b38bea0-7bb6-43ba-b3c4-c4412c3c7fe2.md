@@ -3,6 +3,7 @@ product: 'PMS Stift'
 company: 'PMS'
 rating: 7
 category: 'Stift'
+year: 2026
 ---
 
 # PMS - PMS Stift

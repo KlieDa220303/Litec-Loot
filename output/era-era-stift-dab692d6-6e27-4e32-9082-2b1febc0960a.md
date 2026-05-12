@@ -3,6 +3,7 @@ product: 'ERA Stift'
 company: 'ERA'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # ERA - ERA Stift

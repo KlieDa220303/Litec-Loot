@@ -3,6 +3,7 @@ product: 'Salvagnini Multitool'
 company: 'Salvagnini'
 rating: 8
 category: 'Multitool'
+year: 2026
 ---
 
 # Salvagnini - Salvagnini Multitool

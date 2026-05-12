@@ -3,6 +3,7 @@ product: 'Count IT flaschenöffner magnet'
 company: 'Count IT'
 rating: 6
 category: 'Multitool'
+year: 2026
 ---
 
 # Count IT - Count IT flaschenöffner magnet

@@ -3,6 +3,7 @@ product: 'Grob Spielkarten'
 company: 'Grob'
 rating: 7
 category: 'spielzeug'
+year: 2026
 ---
 
 # Brob - Grob Spielkarten

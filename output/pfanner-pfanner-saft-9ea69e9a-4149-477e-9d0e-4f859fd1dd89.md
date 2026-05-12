@@ -3,6 +3,7 @@ product: 'Pfanner Saft'
 company: 'Pfanner'
 rating: 7
 category: 'Getränke'
+year: 2026
 ---
 
 # Pfanner - Pfanner Saft

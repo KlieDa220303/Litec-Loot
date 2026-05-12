@@ -3,6 +3,7 @@ product: 'E Punkt Regenschirm'
 company: 'E Punkt'
 rating: 7
 category: 'Schirme'
+year: 2026
 ---
 
 # E Punkt - E Punkt Regenschirm

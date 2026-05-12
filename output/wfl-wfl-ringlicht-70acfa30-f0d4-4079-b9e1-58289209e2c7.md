@@ -3,6 +3,7 @@ product: 'WFL Ringlicht'
 company: 'WFL'
 rating: 9
 category: 'Elektronik'
+year: 2026
 ---
 
 # WFL - WFL Ringlicht

@@ -3,6 +3,7 @@ product: 'PMS Apfelstreifen'
 company: 'PMS'
 rating: 4
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # PMS - PMS Apfelstreifen

@@ -3,6 +3,7 @@ product: 'Spiratec Block'
 company: 'Spiratec'
 rating: 3
 category: 'Block'
+year: 2026
 ---
 
 # Spiratec - Spiratec Block

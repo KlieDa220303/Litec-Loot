@@ -3,6 +3,7 @@ product: 'ABB Stift'
 company: 'ABB'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # ABB - ABB Stift

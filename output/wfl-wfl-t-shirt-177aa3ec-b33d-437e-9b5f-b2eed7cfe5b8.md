@@ -3,6 +3,7 @@ product: 'Wfl T-Shirt'
 company: 'WFL'
 rating: 7
 category: 'Kleidung'
+year: 2026
 ---
 
 # WFL - Wfl T-Shirt

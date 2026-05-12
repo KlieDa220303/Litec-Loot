@@ -1,6 +1,7 @@
 ---
 import CategoryFilter from "./CategoryFilter.astro";
 import CompanyFilter from "./CompanyFilter.astro";
+import YearFilter from "./YearFilter.astro";
 import type { CollectionEntry } from "astro:content";
 
 export interface Props {
@@ -20,6 +21,8 @@ const uniqueRatings = showRatingFilter
     <CategoryFilter products={products} />
 
     <CompanyFilter products={products} />
+
+    <YearFilter products={products} />
 
     {
         showRatingFilter && (

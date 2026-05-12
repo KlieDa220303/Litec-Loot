@@ -3,6 +3,7 @@ product: 'Riegler Textmarker'
 company: 'Riegler'
 rating: 7
 category: 'Stift'
+year: 2026
 ---
 
 # Riegler - Riegler Textmarker

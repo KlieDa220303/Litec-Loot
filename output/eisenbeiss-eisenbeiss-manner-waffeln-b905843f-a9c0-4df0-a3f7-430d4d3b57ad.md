@@ -3,6 +3,7 @@ product: 'Eisenbeiss manner waffeln'
 company: 'Eisenbeiss'
 rating: 6
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Eisenbeiss - Eisenbeiss manner waffeln

@@ -3,6 +3,7 @@ product: 'Honeywell Stift'
 company: 'Honeywell'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # Honeywell - Honeywell Stift

@@ -3,6 +3,7 @@ product: 'Lenze DuftBaum'
 company: 'Lenze'
 rating: 6
 category: 'Duft'
+year: 2026
 ---
 
 # Lenze - Lenze DuftBaum

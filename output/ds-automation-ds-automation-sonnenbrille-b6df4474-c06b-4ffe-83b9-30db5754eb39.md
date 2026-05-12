@@ -3,6 +3,7 @@ product: 'DS Automation Sonnenbrille'
 company: 'DS Automation'
 rating: 7
 category: 'Kleidung'
+year: 2026
 ---
 
 # Ds Automation - DS Automation Sonnenbrille

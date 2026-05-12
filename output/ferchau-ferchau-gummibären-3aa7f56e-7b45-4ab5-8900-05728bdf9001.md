@@ -3,6 +3,7 @@ product: 'Ferchau Gummibären'
 company: 'Ferchau'
 rating: 4
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Ferchau - Ferchau Gummibären

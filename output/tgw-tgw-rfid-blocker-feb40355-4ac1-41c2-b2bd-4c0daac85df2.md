@@ -3,6 +3,7 @@ product: 'TGW RFID Blocker'
 company: 'TGW'
 rating: 3
 category: 'Sicherheit'
+year: 2026
 ---
 
 # TGW - TGW RFID Blocker

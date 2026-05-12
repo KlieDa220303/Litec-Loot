@@ -3,6 +3,7 @@ product: 'Stiebel Eltron Tuch'
 company: 'Stiebel Eltron'
 rating: 5
 category: 'Gesundheit'
+year: 2026
 ---
 
 # Stiebel Eltron - Stiebel Eltron Tuch

@@ -3,6 +3,7 @@ product: 'Stiwa Block'
 company: 'Stiwa'
 rating: 5
 category: 'Block'
+year: 2026
 ---
 
 # Stiwa - Stiwa Block

@@ -3,6 +3,7 @@ product: 'Schwingshandel Stift'
 company: 'Schwingshandel'
 rating: 6
 category: 'Stift'
+year: 2026
 ---
 
 # Schwingshandel - Schwingshandel Stift

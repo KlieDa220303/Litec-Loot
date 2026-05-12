@@ -3,6 +3,7 @@ product: 'Trench Kugelschreiber'
 company: 'Trench'
 rating: 8
 category: 'Stift'
+year: 2026
 ---
 
 # Trench - Trench Kugelschreiber

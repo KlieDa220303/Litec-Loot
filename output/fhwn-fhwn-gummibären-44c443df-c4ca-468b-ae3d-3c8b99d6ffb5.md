@@ -3,6 +3,7 @@ product: 'Fhwn Gummibären'
 company: 'Fhwn'
 rating: 4
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Fhwn - Fhwn Gummibären

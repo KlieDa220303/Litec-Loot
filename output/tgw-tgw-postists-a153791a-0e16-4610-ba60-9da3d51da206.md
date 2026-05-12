@@ -3,6 +3,7 @@ product: 'TGW Postists'
 company: 'TGW'
 rating: 4
 category: 'Block'
+year: 2026
 ---
 
 # TGW - TGW Postists

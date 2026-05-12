@@ -3,6 +3,7 @@ product: 'Plasser & Theurer Hut'
 company: 'Plasser & Theurer'
 rating: 8
 category: 'Kleidung'
+year: 2026
 ---
 
 # Plasser & Theurer - Plasser & Theurer Hut

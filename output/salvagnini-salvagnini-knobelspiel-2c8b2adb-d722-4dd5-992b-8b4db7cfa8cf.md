@@ -3,6 +3,7 @@ product: 'Salvagnini Knobelspiel'
 company: 'Salvagnini'
 rating: 8
 category: 'Spielzeug'
+year: 2026
 ---
 
 # Salvagnini - Salvagnini Knobelspiel

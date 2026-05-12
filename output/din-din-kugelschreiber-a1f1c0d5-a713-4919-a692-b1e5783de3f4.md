@@ -3,6 +3,7 @@ product: 'DIN Kugelschreiber'
 company: 'DIN'
 rating: 7
 category: 'Stift'
+year: 2026
 ---
 
 # DIN - DIN Kugelschreiber

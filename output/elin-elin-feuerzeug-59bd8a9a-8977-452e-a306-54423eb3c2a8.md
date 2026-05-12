@@ -3,6 +3,7 @@ product: 'Elin Feuerzeug'
 company: 'Elin'
 rating: 5
 category: 'Feuerzeug'
+year: 2026
 ---
 
 # Elin - Elin Feuerzeug

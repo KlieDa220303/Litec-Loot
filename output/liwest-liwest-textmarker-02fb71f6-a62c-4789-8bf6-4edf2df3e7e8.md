@@ -3,6 +3,7 @@ product: 'Liwest Textmarker'
 company: 'Liwest'
 rating: 6
 category: 'Stift'
+year: 2026
 ---
 
 # Liwest - Liwest Textmarker

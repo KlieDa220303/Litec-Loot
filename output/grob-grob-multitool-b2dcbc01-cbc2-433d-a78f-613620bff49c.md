@@ -3,6 +3,7 @@ product: 'Grob Multitool'
 company: 'Grob'
 rating: 6
 category: 'Multitool'
+year: 2026
 ---
 
 # Grob - Grob Multitool

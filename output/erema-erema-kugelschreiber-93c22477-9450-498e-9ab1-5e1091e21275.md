@@ -3,6 +3,7 @@ product: 'Erema Kugelschreiber'
 company: 'Erema'
 rating: 4
 category: 'Stift'
+year: 2026
 ---
 
 # Erema - Erema Kugelschreiber

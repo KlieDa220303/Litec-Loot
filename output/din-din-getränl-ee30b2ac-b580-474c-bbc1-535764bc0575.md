@@ -3,6 +3,7 @@ product: 'Din Getränk'
 company: 'Din'
 rating: 6
 category: 'Getränk'
+year: 2026
 ---
 
 # Din - Din Getränk

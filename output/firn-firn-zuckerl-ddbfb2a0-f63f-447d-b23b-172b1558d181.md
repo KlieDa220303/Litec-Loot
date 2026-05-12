@@ -3,6 +3,7 @@ product: 'Firn Zuckerl'
 company: 'Firn'
 rating: 2
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Firn - Firn Zuckerl

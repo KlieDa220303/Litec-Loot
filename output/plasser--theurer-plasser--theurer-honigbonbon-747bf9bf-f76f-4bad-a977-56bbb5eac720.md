@@ -3,6 +3,7 @@ product: 'Plasser & Theurer Honigbonbon'
 company: 'Plasser & Theurer'
 rating: 7
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Plasser & Theurer - Plasser & Theurer Honigbonbon

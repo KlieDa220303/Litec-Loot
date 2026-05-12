@@ -3,6 +3,7 @@ product: 'Kreisel Stift'
 company: 'Kreisel'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # Kreisel - Kreisel Stift

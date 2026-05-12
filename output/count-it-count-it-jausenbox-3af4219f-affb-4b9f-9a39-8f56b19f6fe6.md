@@ -3,6 +3,7 @@ product: 'Count IT Jausenbox'
 company: 'Count IT'
 rating: 6
 category: 'Jausenbox'
+year: 2026
 ---
 
 # Count IT - Count IT Jausenbox

@@ -3,6 +3,7 @@ product: 'Spie Block'
 company: 'Spie'
 rating: 3
 category: 'Block'
+year: 2026
 ---
 
 # Spie - Spie Block

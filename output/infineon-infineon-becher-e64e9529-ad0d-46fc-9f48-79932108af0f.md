@@ -3,6 +3,7 @@ product: 'Infineon Becher'
 company: 'Infineon'
 rating: 10
 category: 'Getränke'
+year: 2026
 ---
 
 # Infineon - Infineon Becher

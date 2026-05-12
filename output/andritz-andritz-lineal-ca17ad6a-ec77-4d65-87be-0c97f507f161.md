@@ -3,6 +3,7 @@ product: 'Andritz Lineal'
 company: 'Andritz'
 rating: 5
 category: 'Messzeug'
+year: 2026
 ---
 
 # Andritz - Andritz Lineal

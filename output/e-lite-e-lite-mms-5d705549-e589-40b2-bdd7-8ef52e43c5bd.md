@@ -3,6 +3,7 @@ product: 'E-Lite M&Ms'
 company: 'E-Lite'
 rating: 7
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # E-Lite - E-Lite M&Ms

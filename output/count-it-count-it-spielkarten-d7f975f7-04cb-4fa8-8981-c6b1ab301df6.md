@@ -3,6 +3,7 @@ product: 'Count IT spielkarten'
 company: 'Count IT'
 rating: 8
 category: 'Spielzeug'
+year: 2026
 ---
 
 # Count IT - Count IT spielkarten

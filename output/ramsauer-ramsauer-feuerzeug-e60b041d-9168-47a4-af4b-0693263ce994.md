@@ -3,6 +3,7 @@ product: 'Ramsauer Feuerzeug'
 company: 'Ramsauer'
 rating: 6
 category: 'Feuerzeug'
+year: 2026
 ---
 
 # Ramsauer - Ramsauer Feuerzeug

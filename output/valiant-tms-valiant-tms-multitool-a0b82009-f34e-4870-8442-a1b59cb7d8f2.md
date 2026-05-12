@@ -3,6 +3,7 @@ product: 'Valiant TMS multitool'
 company: 'Valiant TMS'
 rating: 7
 category: 'Schlüsselanhänger'
+year: 2026
 ---
 
 # Valiant TMS - Valiant TMS multitool

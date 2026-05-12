@@ -3,6 +3,7 @@ product: 'Starlim Sterner spielkarten'
 company: 'Starlim Sterner'
 rating: 7
 category: 'Spielzeug'
+year: 2026
 ---
 
 # Starlim Sterner - Starlim Sterner spielkarten

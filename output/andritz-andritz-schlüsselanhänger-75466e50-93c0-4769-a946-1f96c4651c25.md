@@ -3,6 +3,7 @@ product: 'Andritz Schlüsselanhänger'
 company: 'Andritz'
 rating: 5
 category: 'Schlüsselanhänger'
+year: 2026
 ---
 
 # Andritz - Andritz Schlüsselanhänger

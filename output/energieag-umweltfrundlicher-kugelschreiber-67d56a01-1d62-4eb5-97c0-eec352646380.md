@@ -3,6 +3,7 @@ product: 'Umweltfrundlicher Kugelschreiber'
 company: 'EnergieAG'
 rating: 4
 category: 'Stift'
+year: 2026
 ---
 
 # EnergieAG - Umweltfrundlicher Kugelschreiber

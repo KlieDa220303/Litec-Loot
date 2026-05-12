@@ -3,6 +3,7 @@ product: 'Bilfinger Stift'
 company: 'Bilfinger'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # Bilfinger - Bilfinger Stift

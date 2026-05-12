@@ -3,6 +3,7 @@ product: 'Vace Flaschenöffner'
 company: 'Vace Group'
 rating: 5
 category: 'Schlüsselanhänger'
+year: 2026
 ---
 
 # Vace - Vace Flaschenöffner

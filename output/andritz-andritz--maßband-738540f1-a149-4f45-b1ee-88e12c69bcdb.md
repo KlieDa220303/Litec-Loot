@@ -3,6 +3,7 @@ product: 'Andritz  Maßband'
 company: 'Andritz'
 rating: 9
 category: 'Messzeug'
+year: 2026
 ---
 
 # Andritz - Andritz  Maßband

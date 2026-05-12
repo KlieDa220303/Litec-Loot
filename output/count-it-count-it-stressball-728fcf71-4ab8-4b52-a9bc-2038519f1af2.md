@@ -3,6 +3,7 @@ product: 'Count IT stressball'
 company: 'Count IT'
 rating: 5
 category: 'Spielzeug'
+year: 2026
 ---
 
 # Count IT - Count IT stressball

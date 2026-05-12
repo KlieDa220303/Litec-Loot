@@ -3,6 +3,7 @@ product: 'Spiratec Webcam cover'
 company: 'Spiratec'
 rating: 5
 category: 'Sicherheit'
+year: 2026
 ---
 
 # Spiratec - Spiratec Webcam cover

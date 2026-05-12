@@ -3,6 +3,7 @@ product: 'Schwingshandel Flasche'
 company: 'Schwingshandel'
 rating: 6
 category: 'Getränk'
+year: 2026
 ---
 
 # Schwingshandel - Schwingshandel Flasche

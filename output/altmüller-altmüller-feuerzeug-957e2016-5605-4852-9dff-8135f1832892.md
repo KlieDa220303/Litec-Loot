@@ -3,6 +3,7 @@ product: 'Altmüller Feuerzeug'
 company: 'Altmüller'
 rating: 9
 category: 'Feuerzeug'
+year: 2026
 ---
 
 # Altmüller - Altmüller Feuerzeug

@@ -3,6 +3,7 @@ product: 'Count IT radierer'
 company: 'Count IT'
 rating: 2
 category: 'Radierer'
+year: 2026
 ---
 
 # Count IT - Count IT radierer

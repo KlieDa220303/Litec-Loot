@@ -3,6 +3,7 @@ product: 'Dynell kugelschreiber'
 company: 'Dynell'
 rating: 6
 category: 'Stift'
+year: 2026
 ---
 
 # Dynell - Dynell kugelschreiber

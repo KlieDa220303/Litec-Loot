@@ -3,6 +3,7 @@ product: 'Wacker Neuson Block'
 company: 'Wacker Neuson'
 rating: 3
 category: 'Block'
+year: 2026
 ---
 
 # Wacker Neuson - Wacker Neuson Block

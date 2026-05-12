@@ -3,6 +3,7 @@ product: 'Bilfinger Postists'
 company: 'Bilfinger'
 rating: 6
 category: 'Block'
+year: 2026
 ---
 
 # Bilfinger - Bilfinger Postists

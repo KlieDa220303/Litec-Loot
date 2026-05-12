@@ -3,6 +3,7 @@ product: 'FH-OOE stift'
 company: 'FH-OOE'
 rating: 4
 category: 'Stift'
+year: 2026
 ---
 
 # FH-OOE - FH-OOE stift

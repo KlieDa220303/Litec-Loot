@@ -3,6 +3,7 @@ product: 'Salvagnini Flaschenöffner'
 company: 'Salvagnini'
 rating: 5
 category: 'Flaschenöffner'
+year: 2026
 ---
 
 # Salvagnini - Salvagnini Flaschenöffner

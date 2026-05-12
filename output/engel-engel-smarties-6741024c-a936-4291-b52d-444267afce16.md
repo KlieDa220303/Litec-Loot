@@ -3,6 +3,7 @@ product: 'Engel Smarties'
 company: 'Engel'
 rating: 5
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Engel - Engel Smarties

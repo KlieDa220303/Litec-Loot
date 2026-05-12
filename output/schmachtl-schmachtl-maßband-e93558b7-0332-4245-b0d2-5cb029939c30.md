@@ -3,6 +3,7 @@ product: 'Schmachtl Maßband'
 company: 'Schmachtl'
 rating: 8
 category: 'Messzeug'
+year: 2026
 ---
 
 # Schmachtl - Schmachtl Maßband

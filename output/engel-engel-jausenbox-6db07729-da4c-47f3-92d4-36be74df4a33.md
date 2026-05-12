@@ -3,6 +3,7 @@ product: 'Engel Jausenbox'
 company: 'Engel'
 rating: 7
 category: 'Jausenbox'
+year: 2026
 ---
 
 # Engel - Engel Jausenbox

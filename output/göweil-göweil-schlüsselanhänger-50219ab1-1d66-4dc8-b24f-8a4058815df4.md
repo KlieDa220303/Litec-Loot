@@ -3,6 +3,7 @@ product: 'Göweil schlüsselanhänger'
 company: 'Göweil'
 rating: 4
 category: 'Schlüsselanhänger'
+year: 2026
 ---
 
 # Göweil - Göweil schlüsselanhänger

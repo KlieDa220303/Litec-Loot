@@ -3,6 +3,7 @@ product: 'Riegler Schnapparmband'
 company: 'Riegler'
 rating: 6
 category: 'Kleidung'
+year: 2026
 ---
 
 # Riegler - Riegler Schnapparmband

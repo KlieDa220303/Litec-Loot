@@ -3,6 +3,7 @@ product: 'VTU kugelschreiber'
 company: 'VTU'
 rating: 7
 category: 'Stift'
+year: 2026
 ---
 
 # VTU - VTU kugelschreiber

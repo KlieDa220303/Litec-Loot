@@ -3,6 +3,7 @@ product: 'Schwingshandel Müsli riegel'
 company: 'Schwingshandel'
 rating: 7
 category: 'Süßigkeieten'
+year: 2026
 ---
 
 # Schwingshandel - Schwingshandel Müsli riegel

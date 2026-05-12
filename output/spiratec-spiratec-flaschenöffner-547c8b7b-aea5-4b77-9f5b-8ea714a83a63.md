@@ -3,6 +3,7 @@ product: 'Spiratec flaschenöffner'
 company: 'Spiratec'
 rating: 7
 category: 'Schlüsselanhänger'
+year: 2026
 ---
 
 # Spiratec - Spiratec flaschenöffner

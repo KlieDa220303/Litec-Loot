@@ -3,6 +3,7 @@ product: 'Montanuniversität Geodreieck'
 company: 'Montanuniversität'
 rating: 5
 category: 'Messzeug'
+year: 2026
 ---
 
 # Montanuniversität - Montanuniversität Geodreieck

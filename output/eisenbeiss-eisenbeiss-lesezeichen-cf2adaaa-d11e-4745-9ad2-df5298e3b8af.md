@@ -3,6 +3,7 @@ product: 'Eisenbeiss lesezeichen'
 company: 'Eisenbeiss'
 rating: 3
 category: 'Messzeug'
+year: 2026
 ---
 
 # Eisenbeiss - Eisenbeiss lesezeichen

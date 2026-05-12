@@ -3,6 +3,7 @@ product: 'Vace RegenPonscho'
 company: 'Vace Group'
 rating: 7
 category: 'Kleidung'
+year: 2026
 ---
 
 # Vace Group - Vace RegenPonscho

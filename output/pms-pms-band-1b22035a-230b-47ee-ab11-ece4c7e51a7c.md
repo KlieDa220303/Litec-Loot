@@ -3,6 +3,7 @@ product: 'PMS Band'
 company: 'PMS'
 rating: 4
 category: 'Schlüsselanhänger'
+year: 2026
 ---
 
 # PMS - PMS Band

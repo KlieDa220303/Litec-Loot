@@ -3,6 +3,7 @@ product: 'Infineon Postits'
 company: 'Infineon'
 rating: 5
 category: 'Block'
+year: 2026
 ---
 
 # Infineon - Infineon Postits

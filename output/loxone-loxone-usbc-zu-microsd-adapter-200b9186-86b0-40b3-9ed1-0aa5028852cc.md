@@ -3,6 +3,7 @@ product: 'Loxone usbc zu microsd adapter'
 company: 'Loxone'
 rating: 9
 category: 'Elektronik'
+year: 2026
 ---
 
 # Loxone - Loxone usbc zu microsd adapter

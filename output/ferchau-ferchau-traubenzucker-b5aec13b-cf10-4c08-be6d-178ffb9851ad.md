@@ -3,6 +3,7 @@ product: 'Ferchau Traubenzucker'
 company: 'Ferchau'
 rating: 3
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Ferchau - Ferchau Traubenzucker

@@ -3,6 +3,7 @@ product: 'Honeywell Jelly Beans'
 company: 'Honeywell'
 rating: 8
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Honeywell - Honeywell Jelly Beans

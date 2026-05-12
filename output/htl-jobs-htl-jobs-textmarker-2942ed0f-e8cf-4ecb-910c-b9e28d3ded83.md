@@ -3,6 +3,7 @@ product: 'HTL-Jobs textmarker'
 company: 'HTL-Jobs'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # HTL-Jobs - HTL-Jobs textmarker

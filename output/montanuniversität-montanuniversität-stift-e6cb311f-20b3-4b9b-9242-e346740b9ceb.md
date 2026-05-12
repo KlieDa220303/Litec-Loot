@@ -3,6 +3,7 @@ product: 'Montanuniversität Stift'
 company: 'Montanuniversität'
 rating: 4
 category: 'Stift'
+year: 2026
 ---
 
 # Montanuniversität - Montanuniversität Stift

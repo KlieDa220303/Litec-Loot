@@ -3,6 +3,7 @@ product: 'ÖBB Stift'
 company: 'ÖBB'
 rating: 6
 category: 'Stift'
+year: 2026
 ---
 
 # ÖBB - ÖBB Stift

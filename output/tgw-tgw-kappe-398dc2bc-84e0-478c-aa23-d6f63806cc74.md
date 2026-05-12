@@ -3,6 +3,7 @@ product: 'TGW Kappe'
 company: 'TGW'
 rating: 8
 category: 'Kleidung'
+year: 2026
 ---
 
 # TGW - TGW Kappe

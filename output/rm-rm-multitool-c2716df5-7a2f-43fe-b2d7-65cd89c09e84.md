@@ -3,6 +3,7 @@ product: 'RM multitool'
 company: 'RM'
 rating: 5
 category: 'Multitool'
+year: 2026
 ---
 
 # RM - RM multitool

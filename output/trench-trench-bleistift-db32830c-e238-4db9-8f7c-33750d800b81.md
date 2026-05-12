@@ -3,6 +3,7 @@ product: 'Trench Bleistift'
 company: 'Trench'
 rating: 4
 category: 'Radierer'
+year: 2026
 ---
 
 # Trench - Trench Bleistift

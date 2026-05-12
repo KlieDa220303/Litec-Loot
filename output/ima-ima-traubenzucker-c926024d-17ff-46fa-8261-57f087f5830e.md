@@ -3,6 +3,7 @@ product: 'IMA Traubenzucker'
 company: 'IMA'
 rating: 3
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # IMA - IMA Traubenzucker

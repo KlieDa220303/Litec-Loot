@@ -3,6 +3,7 @@ product: 'Kreuzpointner Getränk'
 company: 'Kreuzpointner'
 rating: 6
 category: 'Getränk'
+year: 2026
 ---
 
 # Kreuzpointner - Kreuzpointner Getr�nk

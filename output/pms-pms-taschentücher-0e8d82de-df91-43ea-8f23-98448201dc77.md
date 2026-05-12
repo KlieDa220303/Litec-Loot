@@ -3,6 +3,7 @@ product: 'PMS Taschentücher'
 company: 'PMS'
 rating: 3
 category: 'Gesundheit'
+year: 2026
 ---
 
 # PMS - PMS Taschentücher

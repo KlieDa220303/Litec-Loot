@@ -3,6 +3,7 @@ product: 'Plasser & Theurer Socken'
 company: 'Plasser & Theurer'
 rating: 6
 category: 'Kleidung'
+year: 2026
 ---
 
 # Plasser & Theurer - Plasser & Theurer Socken

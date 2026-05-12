@@ -3,6 +3,7 @@ product: 'Salvagnini Sonnenbrille'
 company: 'Salvagnini'
 rating: 7
 category: 'Kleidung'
+year: 2026
 ---
 
 # Salvagnini - Salvagnini Sonnenbrille

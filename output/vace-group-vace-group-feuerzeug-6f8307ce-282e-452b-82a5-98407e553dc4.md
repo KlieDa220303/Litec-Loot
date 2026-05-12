@@ -3,6 +3,7 @@ product: 'Vace Group Feuerzeug'
 company: 'Vace Group'
 rating: 10
 category: 'Feuerzeug'
+year: 2026
 ---
 
 # Vace Group - Vace Group Feuerzeug

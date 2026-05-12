@@ -3,6 +3,7 @@ product: 'Keba Zuckerl'
 company: 'Keba'
 rating: 2
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Keba - Keba Zuckerl

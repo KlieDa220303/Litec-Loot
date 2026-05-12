@@ -3,6 +3,7 @@ product: 'Honeywell Postits'
 company: 'Honeywell'
 rating: 3
 category: 'Block'
+year: 2026
 ---
 
 # Honeywell - Honeywell Postits

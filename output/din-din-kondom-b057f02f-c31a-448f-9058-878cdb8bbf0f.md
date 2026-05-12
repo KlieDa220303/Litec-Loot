@@ -3,6 +3,7 @@ product: 'DIN Kondom'
 company: 'DIN'
 rating: 6
 category: 'Sicherheit'
+year: 2026
 ---
 
 # DIN - DIN Kondom

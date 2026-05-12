@@ -3,6 +3,7 @@ product: 'Trench Radiergummi'
 company: 'Trench'
 rating: 7
 category: 'Radierer'
+year: 2026
 ---
 
 # Trench - Trench Radiergummi

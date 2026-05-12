@@ -3,6 +3,7 @@ product: 'HTL-Jobs'
 company: 'HTL-Jobs'
 rating: 5
 category: 'Block'
+year: 2026
 ---
 
 # HTL-Jobs - HTL-Jobs

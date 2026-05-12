@@ -3,6 +3,7 @@ product: 'Efinio Getränk'
 company: 'Efinio'
 rating: 7
 category: 'Getränk'
+year: 2026
 ---
 
 # Efinio - Efinio Getr�nk

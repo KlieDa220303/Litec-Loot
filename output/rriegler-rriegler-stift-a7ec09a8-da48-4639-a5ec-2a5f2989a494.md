@@ -3,6 +3,7 @@ product: 'R.Riegler Stift'
 company: 'R.Riegler'
 rating: 3
 category: 'Stift'
+year: 2026
 ---
 
 # R.Riegler - R.Riegler Stift

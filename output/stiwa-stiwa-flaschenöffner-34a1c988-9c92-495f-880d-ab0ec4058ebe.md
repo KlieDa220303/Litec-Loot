@@ -3,6 +3,7 @@ product: 'Stiwa Flaschenöffner'
 company: 'Stiwa'
 rating: 4
 category: 'Schlüsselanhänger'
+year: 2026
 ---
 
 # Stiwa - Stiwa Flaschenöffner

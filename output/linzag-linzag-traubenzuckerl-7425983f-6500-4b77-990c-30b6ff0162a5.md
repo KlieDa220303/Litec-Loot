@@ -3,6 +3,7 @@ product: 'LinzAG Traubenzuckerl'
 company: 'LinzAG'
 rating: 4
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # LinzAG - LinzAG Traubenzuckerl

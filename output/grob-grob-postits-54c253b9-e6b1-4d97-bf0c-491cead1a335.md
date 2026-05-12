@@ -3,6 +3,7 @@ product: 'Grob Postits'
 company: 'Grob'
 rating: 5
 category: 'Block'
+year: 2026
 ---
 
 # Grob - Grob Postits

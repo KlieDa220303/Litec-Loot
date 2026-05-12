@@ -3,6 +3,7 @@ product: 'Lenze Postits'
 company: 'Lenze'
 rating: 4
 category: 'Block'
+year: 2026
 ---
 
 # Lenze - Lenze Postits

@@ -3,6 +3,7 @@ product: 'Geodreieck'
 company: 'EnergieAG'
 rating: 4
 category: 'Messzeug'
+year: 2026
 ---
 
 # EnergieAG - Geodreieck

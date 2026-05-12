@@ -3,6 +3,7 @@ product: 'Montanuniversität wasserwage'
 company: 'Montanuniversität'
 rating: 8
 category: 'Schlüsselanhänger'
+year: 2026
 ---
 
 # Montanuniversität - Montanuniversität wasserwage

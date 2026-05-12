@@ -3,6 +3,7 @@ product: 'Elmet Tzaubenzucker + Ständer'
 company: 'Elmet'
 rating: 6
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Elmet - Elmet Tzaubenzucker + Ständer

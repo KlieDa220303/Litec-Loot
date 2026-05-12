@@ -3,6 +3,7 @@ product: 'Lenze Multitool'
 company: 'Lenze'
 rating: 7
 category: 'Multitool'
+year: 2026
 ---
 
 # Lenze - Lenze Multitool

@@ -3,6 +3,7 @@ product: 'Engel Stift'
 company: 'Engel'
 rating: 7
 category: 'Stift'
+year: 2026
 ---
 
 # Engel - Engel Stift

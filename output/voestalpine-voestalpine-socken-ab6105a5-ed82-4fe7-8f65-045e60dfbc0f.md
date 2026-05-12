@@ -3,6 +3,7 @@ product: 'Voestalpine Socken'
 company: 'Voestalpine'
 rating: 8
 category: 'Kliedung'
+year: 2026
 ---
 
 # Voestalpine - Voestalpine Socken

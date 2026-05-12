@@ -3,6 +3,7 @@ product: 'Valiant TMS kugelschreiber'
 company: 'Valiant TMS'
 rating: 6
 category: 'Stift'
+year: 2026
 ---
 
 # Valiant TMS - Valiant TMS kugelschreiber

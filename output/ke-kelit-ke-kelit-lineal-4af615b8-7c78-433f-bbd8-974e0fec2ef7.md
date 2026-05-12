@@ -3,6 +3,7 @@ product: 'KE KELIT lineal'
 company: 'KE KELIT'
 rating: 2
 category: 'Messzeug'
+year: 2026
 ---
 
 # KE KELIT - KE KELIT lineal

@@ -3,6 +3,7 @@ product: 'Loxone Sonnenbrille'
 company: 'Loxone'
 rating: 7
 category: 'Kleidung'
+year: 2026
 ---
 
 # Loxone - Loxone Sonnenbrille

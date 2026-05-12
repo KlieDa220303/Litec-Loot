@@ -3,6 +3,7 @@ product: 'LinzAG Kugelschreiber'
 company: 'LinzAG'
 rating: 6
 category: 'Stift'
+year: 2026
 ---
 
 # LinzAG - LinzAG Kugelschreiber

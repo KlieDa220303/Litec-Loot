@@ -3,6 +3,7 @@ product: 'Lenze Gummibärchen'
 company: 'Lenze'
 rating: 7
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Lenze - Lenze Gummib�rchen

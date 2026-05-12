@@ -3,6 +3,7 @@ product: 'Count IT Gummibären'
 company: 'Count IT'
 rating: 5
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Count IT - Count IT Gummibären

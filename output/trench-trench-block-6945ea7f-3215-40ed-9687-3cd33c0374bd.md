@@ -3,6 +3,7 @@ product: 'Trench Block'
 company: 'Trench'
 rating: 5
 category: 'Block'
+year: 2026
 ---
 
 # Trench - Trench Block

@@ -3,6 +3,7 @@ product: 'Keba Geodreieck'
 company: 'Keba'
 rating: 6
 category: 'Messzeug'
+year: 2026
 ---
 
 # Keba - Keba Geodreieck

@@ -3,6 +3,7 @@ product: 'Simens Geodreieck'
 company: 'Simens'
 rating: 5
 category: 'Messzeug'
+year: 2026
 ---
 
 # Simens - Simens Geodreieck

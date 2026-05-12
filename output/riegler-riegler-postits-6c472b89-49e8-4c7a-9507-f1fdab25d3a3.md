@@ -3,6 +3,7 @@ product: 'Riegler Postits'
 company: 'Riegler'
 rating: 3
 category: 'Block'
+year: 2026
 ---
 
 # Riegler - Riegler Postits

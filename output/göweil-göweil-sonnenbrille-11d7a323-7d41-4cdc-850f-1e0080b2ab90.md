@@ -3,6 +3,7 @@ product: 'Göweil Sonnenbrille'
 company: 'Göweil'
 rating: 6
 category: 'Kleidung'
+year: 2026
 ---
 
 # Göweil - Göweil Sonnenbrille

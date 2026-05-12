@@ -3,6 +3,7 @@ product: 'Greisinger Alm Beisser'
 company: 'Greisinger'
 rating: 9
 category: 'Essen'
+year: 2026
 ---
 
 # Greisinger - Greisinger Alm Beisser

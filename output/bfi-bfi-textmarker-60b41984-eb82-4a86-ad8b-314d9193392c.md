@@ -3,6 +3,7 @@ product: 'BFI textmarker'
 company: 'BFI'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # BFI - BFI textmarker

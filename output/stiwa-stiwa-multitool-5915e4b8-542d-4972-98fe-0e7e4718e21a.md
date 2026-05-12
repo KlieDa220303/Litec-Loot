@@ -3,6 +3,7 @@ product: 'Stiwa multitool'
 company: 'Stiwa'
 rating: 6
 category: 'Schlüsselanhänger'
+year: 2026
 ---
 
 # Stiwa - Stiwa multitool

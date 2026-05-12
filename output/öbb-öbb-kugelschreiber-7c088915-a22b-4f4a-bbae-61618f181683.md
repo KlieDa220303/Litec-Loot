@@ -3,6 +3,7 @@ product: 'ÖBB Kugelschreiber'
 company: 'ÖBB'
 rating: 7
 category: 'Stift'
+year: 2026
 ---
 
 # ÖBB - ÖBB Kugelschreiber

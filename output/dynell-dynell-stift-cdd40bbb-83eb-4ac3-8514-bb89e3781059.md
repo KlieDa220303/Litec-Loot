@@ -3,6 +3,7 @@ product: 'Dynell Stift'
 company: 'Dynell'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # Dynell - Dynell Stift

@@ -3,6 +3,7 @@ product: 'LinzAG Block gross'
 company: 'LinzAG'
 rating: 5
 category: 'Block'
+year: 2026
 ---
 
 # LinzAg - LinzAG Block gross

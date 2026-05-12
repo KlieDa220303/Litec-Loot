@@ -3,6 +3,7 @@ product: 'Keba Stift'
 company: 'Keba'
 rating: 6
 category: 'Stift'
+year: 2026
 ---
 
 # Keba - Keba Stift

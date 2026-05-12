@@ -3,6 +3,7 @@ product: 'Lenze Ohrstöpsel'
 company: 'Lenze'
 rating: 7
 category: 'Anderes'
+year: 2026
 ---
 
 # Lenze - Lenze Ohrstöpsel

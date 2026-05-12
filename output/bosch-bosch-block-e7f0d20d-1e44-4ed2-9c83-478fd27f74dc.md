@@ -3,6 +3,7 @@ product: 'Bosch Block'
 company: 'Bosch'
 rating: 7
 category: 'Block'
+year: 2026
 ---
 
 # Bosch - Bosch Block

@@ -3,6 +3,7 @@ product: 'Engel Mints'
 company: 'Engel'
 rating: 4
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Engel - Engel Mints

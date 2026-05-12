@@ -3,6 +3,7 @@ product: 'Erema Mint'
 company: 'Erema'
 rating: 7
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Erema - Erema Mint

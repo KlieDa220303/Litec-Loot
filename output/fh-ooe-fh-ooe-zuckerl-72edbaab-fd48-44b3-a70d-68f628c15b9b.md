@@ -3,6 +3,7 @@ product: 'FH-OOE zuckerl'
 company: 'FH-OOE'
 rating: 3
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # FH-OOE - FH-OOE zuckerl

@@ -3,6 +3,7 @@ product: 'Hainzl Kugelschreiber'
 company: 'Hainzl'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # Hainzl - Hainzl Kugelschreiber

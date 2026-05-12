@@ -3,6 +3,7 @@ product: 'Voestalpine Müsliriegel'
 company: 'Voestalpine'
 rating: 7
 category: 'Essen'
+year: 2026
 ---
 
 # Voestalpine - Voestalpine Müsliriegel

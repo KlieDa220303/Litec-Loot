@@ -3,6 +3,7 @@ product: 'PMS Feuerzeug'
 company: 'PMS'
 rating: 5
 category: 'Feuerzeug'
+year: 2026
 ---
 
 # PMS - PMS Feuerzeug

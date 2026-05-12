@@ -3,6 +3,7 @@ product: 'Stibel Eletron hut'
 company: 'Stibel Eltron'
 rating: 8
 category: 'Kleidung'
+year: 2026
 ---
 
 # Stibel Eltron - Stibel Eletron hut

@@ -3,6 +3,7 @@ product: 'Nordfels Bleistift'
 company: 'Nordfels'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # Nordfels - Nordfels Bleistift

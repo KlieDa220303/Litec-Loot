@@ -3,6 +3,7 @@ product: 'Liwest mini ventilator'
 company: 'Liwest'
 rating: 8
 category: 'Elektronik'
+year: 2026
 ---
 
 # Liwest - Liwest mini ventilator

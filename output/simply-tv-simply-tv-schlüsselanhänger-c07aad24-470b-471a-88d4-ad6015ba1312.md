@@ -3,6 +3,7 @@ product: 'Simply TV Schlüsselanhänger'
 company: 'Simply TV'
 rating: 6
 category: 'Schlüsselanhänger'
+year: 2026
 ---
 
 # Simply TV - Simply TV Schlüsselanhänger

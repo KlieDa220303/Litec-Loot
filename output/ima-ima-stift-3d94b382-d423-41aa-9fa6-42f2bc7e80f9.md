@@ -3,6 +3,7 @@ product: 'IMA Stift'
 company: 'IMA'
 rating: 4
 category: 'Stift'
+year: 2026
 ---
 
 # IMA - IMA Stift

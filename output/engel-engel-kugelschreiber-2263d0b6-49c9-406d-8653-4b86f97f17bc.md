@@ -3,6 +3,7 @@ product: 'Engel Kugelschreiber'
 company: 'Engel'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # Engel - Engel Kugelschreiber

@@ -3,6 +3,7 @@ product: 'Simens Licht'
 company: 'Simens'
 rating: 7
 category: 'Elektronik'
+year: 2026
 ---
 
 # Simens - Simens Licht

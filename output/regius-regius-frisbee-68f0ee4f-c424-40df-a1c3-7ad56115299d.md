@@ -3,6 +3,7 @@ product: 'Regius Frisbee'
 company: 'Regius'
 rating: 8
 category: 'Spielzeug'
+year: 2026
 ---
 
 # Regius - Regius Frisbee

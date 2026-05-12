@@ -3,6 +3,7 @@ product: 'Greisinger Stift'
 company: 'Greisinger'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # Greisinger - Greisinger Stift

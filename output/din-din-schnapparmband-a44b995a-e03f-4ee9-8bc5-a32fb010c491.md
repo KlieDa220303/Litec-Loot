@@ -3,6 +3,7 @@ product: 'DIN Schnapparmband'
 company: 'DIN'
 rating: 5
 category: 'Spielzeug'
+year: 2026
 ---
 
 # DIN - DIN Schnapparmband

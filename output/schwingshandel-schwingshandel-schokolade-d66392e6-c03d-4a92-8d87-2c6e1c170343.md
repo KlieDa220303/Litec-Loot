@@ -3,6 +3,7 @@ product: 'Schwingshandel Schokolade'
 company: 'Schwingshandel'
 rating: 10
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Schwingshandel - Schwingshandel Schokolade

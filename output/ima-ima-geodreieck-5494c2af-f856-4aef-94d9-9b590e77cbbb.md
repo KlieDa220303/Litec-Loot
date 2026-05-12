@@ -3,6 +3,7 @@ product: 'IMA Geodreieck'
 company: 'IMA'
 rating: 5
 category: 'Messzeug'
+year: 2026
 ---
 
 # IMA - IMA Geodreieck

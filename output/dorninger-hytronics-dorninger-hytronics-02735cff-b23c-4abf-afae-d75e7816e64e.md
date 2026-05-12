@@ -3,6 +3,7 @@ product: 'Dorninger Hytronics'
 company: 'Dorninger Hytronics'
 rating: 6
 category: 'Jausenbox'
+year: 2026
 ---
 
 # Dorninger Hytronics - Dorninger Hytronics

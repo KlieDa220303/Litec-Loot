@@ -3,6 +3,7 @@ product: 'Simply TV gummibären'
 company: 'Simply TV'
 rating: 3
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Simply TV - Simply TV gummibären

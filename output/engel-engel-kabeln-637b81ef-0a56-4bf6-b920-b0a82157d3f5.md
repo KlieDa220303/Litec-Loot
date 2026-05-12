@@ -3,6 +3,7 @@ product: 'Engel Kabeln'
 company: 'Engel'
 rating: 7
 category: 'Elektronik'
+year: 2026
 ---
 
 # Engel - Engel Kabeln

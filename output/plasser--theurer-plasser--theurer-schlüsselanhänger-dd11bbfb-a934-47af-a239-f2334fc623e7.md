@@ -3,6 +3,7 @@ product: 'Plasser & Theurer Schlüsselanhänger'
 company: 'Plasser & Theurer'
 rating: 6
 category: 'Schlüsselanhänger'
+year: 2026
 ---
 
 # Plasser & Theurer - Plasser & Theurer Schl�sselanh�nger

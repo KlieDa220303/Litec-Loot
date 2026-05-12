@@ -3,6 +3,7 @@ product: 'PMS Sonnenbrille'
 company: 'PMS'
 rating: 6
 category: 'Kleidung'
+year: 2026
 ---
 
 # PMS - PMS Sonnenbrille

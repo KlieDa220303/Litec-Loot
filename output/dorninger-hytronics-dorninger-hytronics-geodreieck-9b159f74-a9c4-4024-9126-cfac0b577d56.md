@@ -3,6 +3,7 @@ product: 'Dorninger Hytronics Geodreieck'
 company: 'Dorninger Hytronics'
 rating: 6
 category: 'Messzeug'
+year: 2026
 ---
 
 # Dorninger Hytronics - Dorninger Hytronics Geodreieck

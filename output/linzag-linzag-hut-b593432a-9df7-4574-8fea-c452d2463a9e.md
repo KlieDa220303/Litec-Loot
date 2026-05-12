@@ -3,6 +3,7 @@ product: 'LinzAG hut'
 company: 'LinzAG'
 rating: 8
 category: 'Kleidung'
+year: 2026
 ---
 
 # LinzAG - LinzAG hut

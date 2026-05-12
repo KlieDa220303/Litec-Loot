@@ -3,6 +3,7 @@ product: 'Bosch Minzen'
 company: 'Bosch'
 rating: 4
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Bosch - Bosch Minzen

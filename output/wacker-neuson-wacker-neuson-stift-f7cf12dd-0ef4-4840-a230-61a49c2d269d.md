@@ -3,6 +3,7 @@ product: 'wacker Neuson Stift'
 company: 'Wacker Neuson'
 rating: 4
 category: 'Stift'
+year: 2026
 ---
 
 # Wacker Neuson - wacker Neuson Stift

@@ -3,6 +3,7 @@ product: 'Stiebel Eltron sonnenbrille'
 company: 'Stiebel Eltron'
 rating: 7
 category: 'Kleidung'
+year: 2026
 ---
 
 # Stiebel Eltron - Stiebel Eltron sonnenbrille

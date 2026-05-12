@@ -3,6 +3,7 @@ product: 'Rhomberg-Sersa Maßband'
 company: 'Rhomberg-Sersa'
 rating: 8
 category: 'Messzeug'
+year: 2026
 ---
 
 # Rhomberg-Sersa - Rhomberg-Sersa Maßband

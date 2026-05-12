@@ -3,6 +3,7 @@ product: 'Beko skittles'
 company: 'Beko'
 rating: 6
 category: 'Süßigkeiten'
+year: 2026
 ---
 
 # Beko - Beko skittles

@@ -3,6 +3,7 @@ product: 'Göweil Stift'
 company: 'Göweil'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # Göweil - Göweil Stift

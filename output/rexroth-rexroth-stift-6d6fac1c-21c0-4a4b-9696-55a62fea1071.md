@@ -3,6 +3,7 @@ product: 'Rexroth Stift'
 company: 'Rexroth'
 rating: 7
 category: 'Stift'
+year: 2026
 ---
 
 # Rexroth - Rexroth Stift

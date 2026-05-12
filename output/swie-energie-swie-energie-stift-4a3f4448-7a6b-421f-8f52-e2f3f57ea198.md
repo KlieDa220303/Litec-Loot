@@ -3,6 +3,7 @@ product: 'Swie-Energie Stift'
 company: 'Swie-Energie'
 rating: 5
 category: 'Stift'
+year: 2026
 ---
 
 # Swie-Energie - Swie-Energie Stift
