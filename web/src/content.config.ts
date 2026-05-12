@@ -8,6 +8,7 @@ const products = defineCollection({
         company: z.string(),
         rating: z.number().min(0).max(10),
         category: z.string(),
+        year: z.number().int().optional(),
     }),
 });
 
