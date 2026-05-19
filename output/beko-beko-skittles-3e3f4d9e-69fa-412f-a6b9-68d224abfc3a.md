@@ -13,4 +13,4 @@ year: 2025
 > Süßigkeiten
 
 ![Beko skittles](./assets/beko-beko-skittles-3e3f4d9e-69fa-412f-a6b9-68d224abfc3a.jpg)
-These candy items bring a playful brand touch to your breaks and event goodie bags. Introduced in 2026, rated 6/10.
+These candy items bring a playful brand touch to your breaks and event goodie bags. Introduced in 2025, rated 6/10.

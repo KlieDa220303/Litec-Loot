@@ -13,4 +13,4 @@ year: 2025
 > Stift
 
 ![Riegler Textmarker](./assets/riegler-riegler-textmarker-3a567903-32fa-4d29-aab8-492f6ac74ef9.jpg)
-Riegler Textmarker is a smooth-writing branded pen crafted for clear notes and everyday use. Introduced in 2026, rated 7/10.
+Riegler Textmarker is a smooth-writing branded pen crafted for clear notes and everyday use. Introduced in 2025, rated 7/10.

@@ -13,4 +13,4 @@ year: 2025
 > Stift
 
 ![Liwest Textmarker](./assets/liwest-liwest-textmarker-02fb71f6-a62c-4789-8bf6-4edf2df3e7e8.jpg)
-Liwest Textmarker delivers dependable ink flow and a sleek design, perfect for meetings and on-the-go writing. Introduced in 2026, rated 6/10.
+Liwest Textmarker delivers dependable ink flow and a sleek design, perfect for meetings and on-the-go writing. Introduced in 2025, rated 6/10.

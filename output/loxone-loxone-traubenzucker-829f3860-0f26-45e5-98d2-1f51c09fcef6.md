@@ -13,4 +13,4 @@ year: 2025
 > Süßigkeiten
 
 ![Loxone Traubenzucker](./assets/loxone-loxone-traubenzucker-829f3860-0f26-45e5-98d2-1f51c09fcef6.jpg)
-A colorful snack with Loxone branding that adds a little reward to the day. Introduced in 2026, rated 3/10.
+A colorful snack with Loxone branding that adds a little reward to the day. Introduced in 2025, rated 3/10.

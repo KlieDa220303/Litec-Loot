@@ -13,4 +13,4 @@ year: 2025
 > Stift
 
 ![Keba Stift](./assets/keba-keba-stift-ad8b3d80-505c-4143-998e-bf17049c0d17.jpg)
-A premium promotional pen from Keba that feels comfortable in hand and looks professional. Introduced in 2026, rated 6/10.
+A premium promotional pen from Keba that feels comfortable in hand and looks professional. Introduced in 2025, rated 6/10.

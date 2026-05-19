@@ -13,4 +13,4 @@ year: 2025
 > Süßigkeiten
 
 ![Wacker Neuson Gummibären](./assets/wacker-neuson-wacker-neuson-gummibären-fa4421e9-54c0-46f8-9c8f-87733d7fffb0.jpg)
-A sweet branded treat from Wacker Neuson, ideal as a tasty giveaway or small snack. Introduced in 2026, rated 5/10.
+A sweet branded treat from Wacker Neuson, ideal as a tasty giveaway or small snack. Introduced in 2025, rated 5/10.

@@ -13,4 +13,4 @@ year: 2025
 > Süßigkeiten
 
 ![Fhwn Gummibären](./assets/fhwn-fhwn-gummibären-44c443df-c4ca-468b-ae3d-3c8b99d6ffb5.jpg)
-These candy items bring a playful brand touch to your breaks and event goodie bags. Introduced in 2026, rated 4/10.
+These candy items bring a playful brand touch to your breaks and event goodie bags. Introduced in 2025, rated 4/10.

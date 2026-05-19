@@ -13,4 +13,4 @@ year: 2025
 > Süßigkeiten
 
 ![Count IT Gummibären](./assets/count-it-count-it-gummibären-8829a3af-fa71-4736-82ce-5f8f5ffa1ad0.jpg)
-A colorful snack with Count IT branding that adds a little reward to the day. Introduced in 2026, rated 5/10.
+A colorful snack with Count IT branding that adds a little reward to the day. Introduced in 2025, rated 5/10.

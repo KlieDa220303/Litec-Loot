@@ -13,4 +13,4 @@ year: 2025
 > Stift
 
 ![TGW Textmarker](./assets/tgw-tgw-textmarker-ee55869d-b00a-4cc3-8db3-f6591243850b.jpg)
-TGW Textmarker delivers dependable ink flow and a sleek design, perfect for meetings and on-the-go writing. Introduced in 2026, rated 5/10.
+TGW Textmarker delivers dependable ink flow and a sleek design, perfect for meetings and on-the-go writing. Introduced in 2025, rated 5/10.

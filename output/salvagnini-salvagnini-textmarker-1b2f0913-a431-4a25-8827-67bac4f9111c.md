@@ -13,4 +13,4 @@ year: 2025
 > Stift
 
 ![Salvagnini Textmarker](./assets/salvagnini-salvagnini-textmarker-1b2f0913-a431-4a25-8827-67bac4f9111c.jpg)
-A premium promotional pen from Salvagnini that feels comfortable in hand and looks professional. Introduced in 2026, rated 5/10.
+A premium promotional pen from Salvagnini that feels comfortable in hand and looks professional. Introduced in 2025, rated 5/10.

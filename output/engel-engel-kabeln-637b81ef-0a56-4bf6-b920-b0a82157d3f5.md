@@ -13,4 +13,4 @@ year: 2025
 > Elektronik
 
 ![Engel Kabeln](./assets/engel-engel-kabeln-637b81ef-0a56-4bf6-b920-b0a82157d3f5.jpg)
-A useful gadget that keeps the brand visible while supporting daily digital needs. Introduced in 2026, rated 7/10.
+A useful gadget that keeps the brand visible while supporting daily digital needs. Introduced in 2025, rated 7/10.

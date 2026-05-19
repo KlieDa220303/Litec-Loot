@@ -13,4 +13,4 @@ year: 2025
 > Stift
 
 ![Nordfels Bleistift](./assets/nordfels-nordfels-bleistift-643d0389-e7aa-46c0-8565-2cc0621642f4.jpg)
-A premium promotional pen from Nordfels that feels comfortable in hand and looks professional. Introduced in 2026, rated 5/10.
+A premium promotional pen from Nordfels that feels comfortable in hand and looks professional. Introduced in 2025, rated 5/10.

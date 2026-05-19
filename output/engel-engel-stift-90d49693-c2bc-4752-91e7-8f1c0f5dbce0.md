@@ -13,4 +13,4 @@ year: 2025
 > Stift
 
 ![Engel Stift](./assets/engel-engel-stift-90d49693-c2bc-4752-91e7-8f1c0f5dbce0.jpg)
-A premium promotional pen from Engel that feels comfortable in hand and looks professional. Introduced in 2026, rated 7/10.
+A premium promotional pen from Engel that feels comfortable in hand and looks professional. Introduced in 2025, rated 7/10.

@@ -13,4 +13,4 @@ year: 2025
 > Süßigkeiten
 
 ![Hainzl Gummibären](./assets/hainzl-hainzl-gummibären-70b5879c-6b33-4046-8be9-9f85ebebffcb.jpg)
-A colorful snack with Hainzl branding that adds a little reward to the day. Introduced in 2026, rated 4/10.
+A colorful snack with Hainzl branding that adds a little reward to the day. Introduced in 2025, rated 4/10.

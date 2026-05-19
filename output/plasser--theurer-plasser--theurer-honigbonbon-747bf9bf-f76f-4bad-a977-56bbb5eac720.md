@@ -13,4 +13,4 @@ year: 2025
 > Süßigkeiten
 
 ![Plasser & Theurer Honigbonbon](./assets/plasser--theurer-plasser--theurer-honigbonbon-747bf9bf-f76f-4bad-a977-56bbb5eac720.jpg)
-A colorful snack with Plasser & Theurer branding that adds a little reward to the day. Introduced in 2026, rated 7/10.
+A colorful snack with Plasser & Theurer branding that adds a little reward to the day. Introduced in 2025, rated 7/10.

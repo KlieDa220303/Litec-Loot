@@ -13,4 +13,4 @@ year: 2025
 > Stift
 
 ![HTL-Jobs textmarker](./assets/htl-jobs-htl-jobs-textmarker-2942ed0f-e8cf-4ecb-910c-b9e28d3ded83.jpg)
-HTL-Jobs textmarker delivers dependable ink flow and a sleek design, perfect for meetings and on-the-go writing. Introduced in 2026, rated 5/10.
+HTL-Jobs textmarker delivers dependable ink flow and a sleek design, perfect for meetings and on-the-go writing. Introduced in 2025, rated 5/10.

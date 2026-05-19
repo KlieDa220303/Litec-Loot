@@ -13,4 +13,4 @@ year: 2025
 > Messzeug
 
 ![Andritz Lineal](./assets/andritz-andritz-lineal-ca17ad6a-ec77-4d65-87be-0c97f507f161.jpg)
-A precise and portable measuring accessory that reflects Andritz's professional identity. Introduced in 2026, rated 5/10.
+A precise and portable measuring accessory that reflects Andritz's professional identity. Introduced in 2025, rated 5/10.

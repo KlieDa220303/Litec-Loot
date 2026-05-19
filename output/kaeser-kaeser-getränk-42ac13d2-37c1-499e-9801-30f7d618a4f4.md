@@ -13,4 +13,4 @@ year: 2025
 > Getränk
 
 ![Kaeser Getränk](./assets/kaeser-kaeser-getränk-42ac13d2-37c1-499e-9801-30f7d618a4f4.jpg)
-A refreshing branded drink that makes a nice break during the workday. Introduced in 2026, rated 7/10.
+A refreshing branded drink that makes a nice break during the workday. Introduced in 2025, rated 7/10.

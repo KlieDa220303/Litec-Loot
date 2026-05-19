@@ -13,4 +13,4 @@ year: 2025
 > Schlüsselanhänger
 
 ![Valiant TMS multitool](./assets/valiant-tms-valiant-tms-multitool-a0b82009-f34e-4870-8442-a1b59cb7d8f2.jpg)
-A stylish keychain accessory with Valiant TMS branding for keeping keys secure and easy to find. Introduced in 2026, rated 7/10.
+A stylish keychain accessory with Valiant TMS branding for keeping keys secure and easy to find. Introduced in 2025, rated 7/10.

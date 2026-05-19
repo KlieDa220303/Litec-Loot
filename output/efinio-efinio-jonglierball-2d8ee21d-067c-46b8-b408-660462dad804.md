@@ -13,4 +13,4 @@ year: 2025
 > Spielzeug
 
 ![Efinio jonglierball](./assets/efinio-efinio-jonglierball-2d8ee21d-067c-46b8-b408-660462dad804.jpg)
-This little toy brings an entertaining brand experience to children and adults alike. Introduced in 2026, rated 6/10.
+This little toy brings an entertaining brand experience to children and adults alike. Introduced in 2025, rated 6/10.

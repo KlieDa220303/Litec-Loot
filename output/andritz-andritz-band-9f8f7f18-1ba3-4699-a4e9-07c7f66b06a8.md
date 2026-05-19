@@ -13,4 +13,4 @@ year: 2025
 > Schlüsselanhänger
 
 ![Andritz Band](./assets/andritz-andritz-band-9f8f7f18-1ba3-4699-a4e9-07c7f66b06a8.jpg)
-A stylish keychain accessory with Andritz branding for keeping keys secure and easy to find. Introduced in 2026, rated 5/10.
+A stylish keychain accessory with Andritz branding for keeping keys secure and easy to find. Introduced in 2025, rated 5/10.

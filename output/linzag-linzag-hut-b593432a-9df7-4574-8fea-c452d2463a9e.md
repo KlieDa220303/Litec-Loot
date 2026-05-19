@@ -13,4 +13,4 @@ year: 2025
 > Kleidung
 
 ![LinzAG hut](./assets/linzag-linzag-hut-b593432a-9df7-4574-8fea-c452d2463a9e.jpg)
-A branded clothing item from LinzAG that adds comfort and visibility to everyday wear. Introduced in 2026, rated 8/10.
+A branded clothing item from LinzAG that adds comfort and visibility to everyday wear. Introduced in 2025, rated 8/10.

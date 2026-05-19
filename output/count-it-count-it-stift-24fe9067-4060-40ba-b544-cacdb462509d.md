@@ -13,4 +13,4 @@ year: 2025
 > Stift
 
 ![Count IT Stift](./assets/count-it-count-it-stift-24fe9067-4060-40ba-b544-cacdb462509d.jpg)
-A premium promotional pen from Count IT that feels comfortable in hand and looks professional. Introduced in 2026, rated 5/10.
+A premium promotional pen from Count IT that feels comfortable in hand and looks professional. Introduced in 2025, rated 5/10.

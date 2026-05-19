@@ -13,4 +13,4 @@ year: 2025
 > Block
 
 ![KE KELIT Notizblock](./assets/ke-kelit-ke-kelit-notizblock-b5184ca0-1430-4c30-add2-a6e199b92a78.jpg)
-A compact block that keeps your thoughts organized while carrying the KE KELIT brand. Introduced in 2026, rated 5/10.
+A compact block that keeps your thoughts organized while carrying the KE KELIT brand. Introduced in 2025, rated 5/10.

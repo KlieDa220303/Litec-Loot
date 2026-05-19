@@ -13,4 +13,4 @@ year: 2025
 > Block
 
 ![LinzAG_Block_gross](./assets/linzag-linzag_block_gross-52d799d2-b304-4f27-907e-3f18c673a705.jpg)
-A handy notepad from LinzAG for jotting down ideas, tasks and quick reminders. Introduced in 2026, rated 5/10.
+A handy notepad from LinzAG for jotting down ideas, tasks and quick reminders. Introduced in 2025, rated 5/10.

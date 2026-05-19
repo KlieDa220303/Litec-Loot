@@ -13,4 +13,4 @@ year: 2025
 > Kleidung
 
 ![Salvagnini Sonnenbrille](./assets/salvagnini-salvagnini-sonnenbrille-89845298-b11a-47c3-ab5c-776309f77580.jpg)
-A promotional garment designed for events, staff or giveaways with strong brand impact. Introduced in 2026, rated 7/10.
+A promotional garment designed for events, staff or giveaways with strong brand impact. Introduced in 2025, rated 7/10.

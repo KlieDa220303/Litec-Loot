@@ -13,4 +13,4 @@ year: 2025
 > Schirme
 
 ![E Punkt Regenschirm](./assets/e-punkt-e-punkt-regenschirm-104fdcd2-ded6-4e5f-b6a2-255a1fb879c9.jpg)
-A unique promotional item from E Punkt, suited for everyday visibility. Introduced in 2026, rated 7/10.
+A unique promotional item from E Punkt, suited for everyday visibility. Introduced in 2025, rated 7/10.

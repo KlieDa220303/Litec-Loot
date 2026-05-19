@@ -13,4 +13,4 @@ year: 2025
 > Kleidung
 
 ![DS Automation Sonnenbrille](./assets/ds-automation-ds-automation-sonnenbrille-b6df4474-c06b-4ffe-83b9-30db5754eb39.jpg)
-A promotional garment designed for events, staff or giveaways with strong brand impact. Introduced in 2026, rated 7/10.
+A promotional garment designed for events, staff or giveaways with strong brand impact. Introduced in 2025, rated 7/10.

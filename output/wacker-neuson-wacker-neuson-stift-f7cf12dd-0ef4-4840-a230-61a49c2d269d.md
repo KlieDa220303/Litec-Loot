@@ -13,4 +13,4 @@ year: 2025
 > Stift
 
 ![wacker Neuson Stift](./assets/wacker-neuson-wacker-neuson-stift-f7cf12dd-0ef4-4840-a230-61a49c2d269d.jpg)
-A premium promotional pen from Wacker Neuson that feels comfortable in hand and looks professional. Introduced in 2026, rated 4/10.
+A premium promotional pen from Wacker Neuson that feels comfortable in hand and looks professional. Introduced in 2025, rated 4/10.

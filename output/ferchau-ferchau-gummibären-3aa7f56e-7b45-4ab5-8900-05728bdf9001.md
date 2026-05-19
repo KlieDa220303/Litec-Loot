@@ -13,4 +13,4 @@ year: 2025
 > Süßigkeiten
 
 ![Ferchau Gummibären](./assets/ferchau-ferchau-gummibären-3aa7f56e-7b45-4ab5-8900-05728bdf9001.jpg)
-A sweet branded treat from Ferchau, ideal as a tasty giveaway or small snack. Introduced in 2026, rated 4/10.
+A sweet branded treat from Ferchau, ideal as a tasty giveaway or small snack. Introduced in 2025, rated 4/10.

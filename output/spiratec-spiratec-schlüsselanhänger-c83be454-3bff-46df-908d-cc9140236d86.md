@@ -13,4 +13,4 @@ year: 2025
 > Schlüsselanhänger
 
 ![Spiratec Schlüsselanhänger](./assets/spiratec-spiratec-schlüsselanhänger-c83be454-3bff-46df-908d-cc9140236d86.jpg)
-This branded key ring is practical, compact and a great reminder of Spiratec. Introduced in 2026, rated 8/10.
+This branded key ring is practical, compact and a great reminder of Spiratec. Introduced in 2025, rated 8/10.

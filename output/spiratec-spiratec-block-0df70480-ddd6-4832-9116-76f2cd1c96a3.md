@@ -13,4 +13,4 @@ year: 2025
 > Block
 
 ![Spiratec Block](./assets/spiratec-spiratec-block-0df70480-ddd6-4832-9116-76f2cd1c96a3.jpg)
-A handy notepad from Spiratec for jotting down ideas, tasks and quick reminders. Introduced in 2026, rated 3/10.
+A handy notepad from Spiratec for jotting down ideas, tasks and quick reminders. Introduced in 2025, rated 3/10.

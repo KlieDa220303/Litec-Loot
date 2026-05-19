@@ -13,4 +13,4 @@ year: 2025
 > Getränke
 
 ![Infineon Becher](./assets/infineon-infineon-becher-e64e9529-ad0d-46fc-9f48-79932108af0f.jpg)
-A convenient drink for events, complete with Infineon's promotional look. Introduced in 2026, rated 10/10.
+A convenient drink for events, complete with Infineon's promotional look. Introduced in 2025, rated 10/10.

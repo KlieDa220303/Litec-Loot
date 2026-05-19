@@ -13,4 +13,4 @@ year: 2025
 > Feuerzeug
 
 ![Ramsauer Feuerzeug](./assets/ramsauer-ramsauer-feuerzeug-e60b041d-9168-47a4-af4b-0693263ce994.jpg)
-This branded lighter combines functionality with a compact design for easy carrying. Introduced in 2026, rated 6/10.
+This branded lighter combines functionality with a compact design for easy carrying. Introduced in 2025, rated 6/10.

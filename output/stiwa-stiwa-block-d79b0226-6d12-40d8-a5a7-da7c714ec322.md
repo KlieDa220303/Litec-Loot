@@ -13,4 +13,4 @@ year: 2025
 > Block
 
 ![Stiwa Block](./assets/stiwa-stiwa-block-d79b0226-6d12-40d8-a5a7-da7c714ec322.jpg)
-A compact block that keeps your thoughts organized while carrying the Stiwa brand. Introduced in 2026, rated 5/10.
+A compact block that keeps your thoughts organized while carrying the Stiwa brand. Introduced in 2025, rated 5/10.

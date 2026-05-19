@@ -13,4 +13,4 @@ year: 2025
 > Spielzeug
 
 ![Count IT spielkarten](./assets/count-it-count-it-spielkarten-d7f975f7-04cb-4fa8-8981-c6b1ab301df6.jpg)
-A cheerful promotional piece with Count IT messaging, created for enjoyment and recall. Introduced in 2026, rated 8/10.
+A cheerful promotional piece with Count IT messaging, created for enjoyment and recall. Introduced in 2025, rated 8/10.

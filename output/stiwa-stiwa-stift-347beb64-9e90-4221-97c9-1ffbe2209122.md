@@ -13,4 +13,4 @@ year: 2025
 > Stift
 
 ![Stiwa Stift](./assets/stiwa-stiwa-stift-347beb64-9e90-4221-97c9-1ffbe2209122.jpg)
-Stiwa Stift is a smooth-writing branded pen crafted for clear notes and everyday use. Introduced in 2026, rated 6/10.
+Stiwa Stift is a smooth-writing branded pen crafted for clear notes and everyday use. Introduced in 2025, rated 6/10.

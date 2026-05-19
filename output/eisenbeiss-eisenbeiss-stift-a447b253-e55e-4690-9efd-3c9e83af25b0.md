@@ -13,4 +13,4 @@ year: 2025
 > Stift
 
 ![Eisenbeiss Stift](./assets/eisenbeiss-eisenbeiss-stift-a447b253-e55e-4690-9efd-3c9e83af25b0.jpg)
-A premium promotional pen from Eisenbeiss that feels comfortable in hand and looks professional. Introduced in 2026, rated 7/10.
+A premium promotional pen from Eisenbeiss that feels comfortable in hand and looks professional. Introduced in 2025, rated 7/10.

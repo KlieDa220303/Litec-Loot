@@ -13,4 +13,4 @@ year: 2025
 > Block
 
 ![Voesalpine Block](./assets/voestalpine-voesalpine-block-c392dada-aebd-48fa-99e4-4908cc6f4eca.jpg)
-A handy notepad from Voestalpine for jotting down ideas, tasks and quick reminders. Introduced in 2026, rated 4/10.
+A handy notepad from Voestalpine for jotting down ideas, tasks and quick reminders. Introduced in 2025, rated 4/10.

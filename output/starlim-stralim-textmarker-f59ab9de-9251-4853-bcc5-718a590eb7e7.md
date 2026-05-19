@@ -13,4 +13,4 @@ year: 2025
 > Stift
 
 ![Stralim textmarker](./assets/starlim-stralim-textmarker-f59ab9de-9251-4853-bcc5-718a590eb7e7.jpg)
-Stralim textmarker delivers dependable ink flow and a sleek design, perfect for meetings and on-the-go writing. Introduced in 2026, rated 5/10.
+Stralim textmarker delivers dependable ink flow and a sleek design, perfect for meetings and on-the-go writing. Introduced in 2025, rated 5/10.

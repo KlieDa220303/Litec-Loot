@@ -13,4 +13,4 @@ year: 2025
 > Kleidung
 
 ![Vace RegenPonscho](./assets/vace-group-vace-regenponscho-7903cd9d-ff43-4533-9a3e-5ed98ce673e5.jpg)
-This apparel piece reflects the company's style while remaining wearable and practical. Introduced in 2026, rated 7/10.
+This apparel piece reflects the company's style while remaining wearable and practical. Introduced in 2025, rated 7/10.

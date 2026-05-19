@@ -13,4 +13,4 @@ year: 2025
 > Stift
 
 ![Bilfinger Stift](./assets/bilfinger-bilfinger-stift-a75eb833-5680-496f-b33a-25612d6bdd83.jpg)
-A premium promotional pen from Bilfinger that feels comfortable in hand and looks professional. Introduced in 2026, rated 5/10.
+A premium promotional pen from Bilfinger that feels comfortable in hand and looks professional. Introduced in 2025, rated 5/10.

@@ -13,4 +13,4 @@ year: 2025
 > Messzeug
 
 ![Riegler Geodreieck](./assets/riegler-riegler-geodreieck-09784b08-b345-42f9-ac19-54a8e3537251.jpg)
-Useful for quick measurements, this branded tool is a smart addition to any workspace. Introduced in 2026, rated 6/10.
+Useful for quick measurements, this branded tool is a smart addition to any workspace. Introduced in 2025, rated 6/10.

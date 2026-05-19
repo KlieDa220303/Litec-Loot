@@ -13,4 +13,4 @@ year: 2025
 > Schlüsselanhänger
 
 ![VTU Flaschenöffner](./assets/vtu-vtu-flaschenöffner-ba6b0821-c331-483b-8122-6264daac3ad8.jpg)
-A stylish keychain accessory with VTU branding for keeping keys secure and easy to find. Introduced in 2026, rated 5/10.
+A stylish keychain accessory with VTU branding for keeping keys secure and easy to find. Introduced in 2025, rated 5/10.

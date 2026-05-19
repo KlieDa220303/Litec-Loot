@@ -13,4 +13,4 @@ year: 2025
 > Süßigkeiten
 
 ![Ferchau Traubenzucker](./assets/ferchau-ferchau-traubenzucker-b5aec13b-cf10-4c08-be6d-178ffb9851ad.jpg)
-A sweet branded treat from Ferchau, ideal as a tasty giveaway or small snack. Introduced in 2026, rated 3/10.
+A sweet branded treat from Ferchau, ideal as a tasty giveaway or small snack. Introduced in 2025, rated 3/10.

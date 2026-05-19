@@ -13,4 +13,4 @@ year: 2025
 > Block
 
 ![Elin Block](./assets/elin-elin-block-837bf16b-a6f3-4836-9d41-4dc6b5b61e1f.jpg)
-A handy notepad from Elin for jotting down ideas, tasks and quick reminders. Introduced in 2026, rated 4/10.
+A handy notepad from Elin for jotting down ideas, tasks and quick reminders. Introduced in 2025, rated 4/10.

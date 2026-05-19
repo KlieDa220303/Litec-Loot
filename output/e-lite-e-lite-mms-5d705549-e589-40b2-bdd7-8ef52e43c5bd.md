@@ -13,4 +13,4 @@ year: 2025
 > Süßigkeiten
 
 ![E-Lite M&Ms](./assets/e-lite-e-lite-mms-5d705549-e589-40b2-bdd7-8ef52e43c5bd.jpg)
-A colorful snack with E-Lite branding that adds a little reward to the day. Introduced in 2026, rated 7/10.
+A colorful snack with E-Lite branding that adds a little reward to the day. Introduced in 2025, rated 7/10.

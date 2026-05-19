@@ -13,4 +13,4 @@ year: 2025
 > Kleidung
 
 ![Swie-Energie Sonnenbrille](./assets/swie-energie-swie-energie-sonnenbrille-070b2618-88e3-491b-9091-1c7dd05a9b63.jpg)
-A promotional garment designed for events, staff or giveaways with strong brand impact. Introduced in 2026, rated 6/10.
+A promotional garment designed for events, staff or giveaways with strong brand impact. Introduced in 2025, rated 6/10.

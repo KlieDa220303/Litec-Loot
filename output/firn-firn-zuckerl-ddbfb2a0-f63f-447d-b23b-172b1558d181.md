@@ -13,4 +13,4 @@ year: 2025
 > Süßigkeiten
 
 ![Firn Zuckerl](./assets/firn-firn-zuckerl-ddbfb2a0-f63f-447d-b23b-172b1558d181.jpg)
-A sweet branded treat from Firn, ideal as a tasty giveaway or small snack. Introduced in 2026, rated 2/10.
+A sweet branded treat from Firn, ideal as a tasty giveaway or small snack. Introduced in 2025, rated 2/10.

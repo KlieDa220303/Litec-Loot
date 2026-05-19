@@ -13,4 +13,4 @@ year: 2025
 > Gesundheit
 
 ![PMS Taschentücher](./assets/pms-pms-taschentücher-0e8d82de-df91-43ea-8f23-98448201dc77.jpg)
-This health-oriented gift combines practical support with branded packaging. Introduced in 2026, rated 3/10.
+This health-oriented gift combines practical support with branded packaging. Introduced in 2025, rated 3/10.

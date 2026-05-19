@@ -13,4 +13,4 @@ year: 2025
 > Radierer
 
 ![Hainzl Radiergummi](./assets/hainzl-hainzl-radiergummi-916abd2e-5418-44fb-ab7b-27e3cfa5848b.jpg)
-A versatile promotional product that keeps the brand present in daily life. Introduced in 2026, rated 3/10.
+A versatile promotional product that keeps the brand present in daily life. Introduced in 2025, rated 3/10.

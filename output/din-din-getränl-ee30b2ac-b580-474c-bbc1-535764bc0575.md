@@ -13,4 +13,4 @@ year: 2025
 > Getränk
 
 ![Din Getränk](./assets/din-din-getränl-ee30b2ac-b580-474c-bbc1-535764bc0575.jpg)
-This beverage item delivers a quick refresh with a subtle brand presence. Introduced in 2026, rated 6/10.
+This beverage item delivers a quick refresh with a subtle brand presence. Introduced in 2025, rated 6/10.

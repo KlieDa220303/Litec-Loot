@@ -13,4 +13,4 @@ year: 2025
 > Block
 
 ![Simens Block](./assets/simens-simens-block-23272011-b36d-4b61-af88-977baaab2286.jpg)
-A handy notepad from Simens for jotting down ideas, tasks and quick reminders. Introduced in 2026, rated 3/10.
+A handy notepad from Simens for jotting down ideas, tasks and quick reminders. Introduced in 2025, rated 3/10.

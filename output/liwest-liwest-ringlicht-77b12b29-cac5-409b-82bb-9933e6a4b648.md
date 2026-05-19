@@ -13,4 +13,4 @@ year: 2025
 > Elektronik
 
 ![Liwest Ringlicht](./assets/liwest-liwest-ringlicht-77b12b29-cac5-409b-82bb-9933e6a4b648.jpg)
-A branded tech item from Liwest that adds convenience to everyday routines. Introduced in 2026, rated 8/10.
+A branded tech item from Liwest that adds convenience to everyday routines. Introduced in 2025, rated 8/10.

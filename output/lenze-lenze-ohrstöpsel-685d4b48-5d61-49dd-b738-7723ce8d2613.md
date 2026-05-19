@@ -13,4 +13,4 @@ year: 2025
 > Anderes
 
 ![Lenze Ohrstöpsel](./assets/lenze-lenze-ohrstöpsel-685d4b48-5d61-49dd-b738-7723ce8d2613.jpg)
-This branded piece stands out as a useful and memorable giveaway. Introduced in 2026, rated 7/10.
+This branded piece stands out as a useful and memorable giveaway. Introduced in 2025, rated 7/10.

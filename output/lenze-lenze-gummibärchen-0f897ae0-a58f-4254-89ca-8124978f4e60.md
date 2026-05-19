@@ -13,4 +13,4 @@ year: 2025
 > Süßigkeiten
 
 ![Lenze Gummibärchen](./assets/lenze-lenze-gummibärchen-0f897ae0-a58f-4254-89ca-8124978f4e60.jpg)
-A colorful snack with Lenze branding that adds a little reward to the day. Introduced in 2026, rated 7/10.
+A colorful snack with Lenze branding that adds a little reward to the day. Introduced in 2025, rated 7/10.

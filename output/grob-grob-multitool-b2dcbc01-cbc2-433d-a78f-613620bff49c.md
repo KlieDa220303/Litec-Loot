@@ -13,4 +13,4 @@ year: 2025
 > Multitool
 
 ![Grob Multitool](./assets/grob-grob-multitool-b2dcbc01-cbc2-433d-a78f-613620bff49c.jpg)
-A compact multi-tool that brings versatile utility and Grob branding to daily tasks. Introduced in 2026, rated 6/10.
+A compact multi-tool that brings versatile utility and Grob branding to daily tasks. Introduced in 2025, rated 6/10.

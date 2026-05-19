@@ -13,4 +13,4 @@ year: 2025
 > Kleidung
 
 ![Loxone Sonnenbrille](./assets/loxone-loxone-sonnenbrille-adf85d38-0b05-451c-beeb-b1e11c4bfb7f.jpg)
-A branded clothing item from Loxone that adds comfort and visibility to everyday wear. Introduced in 2026, rated 7/10.
+A branded clothing item from Loxone that adds comfort and visibility to everyday wear. Introduced in 2025, rated 7/10.

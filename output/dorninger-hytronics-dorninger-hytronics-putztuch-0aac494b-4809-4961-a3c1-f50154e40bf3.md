@@ -13,4 +13,4 @@ year: 2025
 > Anderes
 
 ![Dorninger Hytronics Putztuch](./assets/dorninger-hytronics-dorninger-hytronics-putztuch-0aac494b-4809-4961-a3c1-f50154e40bf3.jpg)
-This branded piece stands out as a useful and memorable giveaway. Introduced in 2026, rated 5/10.
+This branded piece stands out as a useful and memorable giveaway. Introduced in 2025, rated 5/10.

@@ -13,4 +13,4 @@ year: 2025
 > Messzeug
 
 ![Bilfinger zollstock](./assets/bilfinger-bilfinger-zollstock-7cda6d58-3477-4551-8c42-2c1f7be16a2f.jpg)
-A precise and portable measuring accessory that reflects Bilfinger's professional identity. Introduced in 2026, rated 7/10.
+A precise and portable measuring accessory that reflects Bilfinger's professional identity. Introduced in 2025, rated 7/10.

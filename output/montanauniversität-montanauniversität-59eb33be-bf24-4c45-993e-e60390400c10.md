@@ -13,4 +13,4 @@ year: 2025
 > Block
 
 ![Montanauniversität](./assets/montanauniversität-montanauniversität-59eb33be-bf24-4c45-993e-e60390400c10.jpg)
-A compact block that keeps your thoughts organized while carrying the Montanuniversität brand. Introduced in 2026, rated 4/10.
+A compact block that keeps your thoughts organized while carrying the Montanuniversität brand. Introduced in 2025, rated 4/10.

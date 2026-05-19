@@ -13,4 +13,4 @@ year: 2025
 > Messzeug
 
 ![KE KELIT lineal](./assets/ke-kelit-ke-kelit-lineal-4af615b8-7c78-433f-bbd8-974e0fec2ef7.jpg)
-A precise and portable measuring accessory that reflects KE KELIT's professional identity. Introduced in 2026, rated 2/10.
+A precise and portable measuring accessory that reflects KE KELIT's professional identity. Introduced in 2025, rated 2/10.

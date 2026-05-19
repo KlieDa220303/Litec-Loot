@@ -13,4 +13,4 @@ year: 2025
 > Stift
 
 ![Swie-Energie Stift](./assets/swie-energie-swie-energie-stift-4a3f4448-7a6b-421f-8f52-e2f3f57ea198.jpg)
-Swie-Energie Stift is a smooth-writing branded pen crafted for clear notes and everyday use. Introduced in 2026, rated 5/10.
+Swie-Energie Stift is a smooth-writing branded pen crafted for clear notes and everyday use. Introduced in 2025, rated 5/10.

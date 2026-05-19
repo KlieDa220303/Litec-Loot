@@ -13,4 +13,4 @@ year: 2025
 > Kleidung
 
 ![Stiebel Eltron sonnenbrille](./assets/stiebel-eltron-stiebel-eltron-sonnenbrille-2a587017-8332-4d31-8f29-7c22bb9b9391.jpg)
-This apparel piece reflects the company's style while remaining wearable and practical. Introduced in 2026, rated 7/10.
+This apparel piece reflects the company's style while remaining wearable and practical. Introduced in 2025, rated 7/10.

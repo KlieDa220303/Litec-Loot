@@ -13,4 +13,4 @@ year: 2025
 > Stift
 
 ![Loxone Kugelschreiber](./assets/loxone-loxone-kugelschreiber-db791f5e-c17f-4fa2-8db3-dc6bcf99898c.jpg)
-A premium promotional pen from Loxone that feels comfortable in hand and looks professional. Introduced in 2026, rated 8/10.
+A premium promotional pen from Loxone that feels comfortable in hand and looks professional. Introduced in 2025, rated 8/10.

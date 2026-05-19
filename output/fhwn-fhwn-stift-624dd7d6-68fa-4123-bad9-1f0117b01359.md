@@ -13,4 +13,4 @@ year: 2025
 > Stift
 
 ![Fhwn Stift](./assets/fhwn-fhwn-stift-624dd7d6-68fa-4123-bad9-1f0117b01359.jpg)
-Fhwn Stift is a smooth-writing branded pen crafted for clear notes and everyday use. Introduced in 2026, rated 5/10.
+Fhwn Stift is a smooth-writing branded pen crafted for clear notes and everyday use. Introduced in 2025, rated 5/10.

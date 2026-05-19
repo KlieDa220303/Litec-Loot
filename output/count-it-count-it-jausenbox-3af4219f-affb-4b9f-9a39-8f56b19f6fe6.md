@@ -13,4 +13,4 @@ year: 2025
 > Jausenbox
 
 ![Count IT Jausenbox](./assets/count-it-count-it-jausenbox-3af4219f-affb-4b9f-9a39-8f56b19f6fe6.jpg)
-A useful item for meals away from home, featuring strong brand recognition. Introduced in 2026, rated 6/10.
+A useful item for meals away from home, featuring strong brand recognition. Introduced in 2025, rated 6/10.

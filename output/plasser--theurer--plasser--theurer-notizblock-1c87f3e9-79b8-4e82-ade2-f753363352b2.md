@@ -13,4 +13,4 @@ year: 2025
 > Block
 
 ![Plasser & Theurer Notizblock](./assets/plasser--theurer--plasser--theurer-notizblock-1c87f3e9-79b8-4e82-ade2-f753363352b2.jpg)
-A compact block that keeps your thoughts organized while carrying the Plasser & Theurer brand. Introduced in 2026, rated 7/10.
+A compact block that keeps your thoughts organized while carrying the Plasser & Theurer brand. Introduced in 2025, rated 7/10.

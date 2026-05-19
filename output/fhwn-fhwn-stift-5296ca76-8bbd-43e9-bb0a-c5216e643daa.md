@@ -13,4 +13,4 @@ year: 2025
 > Stift
 
 ![fhwn stift](./assets/fhwn-fhwn-stift-5296ca76-8bbd-43e9-bb0a-c5216e643daa.jpg)
-A premium promotional pen from Fhwn that feels comfortable in hand and looks professional. Introduced in 2026, rated 3/10.
+A premium promotional pen from Fhwn that feels comfortable in hand and looks professional. Introduced in 2025, rated 3/10.

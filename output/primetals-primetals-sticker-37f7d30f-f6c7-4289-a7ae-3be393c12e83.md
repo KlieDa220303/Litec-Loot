@@ -13,4 +13,4 @@ year: 2025
 > Sticker
 
 ![Primetals Sticker](./assets/primetals-primetals-sticker-37f7d30f-f6c7-4289-a7ae-3be393c12e83.jpg)
-This promotional decal adds visual interest while carrying the company logo. Introduced in 2026, rated 2/10.
+This promotional decal adds visual interest while carrying the company logo. Introduced in 2025, rated 2/10.

@@ -13,4 +13,4 @@ year: 2025
 > Feuerzeug
 
 ![Vace Group Feuerzeug](./assets/vace-group-vace-group-feuerzeug-6f8307ce-282e-452b-82a5-98407e553dc4.jpg)
-This branded lighter combines functionality with a compact design for easy carrying. Introduced in 2026, rated 10/10.
+This branded lighter combines functionality with a compact design for easy carrying. Introduced in 2025, rated 10/10.

@@ -13,4 +13,4 @@ year: 2025
 > Kleidung
 
 ![TGW Kappe](./assets/tgw-tgw-kappe-398dc2bc-84e0-478c-aa23-d6f63806cc74.jpg)
-A branded clothing item from TGW that adds comfort and visibility to everyday wear. Introduced in 2026, rated 8/10.
+A branded clothing item from TGW that adds comfort and visibility to everyday wear. Introduced in 2025, rated 8/10.

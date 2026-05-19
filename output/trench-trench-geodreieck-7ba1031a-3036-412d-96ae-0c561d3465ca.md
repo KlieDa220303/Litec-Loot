@@ -13,4 +13,4 @@ year: 2025
 > Messzeug
 
 ![Trench Geodreieck](./assets/trench-trench-geodreieck-7ba1031a-3036-412d-96ae-0c561d3465ca.jpg)
-Useful for quick measurements, this branded tool is a smart addition to any workspace. Introduced in 2026, rated 7/10.
+Useful for quick measurements, this branded tool is a smart addition to any workspace. Introduced in 2025, rated 7/10.

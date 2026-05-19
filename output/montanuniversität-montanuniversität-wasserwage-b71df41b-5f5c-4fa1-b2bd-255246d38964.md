@@ -13,4 +13,4 @@ year: 2025
 > Schlüsselanhänger
 
 ![Montanuniversität wasserwage](./assets/montanuniversität-montanuniversität-wasserwage-b71df41b-5f5c-4fa1-b2bd-255246d38964.jpg)
-This branded key ring is practical, compact and a great reminder of Montanuniversität. Introduced in 2026, rated 8/10.
+This branded key ring is practical, compact and a great reminder of Montanuniversität. Introduced in 2025, rated 8/10.

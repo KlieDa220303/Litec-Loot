@@ -13,4 +13,4 @@ year: 2025
 > spielzeug
 
 ![Grob Spielkarten](./assets/brob-grob-spielkarten-aa74f5bd-6a7e-483f-b46a-d61ec6aacdcb.jpg)
-A versatile promotional product that keeps the brand present in daily life. Introduced in 2026, rated 7/10.
+A versatile promotional product that keeps the brand present in daily life. Introduced in 2025, rated 7/10.

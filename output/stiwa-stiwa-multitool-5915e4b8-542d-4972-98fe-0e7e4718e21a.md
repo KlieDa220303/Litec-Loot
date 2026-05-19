@@ -13,4 +13,4 @@ year: 2025
 > Schlüsselanhänger
 
 ![Stiwa multitool](./assets/stiwa-stiwa-multitool-5915e4b8-542d-4972-98fe-0e7e4718e21a.jpg)
-A durable keychain that blends everyday use with clear brand visibility. Introduced in 2026, rated 6/10.
+A durable keychain that blends everyday use with clear brand visibility. Introduced in 2025, rated 6/10.

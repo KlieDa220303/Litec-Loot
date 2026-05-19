@@ -13,4 +13,4 @@ year: 2025
 > Messzeug
 
 ![Eisenbeiss lesezeichen](./assets/eisenbeiss-eisenbeiss-lesezeichen-cf2adaaa-d11e-4745-9ad2-df5298e3b8af.jpg)
-Useful for quick measurements, this branded tool is a smart addition to any workspace. Introduced in 2026, rated 3/10.
+Useful for quick measurements, this branded tool is a smart addition to any workspace. Introduced in 2025, rated 3/10.

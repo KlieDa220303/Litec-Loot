@@ -13,4 +13,4 @@ year: 2025
 > Stift
 
 ![Plasser & Theurer Kugelschreiber](./assets/plasser--theurer-plasser--theurer-kugelschreiber-fed360b1-f444-48be-8114-5a69e8fc77a2.jpg)
-Plasser & Theurer Kugelschreiber is a smooth-writing branded pen crafted for clear notes and everyday use. Introduced in 2026, rated 6/10.
+Plasser & Theurer Kugelschreiber is a smooth-writing branded pen crafted for clear notes and everyday use. Introduced in 2025, rated 6/10.

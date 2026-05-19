@@ -13,4 +13,4 @@ year: 2025
 > Süßigkeiten
 
 ![Bosch Minzen](./assets/bosch-bosch-minzen-cb8a2d48-ec86-4a53-9b35-fbc25d955e80.jpg)
-A sweet branded treat from Bosch, ideal as a tasty giveaway or small snack. Introduced in 2026, rated 4/10.
+A sweet branded treat from Bosch, ideal as a tasty giveaway or small snack. Introduced in 2025, rated 4/10.

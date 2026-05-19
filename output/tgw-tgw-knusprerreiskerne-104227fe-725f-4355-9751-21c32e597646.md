@@ -13,4 +13,4 @@ year: 2025
 > Süßigkeiten
 
 ![TGW Knusprerreiskerne](./assets/tgw-tgw-knusprerreiskerne-104227fe-725f-4355-9751-21c32e597646.jpg)
-A sweet branded treat from TGW, ideal as a tasty giveaway or small snack. Introduced in 2026, rated 6/10.
+A sweet branded treat from TGW, ideal as a tasty giveaway or small snack. Introduced in 2025, rated 6/10.

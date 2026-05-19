@@ -13,4 +13,4 @@ year: 2025
 > Spielzeug
 
 ![DS Automation Würfel](./assets/ds-automation-ds-automation-würfel-16b07359-13f2-4504-bf76-75d69475db5e.jpg)
-A cheerful promotional piece with DS Automation messaging, created for enjoyment and recall. Introduced in 2026, rated 4/10.
+A cheerful promotional piece with DS Automation messaging, created for enjoyment and recall. Introduced in 2025, rated 4/10.
