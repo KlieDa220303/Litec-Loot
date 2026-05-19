@@ -3,7 +3,7 @@ product: 'Montanuniversität wasserwage'
 company: 'Montanuniversität'
 rating: 8
 category: 'Schlüsselanhänger'
-year: 2026
+year: 2025
 ---
 
 # Montanuniversität - Montanuniversität wasserwage
@@ -13,4 +13,4 @@ year: 2026
 > Schlüsselanhänger
 
 ![Montanuniversität wasserwage](./assets/montanuniversität-montanuniversität-wasserwage-b71df41b-5f5c-4fa1-b2bd-255246d38964.jpg)
-mini wasserwage am schlüsselbung aber guter schlüsselanhänger
+This branded key ring is practical, compact and a great reminder of Montanuniversität. Introduced in 2026, rated 8/10.

@@ -3,7 +3,7 @@ product: 'Salvagnini Flaschenöffner'
 company: 'Salvagnini'
 rating: 5
 category: 'Flaschenöffner'
-year: 2026
+year: 2025
 ---
 
 # Salvagnini - Salvagnini Flaschenöffner
@@ -13,4 +13,4 @@ year: 2026
 > Flaschenöffner
 
 ![Salvagnini Flaschenöffner](./assets/salvagnini-salvagnini-flaschenöffner-0c0336ba-34fb-4d17-a92f-7726c4557a67.jpg)
-Flaschenöffner
+This branded piece stands out as a useful and memorable giveaway. Introduced in 2026, rated 5/10.

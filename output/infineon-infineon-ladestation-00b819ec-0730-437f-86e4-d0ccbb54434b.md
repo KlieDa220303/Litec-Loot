@@ -3,7 +3,7 @@ product: 'infineon Ladestation'
 company: 'Infineon'
 rating: 9
 category: 'Elektronik'
-year: 2026
+year: 2025
 ---
 
 # Infineon - infineon Ladestation
@@ -13,4 +13,4 @@ year: 2026
 > Elektronik
 
 ![infineon Ladestation](./assets/infineon-infineon-ladestation-00b819ec-0730-437f-86e4-d0ccbb54434b.jpg)
-gute ladestation sieht auch schön aus
+A useful gadget that keeps the brand visible while supporting daily digital needs. Introduced in 2026, rated 9/10.

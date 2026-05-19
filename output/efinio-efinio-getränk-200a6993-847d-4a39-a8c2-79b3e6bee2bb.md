@@ -3,7 +3,7 @@ product: 'Efinio Getränk'
 company: 'Efinio'
 rating: 7
 category: 'Getränk'
-year: 2026
+year: 2025
 ---
 
 # Efinio - Efinio Getr�nk
@@ -13,4 +13,4 @@ year: 2026
 > Getränk
 
 ![Efinio Getränk](./assets/efinio-efinio-getränk-200a6993-847d-4a39-a8c2-79b3e6bee2bb.jpg)
-A beverage item from Efinio. Branded drink or drink-related promotional item.
+A convenient drink for events, complete with Efinio's promotional look. Introduced in 2026, rated 7/10.

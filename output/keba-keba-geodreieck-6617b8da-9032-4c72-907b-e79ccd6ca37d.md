@@ -3,7 +3,7 @@ product: 'Keba Geodreieck'
 company: 'Keba'
 rating: 6
 category: 'Messzeug'
-year: 2026
+year: 2025
 ---
 
 # Keba - Keba Geodreieck
@@ -13,4 +13,4 @@ year: 2026
 > Messzeug
 
 ![Keba Geodreieck](./assets/keba-keba-geodreieck-6617b8da-9032-4c72-907b-e79ccd6ca37d.jpg)
-3 ecken
+A practical measuring tool from Keba designed for accuracy on the desk or in the field. Introduced in 2026, rated 6/10.

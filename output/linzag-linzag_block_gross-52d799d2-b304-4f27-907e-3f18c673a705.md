@@ -3,7 +3,7 @@ product: 'LinzAG Block gross'
 company: 'LinzAG'
 rating: 5
 category: 'Block'
-year: 2026
+year: 2025
 ---
 
 # LinzAg - LinzAG Block gross
@@ -13,4 +13,4 @@ year: 2026
 > Block
 
 ![LinzAG_Block_gross](./assets/linzag-linzag_block_gross-52d799d2-b304-4f27-907e-3f18c673a705.jpg)
-block gross
+A handy notepad from LinzAG for jotting down ideas, tasks and quick reminders. Introduced in 2026, rated 5/10.

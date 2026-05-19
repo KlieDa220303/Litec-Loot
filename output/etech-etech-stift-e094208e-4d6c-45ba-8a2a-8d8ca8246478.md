@@ -3,7 +3,7 @@ product: 'Etech stift'
 company: 'Etech'
 rating: 4
 category: 'Stift'
-year: 2026
+year: 2025
 ---
 
 # Etech - Etech stift
@@ -13,4 +13,4 @@ year: 2026
 > Stift
 
 ![Etech stift](./assets/etech-etech-stift-e094208e-4d6c-45ba-8a2a-8d8ca8246478.jpg)
-Standard Stift
+A premium promotional pen from Etech that feels comfortable in hand and looks professional. Introduced in 2026, rated 4/10.

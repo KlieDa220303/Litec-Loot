@@ -3,7 +3,7 @@ product: 'Engel Kabeln'
 company: 'Engel'
 rating: 7
 category: 'Elektronik'
-year: 2026
+year: 2025
 ---
 
 # Engel - Engel Kabeln
@@ -13,4 +13,4 @@ year: 2026
 > Elektronik
 
 ![Engel Kabeln](./assets/engel-engel-kabeln-637b81ef-0a56-4bf6-b920-b0a82157d3f5.jpg)
-Alles was man braucht
+A useful gadget that keeps the brand visible while supporting daily digital needs. Introduced in 2026, rated 7/10.

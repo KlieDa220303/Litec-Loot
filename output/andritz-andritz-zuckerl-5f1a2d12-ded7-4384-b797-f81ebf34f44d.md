@@ -3,7 +3,7 @@ product: 'Andritz Zuckerl'
 company: 'Andritz'
 rating: 3
 category: 'Süßigkeiten'
-year: 2026
+year: 2025
 ---
 
 # Andritz - Andritz Zuckerl
@@ -13,4 +13,4 @@ year: 2026
 > Süßigkeiten
 
 ![Andritz Zuckerl](./assets/andritz-andritz-zuckerl-5f1a2d12-ded7-4384-b797-f81ebf34f44d.jpg)
-Promotional candy from Andritz. A sweet treat featuring the company's branding.
+A sweet branded treat from Andritz, ideal as a tasty giveaway or small snack. Introduced in 2026, rated 3/10.

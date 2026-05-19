@@ -3,7 +3,7 @@ product: 'Kreuzpointner Stift'
 company: 'Kreuzpointner'
 rating: 7
 category: 'Stift'
-year: 2026
+year: 2025
 ---
 
 # Kreuzpointner - Kreuzpointner Stift
@@ -13,4 +13,4 @@ year: 2026
 > Stift
 
 ![Kreuzpointner Stift](./assets/kreuzpointner-kreuzpointner-stift-dbdd803d-e2a4-46b6-b5e0-0437b11ee4ec.jpg)
-guter stift
+Kreuzpointner Stift is a smooth-writing branded pen crafted for clear notes and everyday use. Introduced in 2026, rated 7/10.

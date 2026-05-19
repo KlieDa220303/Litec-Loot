@@ -3,7 +3,7 @@ product: 'Andritz Schlüsselanhänger'
 company: 'Andritz'
 rating: 5
 category: 'Schlüsselanhänger'
-year: 2026
+year: 2025
 ---
 
 # Andritz - Andritz Schlüsselanhänger
@@ -13,4 +13,4 @@ year: 2026
 > Schlüsselanhänger
 
 ![Andritz Schlüsselanhänger](./assets/andritz-andritz-schlüsselanhänger-a6b3f5e6-83f8-45fb-b14b-d04ddebcae37.jpg)
-A keychain accessory branded with Andritz. Handy item for identifying keys while promoting the company.
+A durable keychain that blends everyday use with clear brand visibility. Introduced in 2026, rated 5/10.

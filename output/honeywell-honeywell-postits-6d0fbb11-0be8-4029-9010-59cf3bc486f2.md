@@ -3,7 +3,7 @@ product: 'Honeywell Postits'
 company: 'Honeywell'
 rating: 3
 category: 'Block'
-year: 2026
+year: 2025
 ---
 
 # Honeywell - Honeywell Postits
@@ -13,4 +13,4 @@ year: 2026
 > Block
 
 ![Honeywell Postits](./assets/honeywell-honeywell-postits-6d0fbb11-0be8-4029-9010-59cf3bc486f2.jpg)
-zum it posten
+This branded block combines solid paper quality with a useful format for daily notes. Introduced in 2026, rated 3/10.

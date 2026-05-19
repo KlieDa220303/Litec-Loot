@@ -3,7 +3,7 @@ product: 'Altmüller postits'
 company: 'Altmüller'
 rating: 4
 category: 'Block'
-year: 2026
+year: 2025
 ---
 
 # Altmüller - Altmüller postits
@@ -13,4 +13,4 @@ year: 2026
 > Block
 
 ![Altmüller postits](./assets/altmüller-altmüller-postits-7e0fd1cc-2e8e-44b6-aa05-f22b949db593.jpg)
-A notepad from Altmüller. Practical for jotting down notes and organizing thoughts throughout the day.
+This branded block combines solid paper quality with a useful format for daily notes. Introduced in 2026, rated 4/10.

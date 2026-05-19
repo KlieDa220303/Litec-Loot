@@ -3,7 +3,7 @@ product: 'E Punkt Regenschirm'
 company: 'E Punkt'
 rating: 7
 category: 'Schirme'
-year: 2026
+year: 2025
 ---
 
 # E Punkt - E Punkt Regenschirm
@@ -13,4 +13,4 @@ year: 2026
 > Schirme
 
 ![E Punkt Regenschirm](./assets/e-punkt-e-punkt-regenschirm-104fdcd2-ded6-4e5f-b6a2-255a1fb879c9.jpg)
-An umbrella from E Punkt. Practical weather protection featuring the company's branding.
+A unique promotional item from E Punkt, suited for everyday visibility. Introduced in 2026, rated 7/10.

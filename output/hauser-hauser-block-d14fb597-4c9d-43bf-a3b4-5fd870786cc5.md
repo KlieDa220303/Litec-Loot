@@ -3,7 +3,7 @@ product: 'Hauser Block'
 company: 'Hauser'
 rating: 4
 category: 'Block'
-year: 2026
+year: 2025
 ---
 
 # Hauser - Hauser Block
@@ -13,4 +13,4 @@ year: 2026
 > Block
 
 ![Hauser Block](./assets/hauser-hauser-block-d14fb597-4c9d-43bf-a3b4-5fd870786cc5.jpg)
-kleiner block
+A compact block that keeps your thoughts organized while carrying the Hauser brand. Introduced in 2026, rated 4/10.

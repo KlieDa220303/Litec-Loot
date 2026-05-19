@@ -3,7 +3,7 @@ product: 'Beko Untersetzer'
 company: 'Beko'
 rating: 1
 category: 'Block'
-year: 2026
+year: 2025
 ---
 
 # Beko - Beko Untersetzer
@@ -13,4 +13,4 @@ year: 2026
 > Block
 
 ![Beko Untersetzer](./assets/beko-beko-untersetzer-943257db-4cb5-4799-b437-c93a7b0dba2f.jpg)
-A notepad from Beko. Practical for jotting down notes and organizing thoughts throughout the day.
+This branded block combines solid paper quality with a useful format for daily notes. Introduced in 2026, rated 1/10.

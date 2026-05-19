@@ -3,7 +3,7 @@ product: 'DS Automation Würfel'
 company: 'DS Automation'
 rating: 4
 category: 'Spielzeug'
-year: 2026
+year: 2025
 ---
 
 # DS Automation - DS Automation Würfel
@@ -13,4 +13,4 @@ year: 2026
 > Spielzeug
 
 ![DS Automation Würfel](./assets/ds-automation-ds-automation-würfel-16b07359-13f2-4504-bf76-75d69475db5e.jpg)
-A promotional die from DS Automation. Fun gaming accessory featuring company branding.
+A cheerful promotional piece with DS Automation messaging, created for enjoyment and recall. Introduced in 2026, rated 4/10.

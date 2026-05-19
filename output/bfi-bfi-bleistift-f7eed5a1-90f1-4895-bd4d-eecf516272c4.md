@@ -3,7 +3,7 @@ product: 'BFI bleistift'
 company: 'BFI'
 rating: 4
 category: 'Stift'
-year: 2026
+year: 2025
 ---
 
 # BFI - BFI bleistift
@@ -13,4 +13,4 @@ year: 2026
 > Stift
 
 ![BFI bleistift](./assets/bfi-bfi-bleistift-f7eed5a1-90f1-4895-bd4d-eecf516272c4.jpg)
-A promotional pen branded with BFI. Practical writing instrument suitable for everyday use, featuring the company's branding.
+A premium promotional pen from BFI that feels comfortable in hand and looks professional. Introduced in 2026, rated 4/10.

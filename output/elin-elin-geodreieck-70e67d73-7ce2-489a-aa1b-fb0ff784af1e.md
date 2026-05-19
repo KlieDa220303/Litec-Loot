@@ -3,7 +3,7 @@ product: 'Elin Geodreieck'
 company: 'Elin'
 rating: 6
 category: 'Messzeug'
-year: 2026
+year: 2025
 ---
 
 # Elin - Elin Geodreieck
@@ -13,4 +13,4 @@ year: 2026
 > Messzeug
 
 ![Elin Geodreieck](./assets/elin-elin-geodreieck-70e67d73-7ce2-489a-aa1b-fb0ff784af1e.jpg)
-A triangle ruler from Elin. Essential technical drawing tool for geometry and engineering work.
+A practical measuring tool from Elin designed for accuracy on the desk or in the field. Introduced in 2026, rated 6/10.

@@ -3,7 +3,7 @@ product: 'Count IT Gummibären'
 company: 'Count IT'
 rating: 5
 category: 'Süßigkeiten'
-year: 2026
+year: 2025
 ---
 
 # Count IT - Count IT Gummibären
@@ -13,4 +13,4 @@ year: 2026
 > Süßigkeiten
 
 ![Count IT Gummibären](./assets/count-it-count-it-gummibären-8829a3af-fa71-4736-82ce-5f8f5ffa1ad0.jpg)
-Gummy bears branded by Count IT. Tasty promotional candy featuring the company's branding.
+A colorful snack with Count IT branding that adds a little reward to the day. Introduced in 2026, rated 5/10.

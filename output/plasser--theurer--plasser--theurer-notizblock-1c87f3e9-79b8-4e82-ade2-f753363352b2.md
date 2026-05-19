@@ -3,7 +3,7 @@ product: 'Plasser & Theurer Notizblock'
 company: 'Plasser & Theurer'
 rating: 7
 category: 'Block'
-year: 2026
+year: 2025
 ---
 
 # Plasser & Theurer  - Plasser & Theurer Notizblock
@@ -13,4 +13,4 @@ year: 2026
 > Block
 
 ![Plasser & Theurer Notizblock](./assets/plasser--theurer--plasser--theurer-notizblock-1c87f3e9-79b8-4e82-ade2-f753363352b2.jpg)
-Notizen
+A compact block that keeps your thoughts organized while carrying the Plasser & Theurer brand. Introduced in 2026, rated 7/10.

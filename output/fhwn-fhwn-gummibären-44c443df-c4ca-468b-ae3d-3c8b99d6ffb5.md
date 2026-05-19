@@ -3,7 +3,7 @@ product: 'Fhwn Gummibären'
 company: 'Fhwn'
 rating: 4
 category: 'Süßigkeiten'
-year: 2026
+year: 2025
 ---
 
 # Fhwn - Fhwn Gummibären
@@ -13,4 +13,4 @@ year: 2026
 > Süßigkeiten
 
 ![Fhwn Gummibären](./assets/fhwn-fhwn-gummibären-44c443df-c4ca-468b-ae3d-3c8b99d6ffb5.jpg)
-gummige bären
+These candy items bring a playful brand touch to your breaks and event goodie bags. Introduced in 2026, rated 4/10.

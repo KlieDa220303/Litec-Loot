@@ -3,7 +3,7 @@ product: 'Riegler Kaugummi'
 company: 'Riegler'
 rating: 6
 category: 'Süßigkeiten'
-year: 2026
+year: 2025
 ---
 
 # Riegler - Riegler Kaugummi
@@ -13,4 +13,4 @@ year: 2026
 > Süßigkeiten
 
 ![Riegler Kaugummi](./assets/riegler-riegler-kaugummi-4eb7bba6-027f-4193-ab4e-5d7c060e4726.jpg)
-zum kauen oder so
+A sweet branded treat from Riegler, ideal as a tasty giveaway or small snack. Introduced in 2026, rated 6/10.

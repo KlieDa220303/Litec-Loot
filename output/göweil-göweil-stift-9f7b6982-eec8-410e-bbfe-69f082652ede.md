@@ -3,7 +3,7 @@ product: 'Göweil Stift'
 company: 'Göweil'
 rating: 5
 category: 'Stift'
-year: 2026
+year: 2025
 ---
 
 # Göweil - Göweil Stift
@@ -13,4 +13,4 @@ year: 2026
 > Stift
 
 ![Göweil Stift](./assets/göweil-göweil-stift-9f7b6982-eec8-410e-bbfe-69f082652ede.jpg)
-Stift
+Göweil Stift delivers dependable ink flow and a sleek design, perfect for meetings and on-the-go writing. Introduced in 2026, rated 5/10.

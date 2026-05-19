@@ -3,7 +3,7 @@ product: 'Stralim textmarker'
 company: 'Starlim Sterner'
 rating: 5
 category: 'Stift'
-year: 2026
+year: 2025
 ---
 
 # Starlim Sterner - Stralim textmarker
@@ -13,4 +13,4 @@ year: 2026
 > Stift
 
 ![Stralim textmarker](./assets/starlim-stralim-textmarker-f59ab9de-9251-4853-bcc5-718a590eb7e7.jpg)
-standard textmarker
+Stralim textmarker delivers dependable ink flow and a sleek design, perfect for meetings and on-the-go writing. Introduced in 2026, rated 5/10.

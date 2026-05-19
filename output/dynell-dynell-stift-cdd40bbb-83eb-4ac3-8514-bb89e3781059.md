@@ -3,7 +3,7 @@ product: 'Dynell Stift'
 company: 'Dynell'
 rating: 5
 category: 'Stift'
-year: 2026
+year: 2025
 ---
 
 # Dynell - Dynell Stift
@@ -13,4 +13,4 @@ year: 2026
 > Stift
 
 ![Dynell Stift](./assets/dynell-dynell-stift-cdd40bbb-83eb-4ac3-8514-bb89e3781059.jpg)
-A promotional pen branded with Dynell. Practical writing instrument suitable for everyday use, featuring the company's branding.
+Dynell Stift is a smooth-writing branded pen crafted for clear notes and everyday use. Introduced in 2026, rated 5/10.

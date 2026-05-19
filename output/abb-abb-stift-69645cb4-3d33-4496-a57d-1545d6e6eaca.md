@@ -3,7 +3,7 @@ product: 'ABB Stift'
 company: 'ABB'
 rating: 5
 category: 'Stift'
-year: 2026
+year: 2025
 ---
 
 # ABB - ABB Stift
@@ -13,4 +13,4 @@ year: 2026
 > Stift
 
 ![ABB Stift](./assets/abb-abb-stift-69645cb4-3d33-4496-a57d-1545d6e6eaca.jpg)
-A promotional pen branded with ABB. Practical writing instrument suitable for everyday use, featuring the company's branding.
+A premium promotional pen from ABB that feels comfortable in hand and looks professional. Introduced in 2026, rated 5/10.

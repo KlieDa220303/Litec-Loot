@@ -3,7 +3,7 @@ product: 'Elin Stift'
 company: 'Elin'
 rating: 5
 category: 'Stift'
-year: 2026
+year: 2025
 ---
 
 # Elin - Elin Stift
@@ -13,4 +13,4 @@ year: 2026
 > Stift
 
 ![Elin Stift](./assets/elin-elin-stift-ea3a93e1-18ce-4a8d-8c1e-b804eb90099e.jpg)
-A promotional pen branded with Elin. Practical writing instrument suitable for everyday use, featuring the company's branding.
+A premium promotional pen from Elin that feels comfortable in hand and looks professional. Introduced in 2026, rated 5/10.

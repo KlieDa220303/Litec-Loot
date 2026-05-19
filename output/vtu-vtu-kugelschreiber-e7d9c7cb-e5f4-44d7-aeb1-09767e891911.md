@@ -3,7 +3,7 @@ product: 'VTU kugelschreiber'
 company: 'VTU'
 rating: 7
 category: 'Stift'
-year: 2026
+year: 2025
 ---
 
 # VTU - VTU kugelschreiber
@@ -13,4 +13,4 @@ year: 2026
 > Stift
 
 ![VTU kugelschreiber](./assets/vtu-vtu-kugelschreiber-e7d9c7cb-e5f4-44d7-aeb1-09767e891911.jpg)
-guter holz kugelschreiber
+A premium promotional pen from VTU that feels comfortable in hand and looks professional. Introduced in 2026, rated 7/10.

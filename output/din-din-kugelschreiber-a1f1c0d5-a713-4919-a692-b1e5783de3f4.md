@@ -3,7 +3,7 @@ product: 'DIN Kugelschreiber'
 company: 'DIN'
 rating: 7
 category: 'Stift'
-year: 2026
+year: 2025
 ---
 
 # DIN - DIN Kugelschreiber
@@ -13,4 +13,4 @@ year: 2026
 > Stift
 
 ![DIN Kugelschreiber](./assets/din-din-kugelschreiber-a1f1c0d5-a713-4919-a692-b1e5783de3f4.jpg)
-A promotional pen branded with DIN. Practical writing instrument suitable for everyday use, featuring the company's branding.
+DIN Kugelschreiber delivers dependable ink flow and a sleek design, perfect for meetings and on-the-go writing. Introduced in 2026, rated 7/10.

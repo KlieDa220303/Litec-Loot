@@ -3,7 +3,7 @@ product: 'Liwest Textmarker'
 company: 'Liwest'
 rating: 6
 category: 'Stift'
-year: 2026
+year: 2025
 ---
 
 # Liwest - Liwest Textmarker
@@ -13,4 +13,4 @@ year: 2026
 > Stift
 
 ![Liwest Textmarker](./assets/liwest-liwest-textmarker-02fb71f6-a62c-4789-8bf6-4edf2df3e7e8.jpg)
-Zum text markieren
+Liwest Textmarker delivers dependable ink flow and a sleek design, perfect for meetings and on-the-go writing. Introduced in 2026, rated 6/10.

@@ -3,7 +3,7 @@ product: 'Count IT radierer'
 company: 'Count IT'
 rating: 2
 category: 'Radierer'
-year: 2026
+year: 2025
 ---
 
 # Count IT - Count IT radierer
@@ -13,4 +13,4 @@ year: 2026
 > Radierer
 
 ![Count IT radierer](./assets/count-it-count-it-radierer-82eb1730-ec14-4013-a293-b691aef9d378.jpg)
-An eraser from Count IT. Essential writing accessory for correcting pencil marks.
+This small stationery item keeps writing mistakes neat while boosting brand awareness. Introduced in 2026, rated 2/10.

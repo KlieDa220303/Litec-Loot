@@ -3,7 +3,7 @@ product: 'Spiratec stift'
 company: 'Spiratec'
 rating: 4
 category: 'Stift'
-year: 2026
+year: 2025
 ---
 
 # Spiratec - Spiratec stift
@@ -13,4 +13,4 @@ year: 2026
 > Stift
 
 ![Spiratec stift](./assets/spiratec-spiratec-stift-deaa054c-3ccc-462d-965f-6454ec9ae938.jpg)
-stift
+Spiratec stift is a smooth-writing branded pen crafted for clear notes and everyday use. Introduced in 2026, rated 4/10.

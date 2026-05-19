@@ -3,7 +3,7 @@ product: 'Vace Group Feuerzeug'
 company: 'Vace Group'
 rating: 10
 category: 'Feuerzeug'
-year: 2026
+year: 2025
 ---
 
 # Vace Group - Vace Group Feuerzeug
@@ -13,4 +13,4 @@ year: 2026
 > Feuerzeug
 
 ![Vace Group Feuerzeug](./assets/vace-group-vace-group-feuerzeug-6f8307ce-282e-452b-82a5-98407e553dc4.jpg)
-feueer
+This branded lighter combines functionality with a compact design for easy carrying. Introduced in 2026, rated 10/10.

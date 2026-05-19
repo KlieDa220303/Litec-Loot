@@ -3,7 +3,7 @@ product: 'Efinio jonglierball'
 company: 'Efinio'
 rating: 6
 category: 'Spielzeug'
-year: 2026
+year: 2025
 ---
 
 # Efinio - Efinio jonglierball
@@ -13,4 +13,4 @@ year: 2026
 > Spielzeug
 
 ![Efinio jonglierball](./assets/efinio-efinio-jonglierball-2d8ee21d-067c-46b8-b408-660462dad804.jpg)
-A juggling ball from Efinio. Circus skill toy featuring company branding.
+This little toy brings an entertaining brand experience to children and adults alike. Introduced in 2026, rated 6/10.

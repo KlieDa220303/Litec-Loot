@@ -3,7 +3,7 @@ product: 'Ke-kelit stift'
 company: 'KE KELIT'
 rating: 4
 category: 'Stift'
-year: 2026
+year: 2025
 ---
 
 # ke-kelit - Ke-kelit stift
@@ -13,4 +13,4 @@ year: 2026
 > Stift
 
 ![Ke-kelit stift](./assets/ke-kelit-ke-kelit-stift-6f77b27e-45ed-4fb2-b311-f63ef4cb8f01.jpg)
-stift
+Ke-kelit stift is a smooth-writing branded pen crafted for clear notes and everyday use. Introduced in 2026, rated 4/10.

@@ -3,7 +3,7 @@ product: 'Kaeser Getränk'
 company: 'Kaeser'
 rating: 7
 category: 'Getränk'
-year: 2026
+year: 2025
 ---
 
 # Kaeser - Kaeser Getr�nk
@@ -13,4 +13,4 @@ year: 2026
 > Getränk
 
 ![Kaeser Getränk](./assets/kaeser-kaeser-getränk-42ac13d2-37c1-499e-9801-30f7d618a4f4.jpg)
-yummy
+A refreshing branded drink that makes a nice break during the workday. Introduced in 2026, rated 7/10.

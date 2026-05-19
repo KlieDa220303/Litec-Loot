@@ -3,7 +3,7 @@ product: 'Swie-Energie Sonnenbrille'
 company: 'Swie-Energie'
 rating: 6
 category: 'Kleidung'
-year: 2026
+year: 2025
 ---
 
 # Swie-Energie - Swie-Energie Sonnenbrille
@@ -13,4 +13,4 @@ year: 2026
 > Kleidung
 
 ![Swie-Energie Sonnenbrille](./assets/swie-energie-swie-energie-sonnenbrille-070b2618-88e3-491b-9091-1c7dd05a9b63.jpg)
-standard sonnenbrille
+A promotional garment designed for events, staff or giveaways with strong brand impact. Introduced in 2026, rated 6/10.

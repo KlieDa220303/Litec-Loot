@@ -3,7 +3,7 @@ product: 'Lenze DuftBaum'
 company: 'Lenze'
 rating: 6
 category: 'Duft'
-year: 2026
+year: 2025
 ---
 
 # Lenze - Lenze DuftBaum
@@ -13,4 +13,4 @@ year: 2026
 > Duft
 
 ![Lenze DuftBaum](./assets/lenze-lenze-duftbaum-f82f9dac-0af0-406c-ba29-1058f33346c7.jpg)
-ein duftbaum fürs auto
+A unique promotional item from Lenze, suited for everyday visibility. Introduced in 2026, rated 6/10.

@@ -3,7 +3,7 @@ product: 'PMS Taschentücher'
 company: 'PMS'
 rating: 3
 category: 'Gesundheit'
-year: 2026
+year: 2025
 ---
 
 # PMS - PMS Taschentücher
@@ -13,4 +13,4 @@ year: 2026
 > Gesundheit
 
 ![PMS Taschentücher](./assets/pms-pms-taschentücher-0e8d82de-df91-43ea-8f23-98448201dc77.jpg)
-fürn schnupfen
+This health-oriented gift combines practical support with branded packaging. Introduced in 2026, rated 3/10.

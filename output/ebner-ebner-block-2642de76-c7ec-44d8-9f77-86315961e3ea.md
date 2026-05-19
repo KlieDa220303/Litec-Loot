@@ -3,7 +3,7 @@ product: 'Ebner Block'
 company: 'Ebner'
 rating: 5
 category: 'Block'
-year: 2026
+year: 2025
 ---
 
 # Ebner - Ebner Block
@@ -13,4 +13,4 @@ year: 2026
 > Block
 
 ![Ebner Block](./assets/ebner-ebner-block-2642de76-c7ec-44d8-9f77-86315961e3ea.jpg)
-A notepad from Ebner. Practical for jotting down notes and organizing thoughts throughout the day.
+This branded block combines solid paper quality with a useful format for daily notes. Introduced in 2026, rated 5/10.

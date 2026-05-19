@@ -3,7 +3,7 @@ product: 'Andritz Kugelschreiber'
 company: 'Andritz'
 rating: 5
 category: 'Stift'
-year: 2026
+year: 2025
 ---
 
 # Andritz - Andritz Kugelschreiber
@@ -13,4 +13,4 @@ year: 2026
 > Stift
 
 ![Andritz Kugelschreiber](./assets/andritz-andritz-kugelschreiber-2d66f961-e754-46b1-9638-0adfa688396e.jpg)
-A promotional pen branded with Andritz. Practical writing instrument suitable for everyday use, featuring the company's branding.
+Andritz Kugelschreiber delivers dependable ink flow and a sleek design, perfect for meetings and on-the-go writing. Introduced in 2026, rated 5/10.

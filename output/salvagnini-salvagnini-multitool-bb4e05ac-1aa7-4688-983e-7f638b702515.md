@@ -3,7 +3,7 @@ product: 'Salvagnini Multitool'
 company: 'Salvagnini'
 rating: 8
 category: 'Multitool'
-year: 2026
+year: 2025
 ---
 
 # Salvagnini - Salvagnini Multitool
@@ -13,4 +13,4 @@ year: 2026
 > Multitool
 
 ![Salvagnini Multitool](./assets/salvagnini-salvagnini-multitool-bb4e05ac-1aa7-4688-983e-7f638b702515.jpg)
-prepare for everything
+A compact multi-tool that brings versatile utility and Salvagnini branding to daily tasks. Introduced in 2026, rated 8/10.

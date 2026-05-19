@@ -3,7 +3,7 @@ product: 'Greisinger Alm Beisser'
 company: 'Greisinger'
 rating: 9
 category: 'Essen'
-year: 2026
+year: 2025
 ---
 
 # Greisinger - Greisinger Alm Beisser
@@ -13,4 +13,4 @@ year: 2026
 > Essen
 
 ![Greisinger Alm Beisser](./assets/greisinger-greisinger-alm-beisser-dd64bc83-d581-4f2a-ab66-f8704d46c58c.jpg)
-gutes essen
+A little treat that combines convenience with subtle promotional appeal. Introduced in 2026, rated 9/10.

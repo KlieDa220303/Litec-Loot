@@ -3,7 +3,7 @@ product: 'Montanuniversität Block'
 company: 'Montanuniversität'
 rating: 4
 category: 'Block'
-year: 2026
+year: 2025
 ---
 
 # MOntanauniversität - Montanauniversität
@@ -13,4 +13,4 @@ year: 2026
 > Block
 
 ![Montanauniversität](./assets/montanauniversität-montanauniversität-59eb33be-bf24-4c45-993e-e60390400c10.jpg)
-Block
+A compact block that keeps your thoughts organized while carrying the Montanuniversität brand. Introduced in 2026, rated 4/10.

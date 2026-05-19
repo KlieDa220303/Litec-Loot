@@ -10,7 +10,7 @@ const { title = "Litec-Loot" } = Astro.props;
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="en" class="transition-colors duration-300">
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -19,22 +19,31 @@ const { title = "Litec-Loot" } = Astro.props;
 	</head>
 	<body class="bg-gray-50 min-h-screen">
 		<header class="bg-indigo-600 text-white py-2 shadow-md">
-			<div class="container mx-auto flex justify-between items-center">
+			<div class="container mx-auto flex flex-wrap justify-between items-center gap-4">
 				<a href="/">
 					<img src="/litec-loot-logo-white.svg" alt="Litec-Loot-Logo" class="h-16 w-auto" />
 				</a>
-				<nav>
-					<ul class="flex space-x-6">
-						<li>
-							<a href="/" class="hover:underline">Products</a>
-						</li>
-						<li>
-							<a href="/stats" class="hover:underline"
-								>Statistics</a
-							>
-						</li>
-					</ul>
-				</nav>
+				<div class="flex items-center gap-4">
+					<nav>
+						<ul class="flex space-x-6">
+							<li>
+								<a href="/" class="hover:underline">Products</a>
+							</li>
+							<li>
+								<a href="/stats" class="hover:underline">Statistics</a>
+							</li>
+						</ul>
+					</nav>
+					<button
+						id="theme-toggle"
+						type="button"
+						class="ml-4 inline-flex items-center gap-2 rounded-full border border-white/20 bg-white/10 px-4 py-2 text-sm font-medium text-white transition hover:bg-white/20"
+						aria-label="Toggle dark mode"
+					>
+						<span id="theme-toggle-icon">🌙</span>
+						<span id="theme-toggle-text">Dark Mode</span>
+					</button>
+				</div>
 			</div>
 		</header>
 
@@ -43,5 +52,39 @@ const { title = "Litec-Loot" } = Astro.props;
 		</main>
 
 		<Footer />
+
+		<script>
+			const themeToggle = document.getElementById('theme-toggle');
+			const themeIcon = document.getElementById('theme-toggle-icon');
+			const themeText = document.getElementById('theme-toggle-text');
+			const darkClass = 'dark';
+			const storageKey = 'litec-loot-theme';
+
+			function updateButton(isDark) {
+				themeIcon.textContent = isDark ? '☀️' : '🌙';
+				themeText.textContent = isDark ? 'Light Mode' : 'Dark Mode';
+			}
+
+			function applyTheme(isDark) {
+				document.documentElement.classList.toggle(darkClass, isDark);
+				updateButton(isDark);
+				localStorage.setItem(storageKey, isDark ? 'dark' : 'light');
+			}
+
+			function loadTheme() {
+				const savedTheme = localStorage.getItem(storageKey);
+				const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+				const isDark = savedTheme ? savedTheme === 'dark' : prefersDark;
+				applyTheme(isDark);
+			}
+
+			if (themeToggle) {
+				themeToggle.addEventListener('click', () => {
+					applyTheme(!document.documentElement.classList.contains(darkClass));
+				});
+			}
+
+			loadTheme();
+		</script>
 	</body>
 </html>

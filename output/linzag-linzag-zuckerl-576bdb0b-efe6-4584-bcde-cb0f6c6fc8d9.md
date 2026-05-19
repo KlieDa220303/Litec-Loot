@@ -3,7 +3,7 @@ product: 'LinzAG Zuckerl'
 company: 'LinzAG'
 rating: 3
 category: 'Süßigkeiten'
-year: 2026
+year: 2025
 ---
 
 # LinzAG - LinzAG Zuckerl
@@ -13,4 +13,4 @@ year: 2026
 > Süßigkeiten
 
 ![LinzAG Zuckerl](./assets/linzag-linzag-zuckerl-576bdb0b-efe6-4584-bcde-cb0f6c6fc8d9.jpg)
-Süß
+A sweet branded treat from LinzAG, ideal as a tasty giveaway or small snack. Introduced in 2026, rated 3/10.

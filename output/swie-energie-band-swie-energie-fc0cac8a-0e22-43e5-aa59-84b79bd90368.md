@@ -3,7 +3,7 @@ product: 'Swie-Energie band'
 company: 'Swie-Energie'
 rating: 4
 category: 'Schlüsselanhänger'
-year: 2026
+year: 2025
 ---
 
 # Swie-Energie band - Swie-Energie
@@ -13,4 +13,4 @@ year: 2026
 > Schlüsselanhänger
 
 ![Swie-Energie](./assets/swie-energie-band-swie-energie-fc0cac8a-0e22-43e5-aa59-84b79bd90368.jpg)
-schlüsselanhänger band
+A stylish keychain accessory with Swie-Energie branding for keeping keys secure and easy to find. Introduced in 2026, rated 4/10.

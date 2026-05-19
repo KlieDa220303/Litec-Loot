@@ -3,7 +3,7 @@ product: 'Elmet Tzaubenzucker + Ständer'
 company: 'Elmet'
 rating: 6
 category: 'Süßigkeiten'
-year: 2026
+year: 2025
 ---
 
 # Elmet - Elmet Tzaubenzucker + Ständer
@@ -13,4 +13,4 @@ year: 2026
 > Süßigkeiten
 
 ![Elmet Tzaubenzucker + Ständer](./assets/elmet-elmet-tzaubenzucker--ständer-99e3d80b-4573-4e2b-b6aa-890bc6ed5b64.jpg)
-2 in einem
+A sweet branded treat from Elmet, ideal as a tasty giveaway or small snack. Introduced in 2026, rated 6/10.

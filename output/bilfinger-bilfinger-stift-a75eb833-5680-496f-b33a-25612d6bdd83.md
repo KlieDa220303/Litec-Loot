@@ -3,7 +3,7 @@ product: 'Bilfinger Stift'
 company: 'Bilfinger'
 rating: 5
 category: 'Stift'
-year: 2026
+year: 2025
 ---
 
 # Bilfinger - Bilfinger Stift
@@ -13,4 +13,4 @@ year: 2026
 > Stift
 
 ![Bilfinger Stift](./assets/bilfinger-bilfinger-stift-a75eb833-5680-496f-b33a-25612d6bdd83.jpg)
-A promotional pen branded with Bilfinger. Practical writing instrument suitable for everyday use, featuring the company's branding.
+A premium promotional pen from Bilfinger that feels comfortable in hand and looks professional. Introduced in 2026, rated 5/10.

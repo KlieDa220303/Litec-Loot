@@ -3,7 +3,7 @@ product: 'Schwingshandel Flasche'
 company: 'Schwingshandel'
 rating: 6
 category: 'Getränk'
-year: 2026
+year: 2025
 ---
 
 # Schwingshandel - Schwingshandel Flasche
@@ -13,4 +13,4 @@ year: 2026
 > Getränk
 
 ![Schwingshandel Flasche](./assets/schwingshandel-schwingshandel-flasche-ecb2fb2e-2af9-403d-a68f-c783fbb77bf1.jpg)
-plastikflasche
+A refreshing branded drink that makes a nice break during the workday. Introduced in 2026, rated 6/10.

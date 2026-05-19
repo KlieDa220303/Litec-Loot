@@ -3,7 +3,7 @@ product: 'Voesalpine Block'
 company: 'Voestalpine'
 rating: 4
 category: 'Block'
-year: 2026
+year: 2025
 ---
 
 # Voestalpine - Voesalpine Block
@@ -13,4 +13,4 @@ year: 2026
 > Block
 
 ![Voesalpine Block](./assets/voestalpine-voesalpine-block-c392dada-aebd-48fa-99e4-4908cc6f4eca.jpg)
-standard
+A handy notepad from Voestalpine for jotting down ideas, tasks and quick reminders. Introduced in 2026, rated 4/10.

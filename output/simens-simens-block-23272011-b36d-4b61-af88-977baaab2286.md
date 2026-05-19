@@ -3,7 +3,7 @@ product: 'Simens Block'
 company: 'Simens'
 rating: 3
 category: 'Block'
-year: 2026
+year: 2025
 ---
 
 # Simens - Simens Block
@@ -13,4 +13,4 @@ year: 2026
 > Block
 
 ![Simens Block](./assets/simens-simens-block-23272011-b36d-4b61-af88-977baaab2286.jpg)
-Block
+A handy notepad from Simens for jotting down ideas, tasks and quick reminders. Introduced in 2026, rated 3/10.

@@ -3,7 +3,7 @@ product: 'Riegler Geodreieck'
 company: 'Riegler'
 rating: 6
 category: 'Messzeug'
-year: 2026
+year: 2025
 ---
 
 # Riegler - Riegler Geodreieck
@@ -13,4 +13,4 @@ year: 2026
 > Messzeug
 
 ![Riegler Geodreieck](./assets/riegler-riegler-geodreieck-09784b08-b345-42f9-ac19-54a8e3537251.jpg)
-zum messen und so
+Useful for quick measurements, this branded tool is a smart addition to any workspace. Introduced in 2026, rated 6/10.

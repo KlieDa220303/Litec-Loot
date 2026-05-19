@@ -3,7 +3,7 @@ product: 'Wolf gummibären'
 company: 'Wolf'
 rating: 3
 category: 'Süßigkeiten'
-year: 2026
+year: 2025
 ---
 
 # Wolf - Wolf gummib�ren
@@ -13,4 +13,4 @@ year: 2026
 > Süßigkeiten
 
 ![Wolf gummibären](./assets/wolf-wolf-gummibären-ee60b9e0-9f30-4e64-9cad-60212987b92d.jpg)
-Gummibären
+A colorful snack with Wolf branding that adds a little reward to the day. Introduced in 2026, rated 3/10.

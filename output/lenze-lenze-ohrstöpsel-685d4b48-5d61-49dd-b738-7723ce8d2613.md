@@ -3,7 +3,7 @@ product: 'Lenze Ohrstöpsel'
 company: 'Lenze'
 rating: 7
 category: 'Anderes'
-year: 2026
+year: 2025
 ---
 
 # Lenze - Lenze Ohrstöpsel
@@ -13,4 +13,4 @@ year: 2026
 > Anderes
 
 ![Lenze Ohrstöpsel](./assets/lenze-lenze-ohrstöpsel-685d4b48-5d61-49dd-b738-7723ce8d2613.jpg)
-Ohrstöpsel
+This branded piece stands out as a useful and memorable giveaway. Introduced in 2026, rated 7/10.

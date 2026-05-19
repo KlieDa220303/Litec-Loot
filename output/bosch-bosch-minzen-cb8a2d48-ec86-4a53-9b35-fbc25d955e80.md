@@ -3,7 +3,7 @@ product: 'Bosch Minzen'
 company: 'Bosch'
 rating: 4
 category: 'Süßigkeiten'
-year: 2026
+year: 2025
 ---
 
 # Bosch - Bosch Minzen
@@ -13,4 +13,4 @@ year: 2026
 > Süßigkeiten
 
 ![Bosch Minzen](./assets/bosch-bosch-minzen-cb8a2d48-ec86-4a53-9b35-fbc25d955e80.jpg)
-Promotional candy from Bosch. A sweet treat featuring the company's branding.
+A sweet branded treat from Bosch, ideal as a tasty giveaway or small snack. Introduced in 2026, rated 4/10.

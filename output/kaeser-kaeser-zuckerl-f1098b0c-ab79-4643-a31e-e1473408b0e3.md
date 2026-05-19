@@ -3,7 +3,7 @@ product: 'Kaeser Zuckerl'
 company: 'Kaeser'
 rating: 2
 category: 'Süßigkeiten'
-year: 2026
+year: 2025
 ---
 
 # Kaeser - Kaeser Zuckerl
@@ -13,4 +13,4 @@ year: 2026
 > Süßigkeiten
 
 ![Kaeser Zuckerl](./assets/kaeser-kaeser-zuckerl-f1098b0c-ab79-4643-a31e-e1473408b0e3.jpg)
-klein aber fein
+A sweet branded treat from Kaeser, ideal as a tasty giveaway or small snack. Introduced in 2026, rated 2/10.

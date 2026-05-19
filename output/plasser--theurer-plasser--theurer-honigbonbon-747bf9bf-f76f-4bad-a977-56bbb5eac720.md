@@ -3,7 +3,7 @@ product: 'Plasser & Theurer Honigbonbon'
 company: 'Plasser & Theurer'
 rating: 7
 category: 'Süßigkeiten'
-year: 2026
+year: 2025
 ---
 
 # Plasser & Theurer - Plasser & Theurer Honigbonbon
@@ -13,4 +13,4 @@ year: 2026
 > Süßigkeiten
 
 ![Plasser & Theurer Honigbonbon](./assets/plasser--theurer-plasser--theurer-honigbonbon-747bf9bf-f76f-4bad-a977-56bbb5eac720.jpg)
-Gut für den Hals
+A colorful snack with Plasser & Theurer branding that adds a little reward to the day. Introduced in 2026, rated 7/10.

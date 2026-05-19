@@ -3,7 +3,7 @@ product: 'Grob Spielkarten'
 company: 'Grob'
 rating: 7
 category: 'spielzeug'
-year: 2026
+year: 2025
 ---
 
 # Brob - Grob Spielkarten
@@ -13,4 +13,4 @@ year: 2026
 > spielzeug
 
 ![Grob Spielkarten](./assets/brob-grob-spielkarten-aa74f5bd-6a7e-483f-b46a-d61ec6aacdcb.jpg)
-A deck of playing cards from Grob. Entertainment item with company branding.
+A versatile promotional product that keeps the brand present in daily life. Introduced in 2026, rated 7/10.

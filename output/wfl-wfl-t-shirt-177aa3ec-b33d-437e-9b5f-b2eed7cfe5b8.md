@@ -3,7 +3,7 @@ product: 'Wfl T-Shirt'
 company: 'WFL'
 rating: 7
 category: 'Kleidung'
-year: 2026
+year: 2025
 ---
 
 # WFL - Wfl T-Shirt
@@ -13,4 +13,4 @@ year: 2026
 > Kleidung
 
 ![Wfl T-Shirt](./assets/wfl-wfl-t-shirt-177aa3ec-b33d-437e-9b5f-b2eed7cfe5b8.jpg)
-wasser t-shirt
+A promotional garment designed for events, staff or giveaways with strong brand impact. Introduced in 2026, rated 7/10.

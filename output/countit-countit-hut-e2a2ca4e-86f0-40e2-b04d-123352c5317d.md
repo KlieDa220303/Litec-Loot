@@ -3,7 +3,7 @@ product: 'Count IT hut'
 company: 'Count IT'
 rating: 8
 category: 'Kleidung'
-year: 2026
+year: 2025
 ---
 
 # CountIT - CountIT hut
@@ -13,4 +13,4 @@ year: 2026
 > Kleidung
 
 ![CountIT hut](./assets/countit-countit-hut-e2a2ca4e-86f0-40e2-b04d-123352c5317d.jpg)
-A promotional hat from Count IT. Comfortable headwear featuring the company's branding.
+A promotional garment designed for events, staff or giveaways with strong brand impact. Introduced in 2026, rated 8/10.

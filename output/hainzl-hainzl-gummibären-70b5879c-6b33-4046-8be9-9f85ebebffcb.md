@@ -3,7 +3,7 @@ product: 'Hainzl Gummibären'
 company: 'Hainzl'
 rating: 4
 category: 'Süßigkeiten'
-year: 2026
+year: 2025
 ---
 
 # Hainzl - Hainzl Gummibären
@@ -13,4 +13,4 @@ year: 2026
 > Süßigkeiten
 
 ![Hainzl Gummibären](./assets/hainzl-hainzl-gummibären-70b5879c-6b33-4046-8be9-9f85ebebffcb.jpg)
-gummige bären
+A colorful snack with Hainzl branding that adds a little reward to the day. Introduced in 2026, rated 4/10.

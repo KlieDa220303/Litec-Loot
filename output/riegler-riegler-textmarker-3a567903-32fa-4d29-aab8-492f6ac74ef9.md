@@ -3,7 +3,7 @@ product: 'Riegler Textmarker'
 company: 'Riegler'
 rating: 7
 category: 'Stift'
-year: 2026
+year: 2025
 ---
 
 # Riegler - Riegler Textmarker
@@ -13,4 +13,4 @@ year: 2026
 > Stift
 
 ![Riegler Textmarker](./assets/riegler-riegler-textmarker-3a567903-32fa-4d29-aab8-492f6ac74ef9.jpg)
-3 eckiger textmarker
+Riegler Textmarker is a smooth-writing branded pen crafted for clear notes and everyday use. Introduced in 2026, rated 7/10.

@@ -3,7 +3,7 @@ product: 'Wacker Neuson Gummibären'
 company: 'Wacker Neuson'
 rating: 5
 category: 'Süßigkeiten'
-year: 2026
+year: 2025
 ---
 
 # Wacker Neuson - Wacker Neuson Gummibären
@@ -13,4 +13,4 @@ year: 2026
 > Süßigkeiten
 
 ![Wacker Neuson Gummibären](./assets/wacker-neuson-wacker-neuson-gummibären-fa4421e9-54c0-46f8-9c8f-87733d7fffb0.jpg)
-Gummig
+A sweet branded treat from Wacker Neuson, ideal as a tasty giveaway or small snack. Introduced in 2026, rated 5/10.

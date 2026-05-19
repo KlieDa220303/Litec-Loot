@@ -3,7 +3,7 @@ product: 'Voestalpine Socken'
 company: 'Voestalpine'
 rating: 8
 category: 'Kliedung'
-year: 2026
+year: 2025
 ---
 
 # Voestalpine - Voestalpine Socken
@@ -13,4 +13,4 @@ year: 2026
 > Kliedung
 
 ![Voestalpine Socken](./assets/voestalpine-voestalpine-socken-ab6105a5-ed82-4fe7-8f65-045e60dfbc0f.jpg)
-zum für die füße
+A versatile promotional product that keeps the brand present in daily life. Introduced in 2026, rated 8/10.

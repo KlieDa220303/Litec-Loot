@@ -3,7 +3,7 @@ product: 'Dynell kugelschreiber'
 company: 'Dynell'
 rating: 6
 category: 'Stift'
-year: 2026
+year: 2025
 ---
 
 # Dynell - Dynell kugelschreiber
@@ -13,4 +13,4 @@ year: 2026
 > Stift
 
 ![Dynell kugelschreiber](./assets/dynell-dynell-kugelschreiber-a7a38745-82ae-4abd-823b-52086c29ff14.jpg)
-A promotional pen branded with Dynell. Practical writing instrument suitable for everyday use, featuring the company's branding.
+Dynell kugelschreiber delivers dependable ink flow and a sleek design, perfect for meetings and on-the-go writing. Introduced in 2026, rated 6/10.

@@ -3,7 +3,7 @@ product: 'Pfanner Saft'
 company: 'Pfanner'
 rating: 7
 category: 'Getränke'
-year: 2026
+year: 2025
 ---
 
 # Pfanner - Pfanner Saft
@@ -13,4 +13,4 @@ year: 2026
 > Getränke
 
 ![Pfanner Saft](./assets/pfanner-pfanner-saft-9ea69e9a-4149-477e-9d0e-4f859fd1dd89.jpg)
-yum
+This beverage item delivers a quick refresh with a subtle brand presence. Introduced in 2026, rated 7/10.

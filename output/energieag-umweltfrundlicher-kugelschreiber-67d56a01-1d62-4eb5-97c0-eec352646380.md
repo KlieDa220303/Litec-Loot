@@ -3,7 +3,7 @@ product: 'Umweltfrundlicher Kugelschreiber'
 company: 'EnergieAG'
 rating: 4
 category: 'Stift'
-year: 2026
+year: 2025
 ---
 
 # EnergieAG - Umweltfrundlicher Kugelschreiber
@@ -13,4 +13,4 @@ year: 2026
 > Stift
 
 ![Umweltfrundlicher Kugelschreiber](./assets/energieag-umweltfrundlicher-kugelschreiber-67d56a01-1d62-4eb5-97c0-eec352646380.jpg)
-umweltfreundlich schreiben
+Umweltfrundlicher Kugelschreiber delivers dependable ink flow and a sleek design, perfect for meetings and on-the-go writing. Introduced in 2026, rated 4/10.

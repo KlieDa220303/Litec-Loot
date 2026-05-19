@@ -3,7 +3,7 @@ product: 'Altmüller stift'
 company: 'Altmüller'
 rating: 6
 category: 'Stift'
-year: 2026
+year: 2025
 ---
 
 # Altmüller - Altmüller stift
@@ -13,4 +13,4 @@ year: 2026
 > Stift
 
 ![Altmüller stift](./assets/altmüller-altmüller-stift-906ff316-ea1f-4c10-8f25-3ce2d2fa0940.jpg)
-A promotional pen branded with Altmüller. Practical writing instrument suitable for everyday use, featuring the company's branding.
+Altmüller stift delivers dependable ink flow and a sleek design, perfect for meetings and on-the-go writing. Introduced in 2026, rated 6/10.

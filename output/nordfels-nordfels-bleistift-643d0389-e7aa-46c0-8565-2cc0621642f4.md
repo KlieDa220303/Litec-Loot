@@ -3,7 +3,7 @@ product: 'Nordfels Bleistift'
 company: 'Nordfels'
 rating: 5
 category: 'Stift'
-year: 2026
+year: 2025
 ---
 
 # Nordfels - Nordfels Bleistift
@@ -13,4 +13,4 @@ year: 2026
 > Stift
 
 ![Nordfels Bleistift](./assets/nordfels-nordfels-bleistift-643d0389-e7aa-46c0-8565-2cc0621642f4.jpg)
-Aus Blei
+A premium promotional pen from Nordfels that feels comfortable in hand and looks professional. Introduced in 2026, rated 5/10.

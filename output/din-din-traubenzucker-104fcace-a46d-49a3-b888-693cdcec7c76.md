@@ -3,7 +3,7 @@ product: 'Din Traubenzucker'
 company: 'DIN'
 rating: 3
 category: 'Süßigkeiten'
-year: 2026
+year: 2025
 ---
 
 # DIN - Din Traubenzucker
@@ -13,4 +13,4 @@ year: 2026
 > Süßigkeiten
 
 ![Din Traubenzucker](./assets/din-din-traubenzucker-104fcace-a46d-49a3-b888-693cdcec7c76.jpg)
-Promotional candy from DIN. A sweet treat featuring the company's branding.
+These candy items bring a playful brand touch to your breaks and event goodie bags. Introduced in 2026, rated 3/10.
