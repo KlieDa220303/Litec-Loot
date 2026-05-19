@@ -31,8 +31,12 @@ html.dark .bg-gray-50 {
   background-color: #0f172a !important;
 }
 
+html.dark .bg-gray-100 {
+  background-color: #2b3a5f !important;
+}
+
 html.dark .bg-white {
-  background-color: #0f172a !important;
+  background-color: #192a54 !important;
 }
 
 html.dark .bg-indigo-600 {
@@ -45,6 +49,10 @@ html.dark .text-gray-900 {
 
 html.dark .text-gray-700 {
   color: #cbd5e1 !important;
+}
+
+html.dark .text-gray-600 {
+  color: #dee6ef !important;
 }
 
 html.dark .border-gray-200 {
