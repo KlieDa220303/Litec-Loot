@@ -12,5 +12,5 @@ year: 2025
 >
 > Stift
 
-![E Punkt Stift](./assets/e-punkt-e-punkt-regenschirm-104fdcd2-ded6-4e5f-b6a2-255a1fb879c9 copy.jpg)
+![E Punkt Stift](./assets/e-punkt-e-punkt-stift-104fdcd2-ded6-4e5f-b6a2-255a1fb879c9.jpg)
 E Punkt stift delivers dependable ink flow and a sleek design, perfect for meetings and on-the-go writing. Introduced in 2025, rated 6/10.

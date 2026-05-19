@@ -5,13 +5,13 @@
     "": {
       "name": "web",
       "dependencies": {
-        "@astrojs/sitemap": "^3.4.0",
-        "@tailwindcss/vite": "^4.1.7",
-        "astro": "^5.7.13",
-        "tailwindcss": "^4.1.7",
+        "@astrojs/sitemap": "^3.7.2",
+        "@tailwindcss/vite": "^4.3.0",
+        "astro": "^5.18.1",
+        "tailwindcss": "^4.3.0",
       },
       "devDependencies": {
-        "@tailwindcss/typography": "^0.5.16",
+        "@tailwindcss/typography": "^0.5.19",
       },
     },
   },
