@@ -62,3 +62,19 @@ html.dark .bg-indigo-50 {
 html.dark .bg-white\/10 {
   background-color: rgba(255, 255, 255, 0.1) !important;
 }
+
+html.dark h1 {
+  color: #ffffff !important;
+}
+
+html.dark h2 {
+  color: #e2e8f0 !important;
+}
+
+html.dark h3 {
+  color: #cbd5e1 !important;
+}
+
+html.dark p {
+  color: #94a3b8 !important;
+}
