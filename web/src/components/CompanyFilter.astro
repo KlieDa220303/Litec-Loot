@@ -119,4 +119,10 @@ const INITIAL_COUNT = 5;
 
     // Restore UI
     updateCompanyUI();
+
+    window.filterResetHandlers = window.filterResetHandlers || [];
+    window.filterResetHandlers.push(() => {
+        selectedCompanies.clear();
+        updateCompanyUI();
+    });
 </script>

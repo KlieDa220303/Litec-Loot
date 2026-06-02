@@ -79,4 +79,10 @@ const years = Object.entries(yearMap).sort((a, b) => parseInt(b[0]) - parseInt(a
 
     // Restore UI state
     updateYearUI();
+
+    window.filterResetHandlers = window.filterResetHandlers || [];
+    window.filterResetHandlers.push(() => {
+        selectedYears.clear();
+        updateYearUI();
+    });
 </script>

@@ -132,4 +132,10 @@ const INITIAL_COUNT = 5;
         saved.categories.forEach(c => selectedCategories.add(c));
         updateCategoryUI();
     }
+
+    window.filterResetHandlers = window.filterResetHandlers || [];
+    window.filterResetHandlers.push(() => {
+        selectedCategories.clear();
+        updateCategoryUI();
+    });
 </script>

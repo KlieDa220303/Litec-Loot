@@ -18,6 +18,16 @@ const uniqueRatings = showRatingFilter
 ---
 
 <div class="mb-12 space-y-8">
+    <div class="flex justify-end">
+        <button
+            id="clear-filters-btn"
+            type="button"
+            class="px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200 transition-colors text-sm"
+        >
+            Clear filters
+        </button>
+    </div>
+
     <div id="basic-filters" class="space-y-8">
         <CategoryFilter products={products} />
 
@@ -44,5 +54,24 @@ const uniqueRatings = showRatingFilter
         }
     </div>
 </div>
+
+<script>
+    const clearFiltersBtn = document.getElementById('clear-filters-btn');
+    if (clearFiltersBtn) {
+        clearFiltersBtn.addEventListener('click', () => {
+            sessionStorage.removeItem('filters');
+            if (window.applyFilters) window.applyFilters({});
+            if (Array.isArray(window.filterResetHandlers)) {
+                window.filterResetHandlers.forEach((resetFn) => {
+                    try {
+                        resetFn();
+                    } catch (error) {
+                        console.error('Filter reset handler failed', error);
+                    }
+                });
+            }
+        });
+    }
+</script>
 
 
