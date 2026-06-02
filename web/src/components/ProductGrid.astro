@@ -139,4 +139,57 @@ const { products, title, itemsPerPage = 20 } = Astro.props;
     });
 
     document.getElementById("total-pages").textContent = totalPages;
+
+    // Expose a global filter function for other components
+    window.applyFilters = function(filters) {
+        const grid = document.getElementById("product-grid");
+        const prevBtn = document.getElementById('prev-btn');
+        const nextBtn = document.getElementById('next-btn');
+        const pageInfo = document.getElementById('page-info');
+
+        // If no filters, restore paginated view
+        const hasAnyFilter = (filters && ((filters.categories && filters.categories.length) || (filters.companies && filters.companies.length) || (filters.years && filters.years.length)));
+        if (!hasAnyFilter) {
+            // show pagination
+            if (prevBtn) prevBtn.style.display = '';
+            if (nextBtn) nextBtn.style.display = '';
+            if (pageInfo) pageInfo.style.display = '';
+            renderPage(currentPage);
+            return;
+        }
+
+        // Filter products
+        const filtered = allProducts.filter(p => {
+            const matchCategory = !filters.categories || filters.categories.length === 0 || filters.categories.includes(p.data.category);
+            const matchCompany = !filters.companies || filters.companies.length === 0 || filters.companies.includes(p.data.company);
+            const matchYear = !filters.years || filters.years.length === 0 || filters.years.includes(String(p.data.year));
+            return matchCategory && matchCompany && matchYear;
+        });
+
+        // Sort so matching categories come first (no-op if none)
+        // (keeping stable ordering otherwise)
+
+        grid.innerHTML = '';
+        if (filtered.length === 0) {
+            grid.innerHTML = '<p class="text-gray-500 text-center py-10 col-span-full">No products found.</p>';
+        } else {
+            filtered.forEach(product => {
+                const card = createProductCard(product);
+                grid.appendChild(card);
+            });
+        }
+
+        if (prevBtn) prevBtn.style.display = 'none';
+        if (nextBtn) nextBtn.style.display = 'none';
+        if (pageInfo) pageInfo.style.display = 'none';
+    }
+
+    // On load, if there are saved filters, apply them
+    const savedFilters = JSON.parse(sessionStorage.getItem('filters') || '{}');
+    const hasSaved = savedFilters && ((savedFilters.categories && savedFilters.categories.length) || (savedFilters.companies && savedFilters.companies.length) || (savedFilters.years && savedFilters.years.length));
+    if (hasSaved) {
+        window.applyFilters(savedFilters);
+    } else {
+        renderPage(currentPage);
+    }
 </script>

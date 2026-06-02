@@ -1,3 +1,290 @@
 ---
+import type { CollectionEntry } from "astro:content";
 
+export interface Props {
+    products: CollectionEntry<"products">[];
+}
+
+const { products } = Astro.props;
+
+// Extract unique values for dropdowns
+const categories = [...new Set(products.map((p) => p.data.category))].sort();
+const companies = [...new Set(products.map((p) => p.data.company))].sort();
+const years = [...new Set(products.map((p) => p.data.year))].filter(Boolean).sort((a, b) => b - a);
 ---
+
+<div id="advanced-filter" class="hidden bg-white rounded-lg shadow-md p-6 mb-8">
+    <h2 class="text-xl font-semibold mb-6">Advanced Filter</h2>
+    
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+        {/* Category Multi-select (clickable badges) */}
+        <div>
+            <label class="block text-sm font-medium text-gray-700 mb-2">
+                Category
+            </label>
+            <div id="filter-category" class="w-full px-3 py-2 border border-gray-300 rounded-lg bg-white dark:bg-gray-800 dark:border-gray-600">
+                <div class="flex flex-wrap gap-2">
+                    {
+                        categories.map((category) => (
+                            <button
+                                type="button"
+                                data-category={category}
+                                class="category-item px-3 py-1 text-sm rounded-md border border-transparent text-gray-700 bg-transparent hover:bg-gray-100 dark:text-white"
+                                aria-pressed="false"
+                            >
+                                <span class="category-label">{category}</span>
+                                <span class="category-check ml-2 hidden">✓</span>
+                            </button>
+                        ))
+                    }
+                </div>
+            </div>
+            <p id="selected-cats" class="mt-2 text-xs text-gray-500"></p>
+        </div>
+
+        {/* Company Dropdown */}
+        <div>
+            <label for="filter-company" class="block text-sm font-medium text-gray-700 mb-2">
+                Company
+            </label>
+            <select 
+                id="filter-company"
+                class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent text-black bg-white dark:text-white dark:bg-gray-800 dark:border-gray-600"
+            >
+                <option value="">All Companies</option>
+                {
+                    companies.map((company) => (
+                        <option value={company}>{company}</option>
+                    ))
+                }
+            </select>
+        </div>
+
+        {/* Year Dropdown */}
+        <div>
+            <label for="filter-year" class="block text-sm font-medium text-gray-700 mb-2">
+                Year
+            </label>
+            <select 
+                id="filter-year"
+                class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent text-black bg-white dark:text-white dark:bg-gray-800 dark:border-gray-600"
+            >
+                <option value="">All Years</option>
+                {
+                    years.map((year) => (
+                        <option value={year}>{year}</option>
+                    ))
+                }
+            </select>
+        </div>
+    </div>
+
+    {/* Action Buttons */}
+    <div class="flex gap-4">
+        <button 
+            id="apply-filter-btn"
+            class="px-6 py-2 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition-colors font-medium"
+        >
+            Apply Filter
+        </button>
+        <button 
+            id="reset-filter-btn"
+            class="px-6 py-2 bg-gray-300 text-gray-700 rounded-lg hover:bg-gray-400 transition-colors font-medium"
+        >
+            Reset
+        </button>
+    </div>
+</div>
+
+<script define:vars={{ products: JSON.stringify(products) }}>
+    const allProducts = JSON.parse(products);
+    
+    let filterCategory = null;
+    let selectedCategories = new Set();
+    let filterCompany = null;
+    let filterYear = null;
+    let applyBtn = null;
+    let resetBtn = null;
+    let productGrid = null;
+
+    // Wait for elements to be available
+    function initializeFilter() {
+        filterCategory = document.getElementById('filter-category');
+        filterCompany = document.getElementById('filter-company');
+        filterYear = document.getElementById('filter-year');
+        applyBtn = document.getElementById('apply-filter-btn');
+        resetBtn = document.getElementById('reset-filter-btn');
+        productGrid = document.getElementById('product-grid');
+
+        if (!productGrid) {
+            // Retry after a short delay
+            setTimeout(initializeFilter, 100);
+            return;
+        }
+
+        console.log('Advanced Filter initialized');
+        console.log('Total products:', allProducts.length);
+        console.log('Product grid found:', !!productGrid);
+
+        setupEventListeners();
+
+        // Restore filter state if exists
+        const savedState = sessionStorage.getItem('advancedFilterState');
+        if (savedState) {
+            const state = JSON.parse(savedState);
+            // Restore selected categories (array)
+            if (state.categories && Array.isArray(state.categories)) {
+                state.categories.forEach(c => selectedCategories.add(c));
+                refreshCategoryUI();
+            }
+            if (state.company) filterCompany.value = state.company;
+            if (state.year) filterYear.value = state.year;
+            applyFilter();
+        }
+    }
+
+    function setupEventListeners() {
+        if (applyBtn) applyBtn.addEventListener('click', applyFilter);
+        if (resetBtn) resetBtn.addEventListener('click', resetFilter);
+
+        // Category click handling (delegated)
+        if (filterCategory) {
+            filterCategory.addEventListener('click', (e) => {
+                const btn = e.target.closest && e.target.closest('.category-item');
+                if (!btn) return;
+                const cat = btn.getAttribute('data-category');
+                if (!cat) return;
+                if (selectedCategories.has(cat)) selectedCategories.delete(cat);
+                else selectedCategories.add(cat);
+                refreshCategoryUI();
+            });
+        }
+    }
+
+
+    function applyFilter() {
+        const selectedCompany = filterCompany.value;
+        const selectedYear = filterYear.value;
+
+        console.log('Filter applied:', { selectedCategories: Array.from(selectedCategories), selectedCompany, selectedYear });
+
+        // Filter products based on selections
+        const filteredProducts = allProducts.filter(product => {
+            const matchCategory = selectedCategories.size === 0 || selectedCategories.has(product.data.category);
+            const matchCompany = !selectedCompany || product.data.company === selectedCompany;
+            const matchYear = !selectedYear || product.data.year === parseInt(selectedYear);
+
+            return matchCategory && matchCompany && matchYear;
+        });
+
+        console.log('Filtered products:', filteredProducts.length);
+
+        // Update the grid
+        updateProductGrid(filteredProducts);
+
+        // Store filter state
+        sessionStorage.setItem('advancedFilterState', JSON.stringify({
+            categories: Array.from(selectedCategories),
+            company: selectedCompany,
+            year: selectedYear
+        }));
+    }
+
+    function resetFilter() {
+        filterCategory.value = '';
+        filterCompany.value = '';
+        filterYear.value = '';
+        sessionStorage.removeItem('advancedFilterState');
+        
+        // Reload page to reset everything properly
+        location.reload();
+    }
+
+    function updateProductGrid(filteredProducts) {
+        if (!productGrid) {
+            console.error('Product grid not found!');
+            return;
+        }
+
+        productGrid.innerHTML = '';
+
+        // Hide pagination when filtering
+        const prevBtn = document.getElementById('prev-btn');
+        const nextBtn = document.getElementById('next-btn');
+        const pageInfo = document.getElementById('page-info');
+        if (prevBtn) prevBtn.style.display = 'none';
+        if (nextBtn) nextBtn.style.display = 'none';
+        if (pageInfo) pageInfo.style.display = 'none';
+
+        if (filteredProducts.length === 0) {
+            productGrid.innerHTML = '<p class="text-gray-500 text-center py-10 col-span-full">No products found.</p>';
+            return;
+        }
+
+        filteredProducts.forEach(product => {
+            const card = document.createElement('div');
+            card.innerHTML = `
+                <div class="bg-white rounded-lg shadow-lg overflow-hidden transition-transform hover:scale-105">
+                    <a href="/product/${product.id}" class="block overflow-hidden bg-gray-100">
+                        <img
+                            src="/${product.id}.jpg"
+                            alt="${product.data.product}"
+                            class="w-full h-56 object-cover transition-transform duration-300 hover:scale-105"
+                            loading="lazy"
+                        />
+                    </a>
+                    <div class="p-5 relative">
+                        <a
+                            href="/rating/filter/${product.data.rating}"
+                            class="absolute top-2 right-2 bg-indigo-600 text-white rounded-full w-10 h-10 flex items-center justify-center font-bold"
+                        >
+                            ${product.data.rating}
+                        </a>
+                        <h2 class="text-xl font-bold mt-2 mb-3">
+                            <a href="/product/${product.id}" class="text-indigo-700 hover:underline">
+                                ${product.data.product}
+                            </a>
+                        </h2>
+                        <div class="flex flex-col space-y-2 text-sm text-gray-600">
+                            <div>
+                                <span class="font-medium">Company:</span>
+                                <a href="/company/${product.data.company}" class="text-indigo-600 hover:underline">
+                                    ${product.data.company}
+                                </a>
+                            </div>
+                            <div>
+                                <span class="font-medium">Category:</span>
+                                    <a href="/category/${product.data.category}" class="text-indigo-600 hover:underline category-link" data-category="${product.data.category}">
+                                        ${product.data.category}
+                                    </a>
+                            </div>
+                            <div>
+                                <span class="font-medium">Year:</span>
+                                ${product.data.year || 'N/A'}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `;
+            productGrid.appendChild(card);
+        });
+    }
+
+    // Export reset function globally so FilterSection can call it
+    window.resetAdvancedFilter = function() {
+        filterCategory.value = '';
+        filterCompany.value = '';
+        filterYear.value = '';
+        sessionStorage.removeItem('advancedFilterState');
+        
+        // Reload page to reset everything properly
+        location.reload();
+    };
+
+    // Start initialization when DOM is ready
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initializeFilter);
+    } else {
+        initializeFilter();
+    }
+</script>

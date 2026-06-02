@@ -31,14 +31,52 @@ const years = Object.entries(yearMap).sort((a, b) => parseInt(b[0]) - parseInt(a
             years.map(([year, count]) => (
                 <a
                     href={`/year/${year}`}
-                    class="bg-white border border-gray-200 rounded-full px-4 py-1 hover:bg-indigo-50 hover:border-indigo-300 transition-colors flex items-center"
+                    data-year={year}
+                    class="year-item bg-white border border-gray-200 rounded-full px-4 py-1 hover:bg-indigo-50 hover:border-indigo-300 transition-colors flex items-center"
                 >
-                    {year}
+                    <span class="year-name">{year}</span>
                     <span class="ml-2 bg-gray-100 px-2 py-0.5 rounded-full text-xs text-gray-600">
                         {count}
                     </span>
+                    <span class="year-check ml-2 hidden text-xs">✓</span>
                 </a>
             ))
         }
     </div>
 </div>
+
+<script>
+    // Multi-select behavior for years
+    const selectedYears = new Set((JSON.parse(sessionStorage.getItem('filters') || '{}').years) || []);
+    function updateYearUI() {
+        document.querySelectorAll('.year-item').forEach(el => {
+            const y = el.getAttribute('data-year');
+            const check = el.querySelector('.year-check');
+            if (selectedYears.has(y)) {
+                if (check) check.classList.remove('hidden');
+                el.classList.add('bg-indigo-50');
+            } else {
+                if (check) check.classList.add('hidden');
+                el.classList.remove('bg-indigo-50');
+            }
+        });
+    }
+
+    document.querySelectorAll('.year-item').forEach(el => {
+        el.addEventListener('click', (e) => {
+            e.preventDefault();
+            const y = el.getAttribute('data-year');
+            if (!y) return;
+            if (selectedYears.has(y)) selectedYears.delete(y);
+            else selectedYears.add(y);
+            const stored = JSON.parse(sessionStorage.getItem('filters') || '{}');
+            stored.years = Array.from(selectedYears);
+            sessionStorage.setItem('filters', JSON.stringify(stored));
+            updateYearUI();
+            if (window.applyFilters) window.applyFilters(stored);
+        });
+    });
+
+    // Restore UI state
+    updateYearUI();
+</script>
