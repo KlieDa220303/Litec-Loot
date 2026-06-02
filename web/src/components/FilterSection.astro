@@ -18,16 +18,6 @@ const uniqueRatings = showRatingFilter
 ---
 
 <div class="mb-12 space-y-8">
-    <div class="flex justify-end">
-        <button
-            id="clear-filters-btn"
-            type="button"
-            class="px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200 transition-colors text-sm"
-        >
-            Clear filters
-        </button>
-    </div>
-
     <div id="basic-filters" class="space-y-8">
         <CategoryFilter products={products} />
 
@@ -52,6 +42,16 @@ const uniqueRatings = showRatingFilter
                 </div>
             )
         }
+
+        <div class="flex justify-end pt-4">
+            <button
+                id="clear-filters-btn"
+                type="button"
+                class="px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200 transition-colors text-sm"
+            >
+                Clear filters
+            </button>
+        </div>
     </div>
 </div>
 
