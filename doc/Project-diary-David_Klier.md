@@ -19,6 +19,10 @@
 ### 14.04.2026
 - hab min steffan an lego roboter gearbeitet
 
+- workshop konzept erstellt
+
+- anfang beispiele erstellt
+
 ### 21.04.2026
 - am repo und einstellungen gearbeitet
 
@@ -29,8 +33,12 @@
 ### 28.4.2026
 - hab mit lego roboter gearbeitet
 
+- überarbeitungen
+
+- beispiele fertig
+
 ### 5.5.2026
-- hab den lego roboter workshop gehalten
+- hab den lego roboter workshop gehalten 
 
 - danach die seite nochmal reviewd
 
@@ -49,3 +57,15 @@
 
 ### 26.5.2026
 - diskussion über weitere features
+
+- worked on reworking filter system
+
+### 2.6.2026
+- hab am legoroboter mit kamera gearbeitet
+
+- lego kameraprogramm bis auf weiteres und testen fertig
+
+### 9.6.2026
+- hab alex umd mani bei ihrem projekt geholfen
+
+- stefan bei senen vorhaben helfen
