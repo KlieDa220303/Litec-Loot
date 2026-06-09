@@ -25,4 +25,14 @@
 - Today i updated the website by adding a button which turns the color scheme of the website into dark. I also ran a python code which changed the description of every product on the website. Today was a success and i finished what i wanted to finish today. Next week i will be working on an advanced searching system that allows users to filter the products with many categories and not just one at a time. I will also add a searching engine (if it work) which will allow users to search for any product.
 
 ### 26.05.2026
-- Today i worked on a new filter. It is the new advanced filter. This filter allows the visitors to search for a product by selecting more than one category.
+- Today i worked on a new filter. It is the new advanced filter. This filter allows the visitors to search for a product by selecting more than one category. Couldn't finish though
+
+### 02.06.2026
+- Today i finished the filter. It is now fully functioning. Everything i did:
+- Added AdvancedFilter component to allow users to filter products by category, company, and year.
+- Enhanced CategoryFilter, CompanyFilter, and YearFilter components to support multi-select functionality.
+- Updated FilterSection to include new filtering options.
+- Modified ProductGrid to apply filters and update the displayed products accordingly.
+
+### 09.06.2026
+- The project has been finished. Today i only continued the tutorial from where i left it. I learned how im supposed to ready myself before starting a new project. 😬
