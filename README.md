@@ -13,3 +13,5 @@ https://litec-loot.dakl.org/
 - [Ensar Yakut](doc/Project-diary-Ensar_Yakut.md)
 ### Quick manual
 - [Manual](doc/manual.md)
+### Additional stuff
+- [Ensars Journey](doc/Ensar-Yakuts-Journey.md)
